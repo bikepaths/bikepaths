@@ -8,9 +8,9 @@ export default function Home() {
   return (
     <div>
       <section className="hero">
-        <h1>Bikepaths</h1>
-        <p>A hybrid digital garden exploring the intersections of <strong>Society</strong>, <strong>Technology</strong>, and the <strong>Human Mind</strong>.</p>
-        <p style={{ fontSize: '0.9rem', marginTop: '1rem', opacity: 0.5 }}>Source of Truth: synced from 165.232.151.110</p>
+        <h1>bikepaths.org</h1>
+        <p><strong>Knowledge * Spirit * Culture * Growth</strong></p>
+        <p style={{ fontSize: '0.9rem', marginTop: '1rem', opacity: 0.5 }}>Synced from 165.232.151.110</p>
       </section>
 
       <div className="grid">
