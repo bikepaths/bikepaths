@@ -25,7 +25,7 @@ export default function RootLayout({
               <ul>
                 <li><Link href="/society">Society</Link></li>
                 <li><Link href="/technology">Technology</Link></li>
-                <li><Link href="/psychology">Psychology</Link></li>
+                <li><Link href="/mind">Mind</Link></li>
               </ul>
             </nav>
           </header>
