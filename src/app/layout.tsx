@@ -20,12 +20,19 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="container">
           <header>
-            <Link href="/" className="logo">BIKEPATHS</Link>
+            <Link href="https://bikepaths.org/blog" className="logo">bikepaths.org</Link>
             <nav>
               <ul>
-                <li><Link href="/society">Society</Link></li>
-                <li><Link href="/technology">Technology</Link></li>
-                <li><Link href="/mind">Mind</Link></li>
+                <li><Link href="https://bikepaths.org/blog/society">Society</Link></li>
+                <li><Link href="https://bikepaths.org/blog/technology">Technology</Link></li>
+                <li><Link href="https://bikepaths.org/blog/systems">Systems</Link></li>
+                <li><Link href="https://bikepaths.org/blog/society">Society</Link></li>
+                <li><Link href="https://bikepaths.org/blog/adventure">Adventure</Link></li>
+                <li><Link href="https://bikepaths.org/blog/health">Health</Link></li>
+                <li><Link href="https://bikepaths.org/blog/history">History</Link></li>
+                <li><Link href="https://bikepaths.org/blog/money">Money</Link></li>
+                <li><Link href="https://bikepaths.org/blog/skills">Skills</Link></li>
+                <li><Link href="https://bikepaths.org/blog/nature">Nature</Link></li>
               </ul>
             </nav>
           </header>
