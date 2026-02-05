@@ -11,8 +11,9 @@ export function generateStaticParams() {
     }));
 }
 
-export default function CategoryPage({ params }: { params: { category: string } }) {
-    const { category } = params;
+// Define params type as a Promise
+export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
+    const { category } = await params;
     const posts = getAllPosts().filter((p) => p.category === category);
 
     if (posts.length === 0) {

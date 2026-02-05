@@ -13,8 +13,9 @@ export function generateStaticParams() {
     }));
 }
 
-export default async function PostPage({ params }: { params: { category: string; slug: string } }) {
-    const { category, slug } = params;
+// Define params type as a Promise
+export default async function PostPage({ params }: { params: Promise<{ category: string; slug: string }> }) {
+    const { category, slug } = await params;
     const post = getPostBySlug(category, slug);
 
     if (!post) {
