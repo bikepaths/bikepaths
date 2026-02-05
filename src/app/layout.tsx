@@ -23,16 +23,16 @@ export default function RootLayout({
             <Link href="https://bikepaths.org/blog" className="logo">bikepaths.org</Link>
             <nav>
               <ul>
-                <li><Link href="https://bikepaths.org/blog/society">Society</Link></li>
-                <li><Link href="https://bikepaths.org/blog/technology">Technology</Link></li>
-                <li><Link href="https://bikepaths.org/blog/systems">Systems</Link></li>
-                <li><Link href="https://bikepaths.org/blog/society">Society</Link></li>
-                <li><Link href="https://bikepaths.org/blog/adventure">Adventure</Link></li>
-                <li><Link href="https://bikepaths.org/blog/health">Health</Link></li>
-                <li><Link href="https://bikepaths.org/blog/history">History</Link></li>
-                <li><Link href="https://bikepaths.org/blog/money">Money</Link></li>
-                <li><Link href="https://bikepaths.org/blog/skills">Skills</Link></li>
-                <li><Link href="https://bikepaths.org/blog/nature">Nature</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/society">Society</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/technology">Technology</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/systems">Systems</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/society">Society</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/adventure">Adventure</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/health">Health</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/history">History</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/money">Money</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/skills">Skills</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/nature">Nature</Link></li>
               </ul>
             </nav>
           </header>
