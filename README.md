@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bikepaths
 
-## Getting Started
+A hybrid digital garden exploring the intersections of society, technology, and the human mind.
 
-First, run the development server:
+## Architecture
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This repository is a **Hybrid Headless CMS**:
+- **Content**: The `blog/` directory acts as the "database." It is a direct mirror of the source of truth from the Bikepaths server.
+- **Code**: The root directory contains a Next.js (clean, minimalistic) web application that parses the markdown content at build time.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to View the Site
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Option 1: View Online (GitHub)
+You can browse the source code and raw content file directly on [GitHub](https://github.com/bikepaths/bikepaths).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Option 2: Run Locally
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+2. **Start Development Server**:
+   ```bash
+   npm run dev
+   ```
+3. **View**: Open `http://localhost:3000` in your browser.
 
-## Learn More
+### Option 3: Deploy to the Web (Recommended)
+Because this is a Next.js application, he easiest way to view the live site is to deploy it to **Vercel**:
 
-To learn more about Next.js, take a look at the following resources:
+1. Go to [Vercel.com](https://vercel.com) and sign up with GitHub.
+2. Click "Add New Project" -> "Import" and select the `bikepaths` repository.
+3. Click "Deploy".
+4. Your site will be live at `https://bikepaths.vercel.app` (or similar).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Every time you sync content from your remote server to GitHub (using our system script), Vercel will automatically rebuild the site with the new content.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Maintenance
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Content Sync**: Run `./scripts/sync_bikepaths_blog.sh` from your workspace to Update content from Remote -> Local -> GitHub.
+- **Clean Up**: Run `rm -rf node_modules .next` to save space when not developing locally.
