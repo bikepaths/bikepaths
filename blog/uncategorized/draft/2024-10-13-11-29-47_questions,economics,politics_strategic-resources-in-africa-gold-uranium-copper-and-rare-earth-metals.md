@@ -1,0 +1,14 @@
+<!--t African Strategic Resources: Gold, Uranium, Copper, and Rare Earth Metals t-->
+<!--d China and BRICS nations are increasing investments in gold, uranium, copper, and rare earth metals. By leveraging African infrastructure projects, particularly under the Belt and Road Initiative, China is securing critical resources for global supply chains, enhancing its influence in resource-rich regions. BRICS countries aim to reduce dependence on Western markets by dominating strategic minerals in Africa. d-->
+<!--tag Questions,Economics,Politics tag-->
+<!--image https://bikepaths.org/blog/content/images/bogart.png image-->
+
+As part of a broader strategy to secure essential resources, China and BRICS nations have increasingly turned to gold and precious metals along with strategic minerals like uranium, copper, and rare earth metals. Central banks in China and Russia and elsewhere have been ramping up their gold reserves, while private investors also begin accumulating precious metals as a hedge against global financial uncertainty. This economic strategy requires geopolitical positioning, particularly in resource-rich regions like Africa where China has solidified a substantial presence.
+
+China's foothold in African infrastructure is a deliberate, a part of its Belt and Road Initiative with access to significant investments in Africa. To establish a foothold, China has built roads, railways, ports, and energy projects. This presence creates an advantageous environment for Chinese firms to establish low-overhead mining operations, especially in areas rich in copper, uranium, and rare earth metals. These resources are critical for electronics, clean energy technologies, and the growing electric vehicle market. The lack of significant U.S. intervention in these regions has allowed China to deepen its foothold.
+
+Uranium is becoming an increasingly valuable asset in light of the global shift towards nuclear energy as a cleaner alternative to fossil fuels. As China aggressively expands its nuclear power capacity, securing uranium is a key priority. African nations like Niger and Namibia have been central to this push, as they hold some of the largest uranium deposits in the world. For the BRICS nations, which seek to reduce dependency on Western-dominated markets and resource supplies, having secure access to uranium is critical to energy independence.
+
+Rare earth metals are essential in everything from smartphones to advanced military technologies. China already controls the majority of global rare earth metal production, but the push for greater access to African deposits is part of a broader effort to maintain dominance in the global supply chain. Africa’s rare earth metal deposits are often found alongside copper and other base metals. They present a prime opportunity for BRICS nations to lock in resource control outside of Western oversight.
+
+---

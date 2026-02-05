@@ -1,0 +1,16 @@
+<!--t The Return of Physical Settlement: Gold and the New Reserve Architecture t-->
+<!--d An analysis of central bank accumulation trends, the BRICS gold-backed settlement pilot, and the mechanics of reserve revaluation in a post-treasury world. d-->
+<!--tag money,economics,governance,history,infrastructure,sovereignty tag-->
+<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+
+The architecture of global reserves is reverting to physical settlement. For decades, the US Treasury bond served as the primary instrument of sovereign savings. This era is concluding. In 2024, central banks acquired one thousand and forty-five metric tons of gold. This marks the third consecutive year of purchases exceeding the one-thousand-ton threshold. The motivation is not sentimental. It is structural. Sovereign nations are swapping credit risk for bearer assets.
+
+The center of gravity has shifted east. In October 2025, the BRICS bloc launched a pilot for a gold-backed settlement unit. This instrument is backed forty per cent by physical gold and sixty per cent by a basket of member currencies. It is designed for trade settlement, not consumer spending. This creates a closed loop where energy and commodities can be exchanged without touching the dollar system. The mechanism is live. The implications are global.
+
+China continues to lead this transition. By December 2025, the People's Bank of China reported its gold reserves at seventy-four million ounces. This represents fourteen consecutive months of accumulation. While reports in May 2024 suggested a pause in buying, analysis indicates that covert accumulation likely continued through proxy channels. The official numbers are a floor, not a ceiling. The strategic goal is to increase the gold share of foreign exchange reserves from the current eight per cent to a level that provides genuine immunity from sanctions.
+
+The mathematics of revaluation are stark. The US gold reserve currently covers only seven per cent of outstanding Treasuries. A return to the forty per cent coverage average would require a gold price of approximately sixteen thousand US dollars per ounce. If the ratio were to match the 1980 peak of one hundred and forty per cent, the price would exceed forty thousand US dollars. JPMorgan projects prices to average three thousand six hundred and seventy-five US dollars by late 2025. This is not hyperinflation. It is the accounting recognition of currency debasement.
+
+Silver faces a separate but related pressure. The market is in a structural deficit for the seventh consecutive year. Industrial demand now accounts for up to seventy per cent of annual supply, driven by advanced solar architectures and electric vehicle production. Prices broke past thirty-five US dollars in early 2025. Unlike gold, silver is consumed. The stockpiles are gone. The squeeze is mathematical.
+
+Investors must recognize the shift from nominal to real value. A twenty per cent allocation to physical metals is no longer a fringe hedge. It is a baseline requirement for portfolio survival. The central banks have already made their move. They are selling paper to buy metal. The signal is clear. Follow the smart money. Position accordingly.

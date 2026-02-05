@@ -1,0 +1,18 @@
+<!--t The Statistical Mirage: Agency, Mobility, and the Modern Crisis of Material Dignity t-->
+<!--d A sociological analysis of why historical homelessness counts dwarf modern figures, and what the shift toward &quot;sheltered&quot; homelessness reveals about the loss of individual agency in the 21st century. d-->
+<!--tag society,philosophy,economics,homelessness tag-->
+<!--image https://bikepaths.org/blog/content/images/scenes-549.jpg image-->
+
+Historical records show that homelessness was a common occurrence throughout the late 19th century. Data from the late 19th and early 20th centuries indicates high levels of displacement despite a much smaller national population. Records from 1880 and 1890 reveal that city police stations served as the primary shelters for the unhoused, providing beds for over 600,000 people. During this period, one in five American families had a member who relied on police lodging at some point. This historical baseline is much higher than the modern yearly sheltered count of 1.4 million when adjusted for population growth. For example, Chicago transient areas supported 75,000 people during the 1911 economic downturn, while modern reports cite only 5,400 unhoused residents today.
+
+These different figures hide a major change in how society views homelessness and movement. Historically, homelessness was often a part of moving for work rather than a permanent social problem. The workers and travelers known as hoboes before 1980 were part of the national labor force. They used short-term shelters as places to stay while moving toward new jobs. This way of life was often a choice based on economic goals and the search for work. Famous men like Jack Dempsey and Clark Gable lived this nomadic life as a normal part of their early years. Writers and leaders of the time often described the life of a traveler as heroic, framing the person as a self-reliant actor rather than a victim.
+
+The modern view has turned these diverse groups into a single identity defined by trauma and failure. Current discussions often group all unhoused experiences into one story of systemic victimhood. Celebrated people who once lived without homes now describe their past as a period of deep distress. This shift toward a social-service model has led to a loss of individual dignity. While the old way of life was often difficult, it recognized the unhoused person as a free agent navigating the economy toward a specific goal.
+
+Modern systems now focus on rules and control instead of individual freedom, turning the mobile traveler into a sheltered client. This change creates a false view of the data. While the raw number of people without homes seems lower today, the loss of personal power and dignity is much higher. The historical traveler took part in a high-risk economy that required resilience and adaptation. In contrast, the modern sheltered person is often caught in a cycle of institutional help and strict regulations.
+
+Restoring dignity requires a move away from the single story of homelessness. Changes in the data show a shift in social styles rather than an end to the crisis. Better solutions must go beyond simple sheltering to include options that respect the rights of the individual. We should measure success by the return of personal power rather than by the absolute number of people in the system. Future changes should allow people to navigate their own paths without losing their integrity to a bureaucratic system.
+
+*Analysis of data from: Eide, Stephen, [Homelessness in America : history and tragedy of an intractable social problem][1], Lanham : Rowman & Littlefield, [2022]*
+
+  [1]: https://amzn.to/45tYjkq

@@ -1,0 +1,12 @@
+<!--t The Compute Crunch: Chamath Palihapitiya on the Infrastructure of Intelligence t-->
+<!--d An analysis of Chamath Palihapitiya’s investment thesis, focusing on the critical role of energy and foundational infrastructure in the scaling of artificial intelligence. d-->
+<!--tag technology,money,systems,health,society tag-->
+<!--image https://bikepaths.org/blog/content/images/visuals-328.jpg image-->
+
+Many people think artificial intelligence grows through new code alone. However, a deeper look shows that the real limit is physical. This is the main idea of Chamath Palihapitiya, the founder of Social Capital. He believes that large language models are reaching the limits of power grids and computer chips. For AI to keep growing, the focus must shift. It is necessary to look at the "picks and shovels" of the digital age. This means changing how energy is created and computer resources are managed.
+
+Energy is now the main cost of growing intelligence. The data centres needed for training and running models use huge amounts of power. Palihapitiya notes that this need is forcing a return to basic infrastructure. More investments are going into nuclear power and advanced solar systems. New designs like small modular reactors are becoming important. Without a steady and large energy source, the promise of powerful AI cannot be met. This is a cold requirement for technical progress.
+
+The computer hardware is also changing. The time of general-purpose computers is being challenged by the need for custom chips. Many companies are now building their own specialised silicon. These chips, like Language Processing Units, are made for specific tasks. This design makes the hardware much more efficient. It lowers costs and makes the models faster. This is where the advantage lies today. By owning the bottom of the system, companies can avoid the limits of old designs.
+
+Finally, the trend is moving toward "vertical AI." The future is about deep focus. This involves using AI in tough sectors like healthcare and energy grids. The value lies in the private data and the systems that support it. Palihapitiya’s strategy shows that the best returns will go to those who build the tools that make AI possible. The compute crunch is a reason to innovate in the physical world.
