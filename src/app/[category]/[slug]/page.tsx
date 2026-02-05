@@ -29,7 +29,7 @@ export default async function PostPage({ params }: { params: Promise<{ category:
 
     return (
         <article>
-            <Link href={`/${category}`} className="back-link">← Back to {category}</Link>
+            <Link href={`https://bikepaths.org/blog/category/${category}`} className="back-link">← Back to {category}</Link>
 
             <header style={{ borderBottom: 'none', marginBottom: '1rem', paddingBottom: 0, justifyContent: 'flex-start', flexDirection: 'column', alignItems: 'flex-start' }}>
                 <div style={{ color: 'var(--primary)', textTransform: 'uppercase', fontSize: '0.9rem', marginBottom: '0.5rem', fontWeight: 'bold' }}>
