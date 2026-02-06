@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t The Jevons Paradox: Infinite Demand for Intelligence t-->
 <!--d An evaluation of the Jevons Paradox as applied to artificial intelligence. We explore how increased efficiency in cognitive labor drives exponential demand and a high-volume intelligence economy. d-->
 <!--tag technology,economics,systems,mind,future,logic,moral-physics tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-320.jpg image-->
-<!--gov htmly/system/technical_standards.md, htmly/composition/academic_writing_standards.md, htmly/workflows/sot_hardening_protocol.md gov-->
 
 This is a foundational exploration within the Moral Physics project. We examine the intersection of technological efficiency, economic feedback loops, and the individual's role as the primary anchor of a high-complexity system.
 

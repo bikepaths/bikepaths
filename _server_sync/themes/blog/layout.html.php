@@ -1,0 +1,218 @@
+<?php if (!defined('HTMLY')) die('HTMLy'); ?>
+<!DOCTYPE html>
+<html lang="<?php echo blog_language();?>">
+<head>
+    <?php echo head_contents();?>
+    <title><?php echo $title;?></title>
+    <meta name="description" content="<?php echo $description; ?>"/>
+    <link rel="canonical" href="<?php echo $canonical; ?>" />
+    <?php echo $metatags;?>
+    <link href="//fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic" rel="stylesheet" type="text/css">     
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="<?php echo theme_path();?>css/bootstrap.min.css">   
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="<?php echo theme_path();?>css/font-awesome.min.css">
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="<?php echo theme_path();?>css/styles.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <a rel="me" href="https://mastodon.social/@bikepaths"></a>
+    <meta name="fediverse:creator" content="@bikepaths@mastodon.social">
+    
+</head>
+<body class="<?php echo $bodyclass; ?>" itemscope="itemscope" itemtype="http://schema.org/Blog">
+<div class="hide">
+    <meta content="<?php echo blog_title() ?>" itemprop="name"/>
+    <meta content="<?php echo strip_tags(blog_description()); ?>" itemprop="description"/>
+</div>
+<?php if (facebook()) { echo facebook(); } ?>
+<?php if (login()) { toolbar(); } ?>
+    <!-- ******HEADER****** --> 
+    <header class="header">
+        <div class="container">                       
+            <div class="logo pull-left"><img class="logo-image" src="<?php echo theme_path();?>images/logo.png"/></div>
+            <div class="branding pull-left">
+                <?php if (is_index()) {?>
+                    <h1 class="name"><a href="<?php echo site_url();?>"><?php echo blog_title();?></a></h1>
+                <?php } else {?>
+                    <h2 class="name"><a href="<?php echo site_url();?>"><?php echo blog_title();?></a></h2>
+                <?php } ?>
+                <p class="desc"><?php echo blog_tagline();?></p>   
+                <?php echo social('social');?>
+            </div><!--//branding-->
+            <nav id="main-nav" class="main-nav navbar-right" role="navigation" > 
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div id="navbar" class="menu navbar-collapse collapse pull-right">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-search"></i></a>
+                            <div class="dropdown-menu searchbox" role="menu">
+                                <form id="search" class="navbar-form search" role="search">
+                                    <div class="input-group">
+                                    <input type="search" name="search" class="form-control" placeholder="Type to search">
+                                    <span class="input-group-btn"><button type="submit" class="btn btn-default btn-submit"><i class="fa fa-angle-right"></i></button></span>
+                                    </div>
+                                </form>
+                            </div>
+                        </li><!-- /.searchbox -->
+                    </ul>
+                    <?php echo menu('navbar-nav navbar-right');?>
+                </div>
+            </nav>
+        </div><!--//container-->
+    </header><!--//header-->
+    <div class="container sections-wrapper">
+        <div class="row">
+            <div class="primary col-md-8 col-sm-12 col-xs-12">
+            <?php echo content();?>
+            </div><!--//primary-->
+            <div class="secondary col-md-4 col-sm-12 col-xs-12">
+
+
+
+
+
+
+
+                <aside class="aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Subscribe</h2>
+                        <div class="content">
+                            <form action="/blog/signup.php" method="post">
+                                <div class="form-group">
+                                    <input type="email" name="email" class="form-control" placeholder="Enter your email">
+                                </div>
+                                <button type="submit" class="btn btn-primary btn-block">Subscribe</button>
+                            </form>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+
+                <aside class="aside section">
+                    <div class="section-inner">
+                        <h2 class="heading"><?php echo i18n("About");?></h2>
+                        <div class="content">
+                         <?php echo blog_description();?>                                  
+                        </div><!--//content-->  
+                    </div><!--//section-inner-->                 
+                </aside><!--//section-->
+
+
+
+
+
+
+
+
+                <aside class="recent-posts aside section">
+                    <div class="section-inner">
+                        <!-- Tab nav -->
+                        <ul class="nav nav-tabs" role="tablist">
+                            <li role="presentation" class="active"><a href="#recent-posts" aria-controls="recent-posts" role="tab" data-toggle="tab"><?php echo i18n("Recent_posts");?></a></li>
+                            <?php if (config('views.counter') === 'true') :?>
+                            <li role="presentation"><a href="#popular-posts" aria-controls="popular-posts" role="tab" data-toggle="tab"><?php echo i18n("Popular_posts");?></a></li>
+                            <?php endif;?>
+                        </ul>
+                        <!-- Tab content -->
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane active" id="recent-posts">
+                                <h2 class="hide"><?php echo i18n("Recent_Posts");?></h2>
+                                <?php $lists = recent_posts(true);?>
+                                <?php $char = 60;?>
+                                <?php foreach ($lists as $l):?>
+                                    <?php if (strlen(strip_tags($l->title)) > $char) { $recentTitle = shorten($l->title, $char) . '...';} else {$recentTitle = $l->title;}?>
+                                    <div class="item">
+                                        <h3 class="title"><a href="<?php echo $l->url;?>"><?php echo $recentTitle;?></a></h3>
+                                        <div class="content">
+                                        <p><?php echo shorten($l->body, 75); ?>...</p>
+                                        <a class="more-link" href="<?php echo $l->url;?>"><i class="fa fa-link"></i> <?php echo i18n("read_more");?></a>
+                                        </div><!--//content-->
+                                    </div>
+                                <?php endforeach;?>
+                            </div>
+                            <?php if (config('views.counter') === 'true') :?>
+                            <div role="tabpanel" class="tab-pane" id="popular-posts">
+                                <h2 class="hide"><?php echo i18n("Popular_posts");?></h2>
+                                <?php $lists = popular_posts(true);?>
+                                <?php $char = 60;?>
+                                <?php foreach ($lists as $l):?>
+                                    <?php if (strlen(strip_tags($l->title)) > $char) { $recentTitle = shorten($l->title, $char) . '...';} else {$recentTitle = $l->title;}?>
+                                    <div class="item">
+                                        <h3 class="title"><a href="<?php echo $l->url;?>"><?php echo $recentTitle;?></a></h3>
+                                        <div class="content">
+                                        <p><?php echo shorten($l->body, 75); ?>...</p>
+                                        <a class="more-link" href="<?php echo $l->url;?>"><i class="fa fa-link"></i> <?php echo i18n("read_more");?></a>
+                                        </div><!--//content-->
+                                    </div>
+                                <?php endforeach;?>
+                            </div>
+                            <?php endif;?>
+                        </div>
+                    </div><!--//section-inner-->
+                </aside>
+
+
+
+
+
+
+
+
+                <aside class="category-list aside section">
+                    <div class="section-inner">
+                        <h2 class="heading"><?php echo i18n('Category');?></h2>
+                        <div class="content">
+                            <?php echo category_list();?>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside>
+
+
+
+
+
+
+
+                <aside class="category-list aside section">
+                    <div class="section-inner">
+                        <h2 class="heading"><?php echo i18n("Tags");?></h2>
+                        <div class="content">
+                        <div class="tagcloud">
+                        <?php echo tag_cloud();?>
+                        </div>
+                        </div><!--//content-->
+                    </div><!--//section-inner-->
+                </aside><!--//section-->
+
+
+
+
+
+
+
+
+            </div><!--//secondary-->    
+        </div><!--//row-->
+    </div><!--//masonry-->
+    <!-- ******FOOTER****** --> 
+        <!--//container-->
+    </footer><!--//footer-->
+    <!-- Javascript -->          
+    <script type="text/javascript" src="<?php echo theme_path();?>js/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="<?php echo theme_path();?>js/bootstrap.min.js"></script>
+<?php if (analytics()): ?><?php echo analytics() ?><?php endif; ?>    
+</body>
+</html> 

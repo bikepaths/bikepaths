@@ -1,0 +1,268 @@
+body .form-control, .wmd-input, .wmd-preview {
+    font-family: Georgia, sans-serif;
+}
+
+blockquote {
+    border-left: 2px dotted #888;
+    padding-left: 5px;
+    background: #F6F7F9;
+}
+
+.wmd-panel {
+    float: left;
+}
+
+.wmd-button-bar {
+    background-color: #F6F7F9;
+    padding: 5px 0;
+    margin-bottom: 10px;
+    width: 100%;
+    border: 1px solid #CFDAE5;
+	border-radius:5px;
+    display: block;
+    float: left;
+}
+.dark-mode .wmd-button-bar {
+	background-color: #292d32;
+	border-color: #292d32 !important;
+}
+.wmd-button-bar:hover {
+    border: 1px solid #CCCCCC;
+}
+
+.wmd-input {
+    min-height: 300px;
+}
+
+.wmd-preview {
+    background-color: #E4EBF1;
+    float: left;
+    padding: 2%;
+}
+
+.wmd-preview table {
+    margin: 20px 0;
+}
+
+.wmd-preview td, .wmd-preview th {
+    border-right: 1px solid #ccc;
+    padding: 8px 12px;
+}
+
+.wmd-preview td:last-child, .wmd-preview th:last-child {
+    border-right: none;
+}
+
+.wmd-preview td {
+    border-top: 1px solid #ccc;	
+}
+
+.wmd-button-row {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wmd-spacer {
+    width: 1px;
+    height: 20px;
+    background-color: Silver;
+    list-style: none;
+    float: left;
+    margin: 5px;
+}
+
+.wmd-button {
+    list-style: none;
+    cursor: pointer;
+    float: left;
+}
+
+.wmd-button > span {
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    display: inline-block;
+}
+
+.dark-mode .wmd-button > span.btn-light {
+	color: #fff;
+	background-color: #292d32;
+	border-color: #292d32;
+	box-shadow: none;
+}
+.dark-mode .wmd-button > span.btn-light:not(.disabled):hover {
+	background-color: #171a1d;
+	border-color: #343a40;
+}
+.wmd-spacer1 {
+    left: 50px;
+}
+
+.wmd-spacer2 {
+    left: 175px;
+}
+
+.wmd-spacer3 {
+    left: 300px;
+}
+
+.wmd-prompt-background {
+    background-color: Black;
+}
+
+.wmd-prompt-dialog {
+    border: 1px solid #999999;
+    background-color: #F5F5F5;
+}
+
+.wmd-prompt-dialog > div {
+    font-size: 0.8em;
+    font-family: arial, helvetica, sans-serif;
+}
+
+.wmd-prompt-dialog > form > input[type="text"] {
+    border: 1px solid #999999;
+    color: black;
+}
+
+.wmd-prompt-dialog > form > input[type="button"] {
+    border: 1px solid #888888;
+    font-family: trebuchet MS, helvetica, sans-serif;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+#wmd-maximize-button, #wmd-minimize-button {
+    float: right;
+}
+
+div.fullscreen-editor {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+div.fullscreen-editor > textarea {
+    flex: 1;
+    margin-bottom: 10px;
+}
+
+div.fullscreen-wrapper > div#preview-col,
+div.fullscreen-editor > a,
+div.fullscreen-editor > br,
+div.fullscreen-editor > details,
+div.fullscreen-editor > label,
+div.fullscreen-editor > input[type="submit"] {
+    display: none;
+}
+
+pre {
+    margin: 1em 0;
+    overflow: auto;
+    background: #F1F1FF;
+}
+
+pre code {
+    color: #333333;
+    display: block;
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    font-size: 14px;
+    padding: 5px 10px;
+}
+
+@media all and (max-width: 980px) {
+
+    .nav {
+        width: 100%;
+        padding: 2%;
+    }
+
+    .wmd-panel, .wmd-preview {
+        width: 96%;
+        float: left;
+        padding: 2%;
+    }
+
+    pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+}
+
+.notice {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #f0f9ff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    color: #333;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    display: none;
+}
+
+.notice.error {
+  background-color: #fdd;
+}
+
+/* drag and drop uploading */
+/*btn blue #007bff, hover darker #0069d9*/
+.vs-dropzone {
+    border: 2px dashed #007bff;
+    border-radius: .5rem;
+    padding: 2rem;
+    text-align: center;
+    color: #6c757d;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+    margin-bottom: 1rem;
+}
+.vs-dropzone.dragover {
+    background: #e9f5ff;
+    border-color: #0069d9;
+    color: #0069d9;
+}
+/* image uploader modal gallery */
+.cover-container {
+    display: grid;
+    grid-gap: 8px;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    grid-auto-rows: 140px;
+    grid-auto-flow: row dense;
+    max-height: 65vh;
+    overflow: auto;
+}
+.cover-item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #e0e0e0;
+    background: #eee url('data:image/svg+xml,\ <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400"         fill-opacity=".125" >\ <rect x="200" width="200" height="200" />\ <rect y="200" width="200" height="200" />\ </svg>');
+    background-size: 16px 16px;
+    grid-column-start: auto;
+    grid-row-start: auto;
+    border-top-right-radius: 2px;
+    border: 1px solid #bbb;
+}
+.img-thumbnail{
+    max-height: 100%;
+    /* unset other things from adminlte.min.css */
+    background-color: unset;
+    border: unset;
+    border-radius: unset;
+    box-shadow: unset;
+}

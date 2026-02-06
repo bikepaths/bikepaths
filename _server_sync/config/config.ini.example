@@ -1,0 +1,199 @@
+; The URL of your blog.
+site.url = ""
+
+; Your timezone
+timezone = "Asia/Jakarta"
+
+; Date format.
+date.format = "d F Y"
+
+; Your language (example "en_US" for English or "de_DE" for German.
+; See lang directory for available language)
+language = "en_US"
+
+; Blog info
+blog.title = "HTMLy"
+blog.tagline = "Just another HTMLy blog"
+blog.description = "Proudly powered by HTMLy, a databaseless blogging platform."
+blog.copyright = "(c) Your name."
+
+; Set permalink type. "default" using /year/month/title. "post" using /post/title
+permalink.type = "default"
+
+; Make the frontpage static. Options "false" and "true"
+static.frontpage = "false"
+
+; Show the /blog url as the blog homepage. Options "false" and "true"
+blog.enable = "false"
+
+; Social account
+social.twitter = ""
+social.facebook = ""
+social.instagram = ""
+social.linkedin = ""
+social.github = ""
+social.youtube = ""
+social.mastodon = ""
+social.tiktok = ""
+
+; Breadcrumb home text. Useful when installed on subfolder.
+breadcrumb.home = "Home"
+
+; Comment system. Choose "facebook", "disqus", or "disable".
+comment.system = "disable"
+
+; Facebook comments
+fb.appid = ""
+fb.num = "5"
+fb.color = "light"
+
+; Disqus comments
+disqus.shortname = ""
+
+; Google Web Master Tool ID verification
+google.wmt.id = ""
+
+; Google analytics
+google.analytics.id = ""
+
+; Google gtag analytics
+google.gtag.id = ""
+
+; Login protection system  Choose "google", "cloudflare", or "disable".
+; https://www.google.com/recaptcha/admin
+; https://developers.cloudflare.com/turnstile/
+
+login.protect.system = "disable"
+login.protect.public = ""
+login.protect.private = ""
+
+; Multi-factor authentication
+mfa.state = "false"
+
+; Pagination, RSS, and JSON
+posts.perpage = "10"
+category.perpage = "10"
+tag.perpage = "10"
+archive.perpage = "10"
+search.perpage = "10"
+profile.perpage = "10"
+type.perpage = "10"
+json.count = "10"
+
+; Category info
+category.info = "true"
+
+; Related posts
+related.count = "3"
+
+; Recent posts
+recent.count = "5"
+
+; Popular posts
+popular.count = "5"
+
+; Tagcloud
+tagcloud.count = "40"
+
+; Read more link text for "full" teaser type
+read.more = "Read more"
+
+; Teaser type: set "trimmed" or "full".
+teaser.type = "full"
+
+; In summary mode, whether check the shortcode first or not before trim the content to x char
+; Options: "default" and "check"
+teaser.behave = "default"
+
+; Teaser character count
+teaser.char = "200"
+
+; Description character count
+description.char = "150"
+
+; RSS feed count
+rss.count = "10"
+
+; RSS feed description length. If left empty we will use full page.
+rss.char = "200"
+
+; Enable views Counter, the options is "true" and "false". 
+; If set to "true", you can see the Counts in Admin page and popular posts.
+views.counter = "false"
+
+; Sitemap priorities between "0.0" and "1.0". 
+; Set "-1" (minus one) to disable a sitemap for the given type. (See /sitemap.xml)
+sitemap.priority.base = "1.0"
+sitemap.priority.post = "0.5"
+sitemap.priority.static = "0.5"
+sitemap.priority.category = "0.5"
+sitemap.priority.tag = "0.5"
+sitemap.priority.archiveMonth = "0.5"
+sitemap.priority.archiveYear = "0.5"
+sitemap.priority.author = "0.5"
+sitemap.priority.type = "0.5"
+
+; Also install pre-release
+prerelease = "false"
+
+; Cache expiration in hour. Eg. "6", "12". Default 6 hours.
+cache.expiration = "6"
+
+; Switch on and off the file cache for development purposes. Options "false" and "true"
+cache.off = "false"
+
+; Switch on and off the page generation time. Options "false" and "true"
+generation.time = "false"
+
+; Switch on and off the cache timestamp. Options "false" and "true"
+cache.timestamp = "false"
+
+; The site.url depends on where you are visiting from. Same installation 
+multi.site = "false"
+
+; TOC label
+toc.label = "Table of Contents"
+
+; TOC inital state. Option "close and "open"
+toc.state = "close"
+
+; Load the default style or not. Option "default" and "theme"
+toc.style = "default"
+
+; Automatically add TOC, but first it check if the shortcode available or not
+; Option "true" and "false"
+toc.automatic = "false"
+
+; Automatically insert the TOC after x paragraph
+toc.position = "1"
+
+; Title formats
+home.title.format = "%blog_title% - %blog_tagline%"
+post.title.format = "%post_title% - %blog_title%"
+page.title.format = "%page_title% - %blog_title%"
+category.title.format = "%category_title% - %blog_title%"
+tag.title.format = "%tag_title% - %blog_title%"
+archive.title.format = "%archive_title% - %blog_title%"
+search.title.format = "%search_title% - %blog_title%"
+type.title.format = "%type_title% - %blog_title%"
+profile.title.format = "%author_name% - %blog_title%"
+blog.title.format = "Blog - %blog_title%"
+default.title.format = "%page_title% - %blog_title%"
+
+; Default image for Open Graph
+default.image = ""
+
+; Favicon image
+favicon.image = ""
+
+; Autosave
+autosave.enable = "true"
+
+; Show HTMLy version
+show.version = "true"
+
+; Set the theme here
+views.root = "themes/twentysixteen"
+
+; Framework config. No need to edit.
+views.layout = "layout"
