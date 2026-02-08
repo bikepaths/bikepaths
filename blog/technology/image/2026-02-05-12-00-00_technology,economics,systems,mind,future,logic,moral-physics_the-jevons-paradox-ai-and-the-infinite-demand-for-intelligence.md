@@ -3,10 +3,6 @@
 <!--tag technology,economics,systems,mind,future,logic,moral-physics tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-320.jpg image-->
 
-This is a foundational exploration within the Moral Physics project. We examine the intersection of technological efficiency, economic feedback loops, and the individual's role as the primary anchor of a high-complexity system.
-
-**The Efficiency of Mind**
-
 Historical patterns of technology identify a principle known as the *Jevons Paradox*. Originally observed by William Stanley Jevons in 1865 regarding coal consumption, this paradox suggests that as a resource becomes more efficient to use, the total consumption of that resource increases. This occurs because the reduced cost opens new areas of utility that once remained too expensive to consider (Jevons, 1865). Today, as artificial intelligence lowers the cost of *Cognitive Labor*, we observe a similar shift across the global economy. This efficiency triggers an *Infinite Demand* for intelligence.
 
 **The Structural Shift**

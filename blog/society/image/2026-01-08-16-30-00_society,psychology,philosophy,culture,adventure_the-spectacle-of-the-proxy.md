@@ -1,7 +1,7 @@
 <!--t Reclaiming the Heroic through Direct Adventure t-->
 <!--d An intelligence-led evaluation of the shift from passive sports spectatorship to direct adventure, examining the sociology of the spectacle and the psychological mechanics of self-actualization. d-->
 <!--tag society,psychology,philosophy,culture,adventure tag-->
-<!--image https://bikepaths.org/blog/content/images/visuals-344.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/adventure.jpg image-->
 
 The stability of modern social life is increasingly defined by the consumption of the spectacle. A primary focus of institutionalised entertainment is the domain of professional sports, where the masses engage in one-sided bonds with commercialised heroes. This condition, described by Guy Debord as the "Society of the Spectacle," represents a state where lived experience is replaced by its representation. While the contemplation of the athletic event provides a sense of community, it often functions as a contemporary form of "panem et circenses." This methodology pacifies the population by offering a proxy for the heroic journey. Achieving true autonomy requires a rejection of the passive role to pursue direct challenges in the physical world.
 

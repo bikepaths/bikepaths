@@ -1,13 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t Dunning-Kruger: Metacognitive Failure t-->
 <!--d An analysis of how deficits in meta-ignorance prevent individuals from accurately assessing competence within complex systems. d-->
 <!--tag mind,systems,cognition,metacognition,education,logic,psychology,moral-physics tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-359.jpg image-->
-<!--gov htmly/system/technical_standards.md, htmly/composition/academic_writing_standards.md, htmly/workflows/sot_hardening_protocol.md gov-->
-
-This is a foundational exploration within the Moral Physics project. We examine the intersection of cognitive bias, systemic feedback, and the individual's transition to a model of verified competence.
-
-**The Failure of Meta**
 
 The *Dunning-Kruger Effect* identifies a cognitive bias where individuals with limited knowledge overestimate personal competence. We perceive this phenomenon as a structural failure of *Metacognition*. Metacognition exists as the mechanical ability to monitor and judge internal thought processes. To accurately evaluate skill in a difficult task, the individual must possess a baseline level of that same capability. For example, a student failing to solve a math problem also lacks the knowledge to identify the cause of the error. Without this foundation, the actor lacks the tools required to identify personal failures (Kruger & Dunning, 1999).
 

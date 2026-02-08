@@ -1,13 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t Mental Friction: The Pathway to Truth t-->
 <!--d An analysis of mental pushback and the survival-based resistance to updating internal models in a measured reality. d-->
 <!--tag mind,psychology,cognition,neuroscience,epistemology,learning,moral-physics tag-->
 <!--image https://bikepaths.org/blog/content/images/stained-glass-window.png image-->
-<!--gov htmly/system/technical_standards.md, htmly/composition/academic_writing_standards.md, htmly/workflows/sot_hardening_protocol.md gov-->
-
-This is a foundational exploration within the Moral Physics project. We examine the intersection of cognitive biology, systemic entropy, and the individual's transition from metabolic savings to technical clarity.
-
-**The Resistance of Thought**
 
 Adopting a measured model of truth exists as a philosophical choice and a cognitive effort that conflicts with the biology of the human brain. We observe that most people default to *Binary Logic* because it remains metabolically cheap. Deciding a claim is strictly true or false requires minimal work. In contrast, treating truth as a developing degree of knowing generates *Mental Friction*. This pushback represents the friction generated when new information rubs against an established way of thinking. Understanding these mechanics remains essential for anyone seeking to traverse a complex world (Festinger, 1957).
 

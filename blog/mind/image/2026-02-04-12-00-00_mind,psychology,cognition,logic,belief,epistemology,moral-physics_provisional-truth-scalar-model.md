@@ -1,13 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t Provisional Truth: The Scalar Model of Fit t-->
 <!--d An exploration of provisional truth as a scalar model for navigating complex systems and the utility of functional faith. d-->
 <!--tag mind,psychology,cognition,logic,belief,epistemology,moral-physics tag-->
-<!--image https://bikepaths.org/blog/content/images/creation.of.man.jpg image-->
-<!--gov htmly/system/technical_standards.md, htmly/composition/academic_writing_standards.md, htmly/workflows/sot_hardening_protocol.md gov-->
-
-This is a foundational exploration within the Moral Physics project. We examine the intersection of cognitive logic, systemic feedback, and the individual's path to sovereignty through technical clarity.
-
-**The Scalar Model of Fit**
+<!--image https://bikepaths.org/blog/content/images/cycling-033.jpg image-->
 
 Modern discourse often treats truth as a binary choice. We observe claims being classified as either strictly true or entirely false. This rigid framework generates a structural failure when we analyze complex systems or deep ontological questions. When truth remains restricted to an absolute binary switch, any missing data causes the model to appear worthless. We propose a framework based on *Provisional Truth*. Under this model, we recognize truth as the *Degree of Fit* between a claim and the observable world (Korzybski, 1933).
 
