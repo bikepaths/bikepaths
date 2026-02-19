@@ -1,7 +1,7 @@
 <!--t Boundary Map for Reflexive Institutional Systems t-->
 <!--d An analytical framework for institutional coordination that identifies the terminal limits of predictive control and preserves human agency against over-optimization. d-->
 <!--tag society,government,systems,power,institutions,frameworks tag-->
-<!--image https://bikepaths.org/blog/content/images/visuals-377.png image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-374.jpg image-->
 
 Modern societies often resemble large workshops filled with tools, wires, and moving parts. Governments try to keep these parts aligned, much like a mechanic watching a set of gears that spin faster each year. Many people hope that better data or faster systems can tighten the machinery of public life. This hope treats political coordination as a valve people can turn to increase water flow. We observe that not every pipe requires tightening and not every gear requires polishing. Some friction remains necessary for the workshop to remain safe for the people who stand inside it.
 
