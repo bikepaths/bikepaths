@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t An Open Letter to Legislators on Mass Violence Prevention t-->
 <!--d The Notoriety Arbitrage framework gives legislators and institutional leaders two specific, implementable policy mechanisms to interrupt mass violence at the informational level. d-->
 <!--tag society,policy-mandate,anchor-dense-zones,vts,legislative-action,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/letter_decision_makers.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-403.jpg image-->
 
 This is addressed to every person who holds public trust and has watched the killing repeat.
 

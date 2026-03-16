@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t Questions From Readers t-->
 <!--d This living post answers the strongest objections to the Notoriety Arbitrage framework and demonstrates its falsifiability through ongoing public intellectual engagement. d-->
 <!--tag society,reader-questions,notoriety-arbitrage,falsifiability,community-engagement,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/reader_questions.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-408.jpg image-->
 
 A framework that cannot be questioned is not a framework. It is a belief system. Since this blog launched, the questions have arrived by email, by comment, and by academic correspondence. The strongest ones belong here, in public, with full answers.
 

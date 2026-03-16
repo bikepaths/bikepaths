@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t How Media Coverage Drives the Next Attack t-->
 <!--d The Voluntary Transparency Standard gives media institutions and platforms a market mechanism to reduce notoriety yield and interrupt contagion without legislation or censorship. d-->
 <!--tag society,voluntary-transparency-standard,no-notoriety,media-protocol,esg-routing,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/news_protocol.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-412.jpg image-->
 
 A Swedish television news director opens the runsheet for the evening broadcast. The event happened six hours ago. The perpetrator's name is on every wire service. The director removes it from the script. He replaces it with the location, the victim count, and the community response. The broadcast runs at 7pm. The name never airs.
 

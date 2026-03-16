@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t But What About Mental Illness? t-->
 <!--d The informational vector framework addresses the institutional and architectural drivers of mass violence that operate independently of individual clinical status. d-->
 <!--tag mind,mental-illness,predestination-objection,informational-vector,causal-chain,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/mind/image/mental_illness.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-406.jpg image-->
 
 A state legislator stands at a podium the day after an event. "We need better mental health resources," she says. The room applauds. She is right. She is answering a question the room has asked for decades. The architecture poses a different one.
 

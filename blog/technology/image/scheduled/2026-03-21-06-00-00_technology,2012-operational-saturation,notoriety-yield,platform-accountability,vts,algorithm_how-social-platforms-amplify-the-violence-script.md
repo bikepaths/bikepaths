@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t How Social Platforms Amplify the Violence Script t-->
 <!--d The 2012 Operational Saturation reveals how platform architecture amplified the violent script and shows the market mechanism that can reverse its reach without censorship. d-->
 <!--tag technology,2012-operational-saturation,notoriety-yield,platform-accountability,vts,algorithm tag-->
-<!--image https://bikepaths.org/content/chas/blog/technology/image/algorithm_feeds_script.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-410.jpg image-->
 
 A product manager at a social platform runs an A/B test on video autoplay in 2012. The metric is watch time. The violent content performs at 3.4 times the baseline. The result registers as a success. It rolls out globally before the end of the quarter.
 

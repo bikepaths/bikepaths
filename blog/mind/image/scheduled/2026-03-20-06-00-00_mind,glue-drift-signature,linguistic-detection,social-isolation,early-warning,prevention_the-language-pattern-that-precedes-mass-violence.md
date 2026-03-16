@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t The Language Pattern That Precedes Mass Violence t-->
 <!--d The Glue-Drift Signature reveals a detectable linguistic pattern of social disconnection that institutions can learn to read as an early-warning instrument for intervention. d-->
 <!--tag mind,glue-drift-signature,linguistic-detection,social-isolation,early-warning,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/mind/image/words_actually_said.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-409.jpg image-->
 
 A school counselor reads a student's essay. Nothing in it mentions violence. The pronouns have changed. The "we" is gone. The "I" is everywhere, isolated, and final-sounding. She cannot name what she sees. She flags nothing.
 

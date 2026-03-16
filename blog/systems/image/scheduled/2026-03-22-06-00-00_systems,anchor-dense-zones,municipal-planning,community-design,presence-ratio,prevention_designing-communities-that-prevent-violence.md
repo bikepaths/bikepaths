@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t Designing Communities That Prevent Violence t-->
 <!--d Anchor-Dense Zones rebuild the physical infrastructure of co-presence through municipal design decisions that make local significance more accessible than digital drift. d-->
 <!--tag systems,anchor-dense-zones,municipal-planning,community-design,presence-ratio,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/systems/image/town_design.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-411.jpg image-->
 
 A park in the center of a midsize American city sits empty on Saturday afternoon. The benches face the street. The restrooms are locked. The nearest coffee shop is six blocks away. The design communicates one message: move on.
 

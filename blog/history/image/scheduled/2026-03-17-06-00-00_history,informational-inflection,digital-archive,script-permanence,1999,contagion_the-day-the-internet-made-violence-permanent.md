@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t The Day the Internet Made Violence Permanent t-->
 <!--d The 1999 Informational Inflection names the structural shift communities can reverse through voluntary media protocol and archive-aware policy. d-->
 <!--tag history,informational-inflection,digital-archive,script-permanence,1999,contagion tag-->
-<!--image https://bikepaths.org/content/chas/blog/history/image/internet_changed_everything.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-398.jpg image-->
 
 A fifteen-year-old in Ohio watches the television on April 20, 1999. The anchors repeat the names. She does not know them. By midnight she does, and by morning so does the rest of the country.
 

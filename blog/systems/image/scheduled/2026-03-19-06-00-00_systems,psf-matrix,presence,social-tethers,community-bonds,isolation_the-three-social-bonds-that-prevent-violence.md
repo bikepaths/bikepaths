@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t The Three Social Bonds That Prevent Violence t-->
 <!--d The P-S-F Matrix identifies the three structural bonds that anchor individuals to community and gives communities a measurable instrument for rebuilding social cohesion. d-->
 <!--tag systems,psf-matrix,presence,social-tethers,community-bonds,isolation tag-->
-<!--image https://bikepaths.org/content/chas/blog/systems/image/three_tethers.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-400.jpg image-->
 
 A man in his mid-thirties leaves for work before his neighborhood wakes. He returns after it sleeps. He knows no one within four blocks. His coworkers know his name because the badge says so. All three tethers are gone.
 

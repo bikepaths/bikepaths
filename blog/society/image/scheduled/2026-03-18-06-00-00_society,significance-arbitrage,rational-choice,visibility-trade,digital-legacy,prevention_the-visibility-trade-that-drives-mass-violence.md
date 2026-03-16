@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t The Visibility Trade That Drives Mass Violence t-->
 <!--d Significance Arbitrage reveals the rational calculus behind mass violence and names the economic mechanism communities can collapse by making local visibility abundant. d-->
 <!--tag society,significance-arbitrage,rational-choice,visibility-trade,digital-legacy,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/the_trade.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-399.jpg image-->
 
 A seventeen-year-old sits at the back of a school cafeteria at lunch. He has sat there every day for two years. No one has learned his name. He opens his phone. He knows exactly who everyone remembers.
 

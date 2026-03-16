@@ -2,7 +2,7 @@
 <!--t The Local Story That Outcompetes the Violence Script t-->
 <!--d Signal Jamming through localized hero narratives generates higher-yield significance than the digital violent script and rebuilds Meaning Sovereignty at the community level. d-->
 <!--tag society,signal-jamming,meaning-sovereignty,local-significance,counter-script,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/hero_narrative.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-405.jpg image-->
 <!--gov htmly/composition/cms_integration_specs.md gov-->
 
 A high school junior in rural Kansas restores a community garden that has been empty for three years. The local paper runs a photograph. Twelve neighbors stop by to help over the next two weekends. His name appears in print. He is seen.

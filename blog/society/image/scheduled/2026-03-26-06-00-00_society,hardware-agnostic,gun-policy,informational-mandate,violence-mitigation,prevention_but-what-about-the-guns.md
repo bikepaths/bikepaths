@@ -2,7 +2,7 @@
 <!--t But What About the Guns? t-->
 <!--d The Hardware-Agnostic Corollary demonstrates that the informational mandate operates independently of the chosen instrument and adds a parallel prevention track to any hardware policy discussion. d-->
 <!--tag society,hardware-agnostic,gun-policy,informational-mandate,violence-mitigation,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/hardware_agnostic.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-407.jpg image-->
 <!--gov htmly/composition/cms_integration_specs.md gov-->
 
 A researcher pulls three case files from different countries: a vehicle attack in Toronto in 2018, a knife attack in Sagamihara in 2016, and a mass stabbing in a Canadian city in 2023. No firearms. The perpetrator in each case left a digital trail identical in structure to every domestic gun event. Same isolation pattern. Same script adoption. Same archive footprint.

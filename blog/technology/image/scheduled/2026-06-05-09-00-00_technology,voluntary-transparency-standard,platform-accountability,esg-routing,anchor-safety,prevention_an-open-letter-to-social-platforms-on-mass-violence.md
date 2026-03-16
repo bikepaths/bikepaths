@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t An Open Letter to Social Platforms on Mass Violence t-->
 <!--d The Voluntary Transparency Standard gives platform engineers and executives a market-rational mechanism to collapse Notoriety Yield without censorship, legislation, or revenue loss. d-->
 <!--tag technology,voluntary-transparency-standard,platform-accountability,esg-routing,anchor-safety,prevention tag-->
-<!--image https://bikepaths.org/content/chas/blog/technology/image/letter_platforms.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-402.jpg image-->
 
 This is addressed to the engineers, the product managers, and the executives who built the feed that delivers the script.
 

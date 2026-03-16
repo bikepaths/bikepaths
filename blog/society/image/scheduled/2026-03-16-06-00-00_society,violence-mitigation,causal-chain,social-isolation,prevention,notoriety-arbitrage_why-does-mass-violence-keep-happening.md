@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t Why Does Mass Violence Keep Happening? t-->
 <!--d The chain of Significance Arbitrage breaks when we restore local bonds and collapse the digital reward. d-->
 <!--tag society,violence-mitigation,causal-chain,social-isolation,prevention,notoriety-arbitrage tag-->
-<!--image https://bikepaths.org/content/chas/blog/society/image/why_it_happens.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-397.jpg image-->
 
 A mother sits in her car in the school parking lot. It is Tuesday morning. She should be thinking about the grocery list or her afternoon meetings. Instead, she stares at the brick facade and feels nothing. The fear has gone quiet. What remains is heavier. The cycle has repeated so often her mind went quiet to survive it. Her children are inside. She loves them.
 

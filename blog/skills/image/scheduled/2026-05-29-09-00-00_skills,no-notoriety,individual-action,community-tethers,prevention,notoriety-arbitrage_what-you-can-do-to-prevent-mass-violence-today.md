@@ -1,9 +1,7 @@
-<!--variant collective-guide-v1 variant-->
 <!--t What You Can Do to Prevent Mass Violence Today t-->
 <!--d Three concrete actions available to any person immediately rebuild community tethers, reduce notoriety yield, and extend the Notoriety Arbitrage framework to one person with institutional authority. d-->
 <!--tag skills,no-notoriety,individual-action,community-tethers,prevention,notoriety-arbitrage tag-->
-<!--image https://bikepaths.org/content/chas/blog/skills/image/what_you_can_do.jpg image-->
-<!--gov htmly/composition/cms_integration_specs.md gov-->
+<!--image https://bikepaths.org/blog/content/images/visuals-401.jpg image-->
 
 A woman finishes reading this series on her lunch break. She closes the browser. She goes back to her desk. Nothing has changed in her building. Something has changed in her understanding. That gap, between comprehension and action, is where movements stall.
 
