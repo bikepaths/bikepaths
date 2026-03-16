@@ -15,7 +15,7 @@ The man leaving before his neighborhood wakes is not an anomaly. The P-S-F Matri
 
 Identify one person in your circle who has lost all three tethers and schedule one hour of shared physical presence this week.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **P-S-F Matrix**: The Presence-Story-Filter diagnostic model measuring the three structural bonds that anchor individuals to physical community.

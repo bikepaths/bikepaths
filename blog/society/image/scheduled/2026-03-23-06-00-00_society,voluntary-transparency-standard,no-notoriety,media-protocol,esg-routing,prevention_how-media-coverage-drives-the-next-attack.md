@@ -15,7 +15,7 @@ The Swedish news director's 7pm broadcast demonstrated that the protocol works. 
 
 Ask your news sources today whether they have adopted a No Notoriety protocol for covering violent events.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Voluntary Transparency Standard (VTS)**: A market-based media protocol that withholds perpetrator identity, suppresses manifesto distribution, and discloses amplification metrics in exchange for ESG investment certification.

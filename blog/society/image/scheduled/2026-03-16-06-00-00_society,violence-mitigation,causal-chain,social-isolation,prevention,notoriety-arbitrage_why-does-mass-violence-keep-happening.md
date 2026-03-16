@@ -13,7 +13,7 @@ The perpetrator is a rational actor seeking the only reward his environment stil
 
 Practice the No Notoriety protocol today by refusing to share, search for, or repeat the name of any perpetrator.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Digital Drift**: The psychological migration from local physical community to isolated digital scripts.

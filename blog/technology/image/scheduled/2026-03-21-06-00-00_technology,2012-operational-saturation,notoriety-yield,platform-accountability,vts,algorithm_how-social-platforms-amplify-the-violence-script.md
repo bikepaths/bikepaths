@@ -15,7 +15,7 @@ The feed the product manager deployed in 2012 still runs. The Voluntary Transpar
 
 Research the ESG ratings of the platforms you use and send your findings to your elected representative this week.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **2012 Operational Saturation**: The convergence of the permanent 1999 digital violent script with smartphone-scale algorithmic delivery at global reach.

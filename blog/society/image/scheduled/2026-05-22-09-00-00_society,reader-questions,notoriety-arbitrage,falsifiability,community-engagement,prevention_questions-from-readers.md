@@ -19,7 +19,7 @@ The mechanism was not nameable before the 1999 informational phase transition pr
 
 The framework invites disproof. Every question above sharpens it. Send your strongest objection to the contact address on this site.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Notoriety Arbitrage**: The complete framework describing the informational incentive structure that drives significance-seeking mass violence and the structural interventions that collapse it.

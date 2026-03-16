@@ -15,7 +15,7 @@ The fifteen-year-old in Ohio is in her mid-thirties now. The No Notoriety protoc
 
 Refuse to share, search for, or repeat the name of any perpetrator in your own networks today.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **1999 Informational Inflection**: The phase transition from decaying analog violent signal to permanent, globally searchable digital script.

@@ -15,7 +15,7 @@ The empty park does not require demolition. The Anchor-Dense Zone framework is t
 
 Identify one underused public space in your community and contact your local representative about its redesign this month.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Anchor-Dense Zones (ADZ)**: Geographic areas designed to maximize co-presence opportunity density through intentional physical infrastructure and programming.

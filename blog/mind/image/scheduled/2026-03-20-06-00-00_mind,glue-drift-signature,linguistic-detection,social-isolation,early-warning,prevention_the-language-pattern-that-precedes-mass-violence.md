@@ -15,7 +15,7 @@ The student whose essay the counselor read is still enrolled. The Glue-Drift Sig
 
 Ask your school or organization to include linguistic drift awareness in staff training this year.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Glue-Drift Signature**: The detectable linguistic pattern of increasing I-word usage, collapsing collective language, and narrowing emotional register that precedes social disconnection events.

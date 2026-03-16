@@ -15,7 +15,7 @@ The seventeen-year-old in the cafeteria is not a predestined actor. Significance
 
 Name one person in your community who has gone invisible, and make contact today.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Significance Arbitrage**: The rational exchange of a life of zero local visibility for permanent digital notoriety through a single violent act.

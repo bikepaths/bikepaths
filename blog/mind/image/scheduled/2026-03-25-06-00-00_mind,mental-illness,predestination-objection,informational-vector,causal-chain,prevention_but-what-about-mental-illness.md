@@ -13,7 +13,7 @@ The legislator at the podium is right to call for mental health resources. The i
 
 Support mental health funding initiatives and separately advocate for Voluntary Transparency Standard adoption in your next contact with an elected representative.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/white_papers/notoriety_arbitrage_informational_violence.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
 
 **Glossary**
 **Predestination Objection**: The argument that clinical psychopathology alone determines violent outcomes, making informational interventions irrelevant.
