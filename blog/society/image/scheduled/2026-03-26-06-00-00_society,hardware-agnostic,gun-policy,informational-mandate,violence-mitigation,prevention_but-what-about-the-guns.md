@@ -20,12 +20,17 @@ Share the informational vector framework with one person who advocates for gun p
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Hardware-Agnostic Corollary**: The empirical finding that the informational mandate driving mass violence operates independently of the specific instrument available to the perpetrator.
+
 **Informational Mandate**: The digitally encoded drive toward a significance trade that precedes and survives any restriction on hardware access.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Peterson, J., & Densley, J. (2021). The Violence Project: How to Stop a Mass Shooting Epidemic. Abrams Press.
+
 Lankford, A. (2016). Public mass shooters and firearms: A cross-national study of 171 countries. Violence and Victims, 31(2), 187-199.
 
 **Notoriety Arbitrage Series | Post 11 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

@@ -22,12 +22,17 @@ The framework invites disproof. Every question above sharpens it. Send your stro
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Notoriety Arbitrage**: The complete framework describing the informational incentive structure that drives significance-seeking mass violence and the structural interventions that collapse it.
+
 **Falsifiability**: The scientific standard that a valid theory must make predictions that could in principle be proven wrong by evidence.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Lankford, A., & Madfis, E. (2018). Don't name them, don't show them, but report everything else. American Behavioral Scientist, 62(2), 260-281.
+
 Popper, K. (1959). The Logic of Scientific Discovery. Hutchinson & Co.
 
 **Notoriety Arbitrage Series | Post 12 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

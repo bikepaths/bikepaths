@@ -18,11 +18,15 @@ Adopt the Voluntary Transparency Standard. The market mechanism is ready. The en
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Voluntary Transparency Standard (VTS)**: A market-based platform protocol that withholds perpetrator identity from amplification, suppresses manifesto distribution, and discloses amplification metrics.
+
 **Anchor Safety Certification**: The ESG-compatible rating earned by platforms that adopt and maintain VTS compliance, providing measurable investor incentive.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks. Little, Brown.
 
 **Notoriety Arbitrage Series | Post 14 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

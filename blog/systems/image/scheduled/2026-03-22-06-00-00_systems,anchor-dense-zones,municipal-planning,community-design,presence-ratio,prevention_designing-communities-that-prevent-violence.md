@@ -18,11 +18,15 @@ Identify one underused public space in your community and contact your local rep
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Anchor-Dense Zones (ADZ)**: Geographic areas designed to maximize co-presence opportunity density through intentional physical infrastructure and programming.
+
 **Presence Ratio**: The measurable rate of co-location hours per resident per week, used as a community health metric.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Gehl, J. (2010). Cities for People. Island Press.
 
 **Notoriety Arbitrage Series | Post 7 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

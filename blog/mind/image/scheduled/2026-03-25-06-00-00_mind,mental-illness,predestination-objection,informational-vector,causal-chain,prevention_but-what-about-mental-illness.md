@@ -16,11 +16,15 @@ Support mental health funding initiatives and separately advocate for Voluntary 
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Predestination Objection**: The argument that clinical psychopathology alone determines violent outcomes, making informational interventions irrelevant.
+
 **Informational Vector**: The causal pathway through which digital script exposure drives violent ideation independently of clinical mental health status.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Peterson, J., & Densley, J. (2021). The Violence Project: How to Stop a Mass Shooting Epidemic. Abrams Press.
 
 **Notoriety Arbitrage Series | Post 10 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

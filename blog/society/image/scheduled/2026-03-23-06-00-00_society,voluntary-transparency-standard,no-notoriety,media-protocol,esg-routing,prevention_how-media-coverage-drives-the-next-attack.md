@@ -18,11 +18,15 @@ Ask your news sources today whether they have adopted a No Notoriety protocol fo
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Voluntary Transparency Standard (VTS)**: A market-based media protocol that withholds perpetrator identity, suppresses manifesto distribution, and discloses amplification metrics in exchange for ESG investment certification.
+
 **No Notoriety Movement**: The existing advocacy coalition that campaigns for voluntary perpetrator identity suppression in media coverage of violent events.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Lankford, A., & Madfis, E. (2018). Don't name them, don't show them, but report everything else. American Behavioral Scientist, 62(2), 260-281.
 
 **Notoriety Arbitrage Series | Post 8 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

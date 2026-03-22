@@ -20,11 +20,15 @@ Find one person in your community doing something worth naming this week, and na
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Signal Jamming**: The structural operation of generating abundant local significance narratives to outcompete the digital violent script on visibility yield.
+
 **Meaning Sovereignty**: The condition in which an individual's sense of significance is anchored in local community and resistant to digital script capture.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Klapp, O. (1991). Inflation of Symbols: Loss of Values in American Culture. Transaction Publishers.
 
 **Notoriety Arbitrage Series | Post 9 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

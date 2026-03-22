@@ -20,12 +20,17 @@ Contact your legislative office today and ask what ADZ or VTS proposals are curr
 Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Anchor-Dense Zone (ADZ)**: A municipally designated geographic area engineered for high co-presence density through infrastructure investment tied to Presence Ratio measurement.
+
 **Voluntary Transparency Standard (VTS)**: The market-based platform protocol that collapses Notoriety Yield through ESG-routed financial incentives without requiring legislation.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Peterson, J., & Densley, J. (2021). The Violence Project: How to Stop a Mass Shooting Epidemic. Abrams Press.
+
 Gehl, J. (2010). Cities for People. Island Press.
 
 **Notoriety Arbitrage Series | Post 15 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)
