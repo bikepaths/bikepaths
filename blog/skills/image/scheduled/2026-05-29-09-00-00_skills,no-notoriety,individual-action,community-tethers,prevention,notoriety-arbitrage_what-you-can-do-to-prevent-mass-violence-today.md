@@ -17,7 +17,7 @@ The woman at her desk after lunch has all three actions available before her nex
 
 Practice No Notoriety today, rebuild one tether this week, and share the framework with one institutional reader before the month ends.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
 **No Notoriety Protocol**: The individual and institutional commitment to withhold perpetrator identity from search, sharing, and repetition.

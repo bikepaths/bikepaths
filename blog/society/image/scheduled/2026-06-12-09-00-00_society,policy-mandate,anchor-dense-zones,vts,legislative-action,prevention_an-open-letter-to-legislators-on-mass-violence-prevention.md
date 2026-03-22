@@ -17,7 +17,7 @@ The ADZ pilot and the VTS endorsement are two actionable decisions available thi
 
 Contact your legislative office today and ask what ADZ or VTS proposals are currently on the docket.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
 **Anchor-Dense Zone (ADZ)**: A municipally designated geographic area engineered for high co-presence density through infrastructure investment tied to Presence Ratio measurement.

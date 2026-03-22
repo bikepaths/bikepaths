@@ -17,7 +17,7 @@ The researcher's three case files establish the same pattern across three contin
 
 Share the informational vector framework with one person who advocates for gun policy today, as a parallel track rather than a competing one.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
 **Hardware-Agnostic Corollary**: The empirical finding that the informational mandate driving mass violence operates independently of the specific instrument available to the perpetrator.

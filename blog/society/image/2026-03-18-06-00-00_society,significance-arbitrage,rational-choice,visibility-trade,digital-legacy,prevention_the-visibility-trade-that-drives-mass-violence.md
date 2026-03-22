@@ -15,14 +15,18 @@ The seventeen-year-old in the cafeteria is not a predestined actor. Significance
 
 Name one person in your community who has gone invisible, and make contact today.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Significance Arbitrage**: The rational exchange of a life of zero local visibility for permanent digital notoriety through a single violent act.
+
 **Digital Drift**: The psychological migration from local physical community into isolated engagement with the digital archive of violence.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Becker, G. (1968). Crime and punishment: An economic approach. Journal of Political Economy, 76(2), 169-217.
 
 **Notoriety Arbitrage Series | Post 3 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

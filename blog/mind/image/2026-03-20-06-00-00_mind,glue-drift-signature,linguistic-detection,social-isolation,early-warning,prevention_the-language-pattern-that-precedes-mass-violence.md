@@ -15,15 +15,20 @@ The student whose essay the counselor read is still enrolled. The Glue-Drift Sig
 
 Ask your school or organization to include linguistic drift awareness in staff training this year.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
+
 **Glue-Drift Signature**: The detectable linguistic pattern of increasing I-word usage, collapsing collective language, and narrowing emotional register that precedes social disconnection events.
+
 **Semantic Passive SIGINT**: Systematic monitoring of publicly available text for linguistic drift indicators used as an institutional early-warning protocol.
 
 **Reference Citations**
+
 DiBella, C. J. (2026). Notoriety Arbitrage: Informational Incentives in Violent Acts. SSRN.
+
 Pennebaker, J. W. (2011). The Secret Life of Pronouns. Bloomsbury Press.
+
 Newman, M. L., et al. (2003). Lying words: Predicting deception from linguistic styles. Personality and Social Psychology Bulletin, 29(5), 665-675.
 
 **Notoriety Arbitrage Series | Post 5 of 15** | [Start here: Why Does Mass Violence Keep Happening?](https://bikepaths.org/blog/2026/03/why-does-mass-violence-keep-happening)

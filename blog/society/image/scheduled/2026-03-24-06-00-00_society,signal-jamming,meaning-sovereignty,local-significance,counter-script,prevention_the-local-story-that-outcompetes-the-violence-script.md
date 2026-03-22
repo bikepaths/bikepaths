@@ -17,7 +17,7 @@ The junior in rural Kansas who was seen in print has a story. Signal Jamming is 
 
 Find one person in your community doing something worth naming this week, and name them publicly.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
 **Signal Jamming**: The structural operation of generating abundant local significance narratives to outcompete the digital violent script on visibility yield.

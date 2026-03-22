@@ -15,7 +15,7 @@ The product manager who ran the 2012 autoplay test did not see the Notoriety Yie
 
 Adopt the Voluntary Transparency Standard. The market mechanism is ready. The engineering path is open. The cost of continued inaction is legible in the dataset.
 
-Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage.pdf).
+Read the full economic framework: [Notoriety Arbitrage (DiBella, 2026)](https://bikepaths.org/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf).
 
 **Glossary**
 **Voluntary Transparency Standard (VTS)**: A market-based platform protocol that withholds perpetrator identity from amplification, suppresses manifesto distribution, and discloses amplification metrics.
