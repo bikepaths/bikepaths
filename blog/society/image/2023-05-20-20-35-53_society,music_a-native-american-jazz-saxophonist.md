@@ -16,4 +16,4 @@ The version provided here captures the spiritual essence of Pepper's vision, bri
 <audio controls style="width:100%; margin: 20px 0;"><source src="https://www.bikepaths.org/topics/audio/music/pepper-witchi-tai-to.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 
-Readers can view our music catalogue here: https://bikepaths.org/blog/tag/music
+Readers can view our music catalogue here: [https://bikepaths.org/blog/tag/music](https://bikepaths.org/blog/tag/music)

@@ -71,4 +71,4 @@ The spiritual connection found in the music empowers the generation by focusing 
 > Songs of freedom
 
 
-Readers can view our music catalogue here: https://bikepaths.org/blog/tag/music
+Readers can view our music catalogue here: [https://bikepaths.org/blog/tag/music](https://bikepaths.org/blog/tag/music)
