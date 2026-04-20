@@ -9,7 +9,7 @@ The central figure of the Jokerman remains a subject of intense debate. Some lis
 
 Critics often point to the rich symbols of power and spiritual conflict found throughout the verses. For example, the image of "standing on the water" suggests a figure of immense influence, possibly echoing the story of Jesus, yet also hints at a type of shallow manipulation. The "kingdom of the blind" serves as a critique of a society that has lost its spiritual insight and is easily led by those who possess a sharp but cold perspective. These multi-layered themes ensure that *Jokerman* remains a relevant piece of art that rewards those who take the time to look deeper into its complexities.
 
-[**Listen to Bob Dylan's Jokerman (Audio)**](https://www.bikepaths.org/topics/audio/music/dylan-jokerman.mp3)
+<audio controls style="width:100%; margin: 20px 0;"><source src="https://www.bikepaths.org/topics/audio/music/dylan-jokerman.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 **Jokerman Lyrics**
 
