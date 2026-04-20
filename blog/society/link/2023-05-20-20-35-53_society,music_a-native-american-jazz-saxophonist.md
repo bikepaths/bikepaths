@@ -1,7 +1,7 @@
 <!--t Native American Jazz Saxophonist t-->
 <!--d ***Witchi-Tai-To*** is a song written by Jim Pepper, a Native American jazz saxophonist and composer of Kaw and Creek heritage. The song gained d-->
 <!--tag Music tag-->
-<!--link https://www.bikepaths.org/topics/music/pepper-witchi-tai-to.mp3 link-->
+<!--link https://www.bikepaths.org/topics/audio/music/pepper-witchi-tai-to.mp3 link-->
 
 ***Witchi-Tai-To*** is a song written by Jim Pepper, a Native American jazz saxophonist and composer of Kaw and Creek heritage. The song gained popularity after being recorded by various artists, including Pepper himself, in the 1960s and 1970s.
 

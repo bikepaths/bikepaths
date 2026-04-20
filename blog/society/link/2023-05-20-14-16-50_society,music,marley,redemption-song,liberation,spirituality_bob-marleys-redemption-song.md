@@ -1,7 +1,7 @@
 <!--t Bob Marley&#039;s Redemption Song: A Message of Liberation and Inner Freedom t-->
 <!--d Explore the profound message of Bob Marley&#039;s Redemption Song, focusing on the call for mental liberation and spiritual strength in the face of oppression. d-->
 <!--tag society,music,marley,redemption-song,liberation,spirituality tag-->
-<!--link https://www.bikepaths.org/topics/music/marley-redemption-song.ogg link-->
+<!--link https://www.bikepaths.org/topics/audio/music/marley-redemption-song.ogg link-->
 
 Redemption Song is a powerful anthem by Bob Marley, released in 1980 as a message of liberation that continues to resonate today. Through this track, Marley urges listeners to free themselves from mental slavery and take control of their own minds.
 

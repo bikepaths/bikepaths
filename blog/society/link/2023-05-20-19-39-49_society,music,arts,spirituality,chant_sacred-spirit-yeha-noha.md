@@ -1,7 +1,7 @@
 <!--t Sacred Spirit Yeha-Noha t-->
 <!--d &quot;Yeha-Noha&quot; is a song by the musical project Sacred Spirit, created by German musician Claus Zundel. Explore this fusion of Native American spirituality and modern production. d-->
 <!--tag society,music,arts,spirituality,chant tag-->
-<!--link https://bikepaths.org/topics/music/yeha-noha.mp3 link-->
+<!--link https://bikepaths.org/topics/audio/music/yeha-noha.mp3 link-->
 
 ***Yeha-Noha*** is a song by the musical project Sacred Spirit, which was created by German musician Claus Zundel, also known as The Fearsome Brave. The song was released in 1994 as part of the album *Sacred Spirit: Chants and Dances of the Native Americans.*
 

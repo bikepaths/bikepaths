@@ -1,7 +1,7 @@
 <!--t Temple of the Dog - Hunger Strike t-->
 <!--d Temple of the Dog was a musical project formed in 1990 by members of Soundgarden and Pearl Jam as a tribute to the late Andrew Wood, the lead singer d-->
 <!--tag Music tag-->
-<!--link https://www.bikepaths.org/topics/music/temple-dog-hunger-strike.mp3 link-->
+<!--link https://www.bikepaths.org/topics/audio/music/temple-dog-hunger-strike.mp3 link-->
 
 Temple of the Dog was a musical project formed in 1990 by members of Soundgarden and Pearl Jam as a tribute to the late Andrew Wood, the lead singer of Mother Love Bone.
 

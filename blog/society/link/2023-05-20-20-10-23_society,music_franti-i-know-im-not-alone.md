@@ -1,7 +1,7 @@
 <!--t Franti: I Know I&#039;m Not Alone t-->
 <!--d Michael Franti is an American musician who has made a name for himself as a singer, songwriter, rapper, poet, and social activist. Franti is known d-->
 <!--tag Music tag-->
-<!--link https://www.bikepaths.org/topics/music/michael-franti-not-alone.mp3 link-->
+<!--link https://www.bikepaths.org/topics/audio/music/michael-franti-not-alone.mp3 link-->
 
 Michael Franti is an American musician who has made a name for himself as a singer, songwriter, rapper, poet, and social activist. Franti is known for his diverse musical style, blending elements of hip-hop, reggae, rock, folk, and pop.
 

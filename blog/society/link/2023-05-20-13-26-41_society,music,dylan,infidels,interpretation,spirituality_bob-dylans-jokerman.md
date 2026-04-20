@@ -1,7 +1,7 @@
 <!--t Bob Dylan&#039;s Jokerman: A Masterpiece of Poetic Mystery t-->
 <!--d Jokerman is a song by Bob Dylan from his 1983 album &quot;Infidels.&quot; The lyrics of the song are open to interpretation. d-->
 <!--tag society,music,dylan,infidels,interpretation,spirituality tag-->
-<!--link https://www.bikepaths.org/topics/music/dylan-jokerman.mp3 link-->
+<!--link https://www.bikepaths.org/topics/audio/music/dylan-jokerman.mp3 link-->
 
 ***Jokerman*** stands as one of the most enigmatic tracks from Bob Dylan’s 1983 album, *Infidels*. Known for its dense poetic imagery and cryptic metaphors, the song has invited decades of interpretation from fans and scholars alike. It marks a significant moment in Dylan’s career where he blended his recent spiritual explorations with a sharper, more cynical view of global politics and human nature. The track is celebrated for its lush production and the way it balances traditional folk storytelling with a modern, professional sound.
 
