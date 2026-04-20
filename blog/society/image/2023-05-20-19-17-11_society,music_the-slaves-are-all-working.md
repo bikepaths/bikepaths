@@ -23,7 +23,7 @@ The purpose of these lyrics is to shine a spotlight on the harsh realities of so
 
 The song's emotional intensity, combined with the raw vocal performances of Cornell and Vedder, resonates with listeners and showcases the musical talents of both bands. "Hunger Strike" remains a significant piece of music from the early 1990s grunge era, highlighting the collaboration between two influential bands and addressing meaningful social issues.
 
-[**Listen to Temple Dog's Hunger Strike (Audio)**](https://www.bikepaths.org/topics/audio/music/temple-dog-hunger-strike.mp3)
+<audio controls style="width:100%; margin: 20px 0;"><source src="https://www.bikepaths.org/topics/audio/music/temple-dog-hunger-strike.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 **Hunger Strike Lyrics**
 

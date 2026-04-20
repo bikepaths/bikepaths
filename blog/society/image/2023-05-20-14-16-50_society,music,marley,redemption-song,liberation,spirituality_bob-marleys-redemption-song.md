@@ -23,7 +23,7 @@ Despite the heavy themes, Marley expresses optimism for the current generation, 
 
 The spiritual connection found in the music empowers the generation by focusing on the importance of individual agency and self-empowerment. Ultimately, the pursuit of personal and collective freedom remains a central pillar of the human experience.
 
-[**Listen to Bob Marley's Redemption Song (Audio)**](https://www.bikepaths.org/topics/audio/music/marley-redemption-song.ogg)
+<audio controls style="width:100%; margin: 20px 0;"><source src="https://www.bikepaths.org/topics/audio/music/marley-redemption-song.ogg" type="audio/ogg">Your browser does not support the audio element.</audio>
 
 **Redemption Song Lyrics**
 
