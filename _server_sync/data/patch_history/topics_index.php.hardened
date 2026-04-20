@@ -1,0 +1,211 @@
+<?php
+/**
+ * Universal Dynamic Index for Bikepaths.org Topics
+ */
+$root = dirname(__FILE__);
+$rel = isset($_GET['path']) ? $_GET['path'] : '';
+
+// Security: No parent directory access, no leading/trailing slashes for consistency
+$rel = trim(str_replace('..', '', $rel), '/');
+
+$dir = $root;
+if ($rel) {
+    $target = realpath($root . '/' . $rel);
+    if ($target && strpos($target, $root) === 0 && is_dir($target)) {
+        $dir = $target;
+    } else {
+        $rel = ''; // Fallback to root
+    }
+}
+
+$items = scandir($dir);
+$files = [];
+$folders = [];
+
+foreach ($items as $item) {
+    if ($item[0] === '.' || $item === 'index.php' || $item === '.htaccess') continue;
+    
+    $path = $dir . '/' . $item;
+    if (is_dir($path)) {
+        $folders[] = $item;
+    } else {
+        $files[] = $item;
+    }
+}
+
+sort($folders);
+sort($files);
+
+$displayPath = $rel ? ' / ' . htmlspecialchars(str_replace(['_', '-'], ' ', $rel)) : '';
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bikepaths - Topics Index <?php echo $displayPath; ?></title>
+    <meta name="description" content="Bikepaths Topics Archive - A collection of strategic insights, working papers, audio series, and research documents on governance and structural decoupling." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #000;
+            color: #e0e0e0;
+            font-family: 'Inter', -apple-system, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 800px;
+            width: 90%;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .hero-img {
+            max-width: 100%;
+            max-height: 70px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            transition: transform 0.3s ease;
+            margin-bottom: 20px;
+            display: block;
+            margin-left: 0;
+        }
+        .hero-img:hover { transform: scale(1.01); }
+        .topics-section {
+            margin-top: 50px;
+            text-align: left;
+        }
+        h2 {
+            border-bottom: 1px solid #333;
+            padding-bottom: 10px;
+            font-size: 1.5rem;
+            color: #fff;
+            margin-bottom: 25px;
+        }
+        .category-title {
+            color: #d4af37;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 2px;
+            margin: 30px 0 15px 0;
+            display: block;
+            font-weight: 600;
+        }
+        ul { list-style: none; padding: 0; margin: 0; }
+        li {
+            margin: 0;
+            border-bottom: 1px solid #111;
+        }
+        li:last-child { border-bottom: none; }
+        .item-link {
+            display: flex;
+            align-items: center;
+            padding: 12px 0;
+            color: #aaa;
+            text-decoration: none;
+            font-size: 1.05rem;
+            transition: color 0.2s, padding-left 0.2s;
+        }
+        .item-link:hover {
+            color: #fff;
+            padding-left: 8px;
+            background: rgba(255,255,255,0.02);
+        }
+        .icon {
+            margin-right: 15px;
+            font-size: 1.1rem;
+            width: 20px;
+            text-align: center;
+            opacity: 0.7;
+        }
+        .breadcrumb {
+            text-align: left;
+            margin-bottom: 25px;
+            font-size: 0.9rem;
+            color: #555;
+        }
+        .breadcrumb a {
+            color: #888;
+            text-decoration: none;
+        }
+        .breadcrumb a:hover { color: #fff; }
+        .empty-msg {
+            color: #444;
+            font-style: italic;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div style="text-align: left;">
+            <a href="/blog/">
+                <img src="/blog/themes/blog/images/logo.png" alt="Bikepaths Logo" class="hero-img">
+            </a>
+        </div>
+        
+        <div class="topics-section">
+            <div class="breadcrumb">
+                <a href="/">Home</a> / 
+                <a href="/topics/">Topics</a>
+                <?php if ($rel): ?>
+                    <?php 
+                    $parts = explode('/', $rel);
+                    $accum = '';
+                    foreach ($parts as $part): 
+                        $accum .= ($accum ? '/' : '') . $part;
+                        echo ' / <a href="/topics/' . htmlspecialchars($accum) . '/">' . htmlspecialchars(str_replace(['_', '-'], ' ', $part)) . '</a>';
+                    endforeach; 
+                    ?>
+                <?php endif; ?>
+            </div>
+            
+            <h1><?php echo $rel ? htmlspecialchars(str_replace(['_', '-'], ' ', basename($rel))) : 'Archive & Insights'; ?></h1>
+
+            <?php if (!empty($folders)): ?>
+                <span class="category-title">Collections</span>
+                <ul>
+                    <?php foreach ($folders as $folder): 
+                        $link = htmlspecialchars($folder) . '/';
+                        if (file_exists($dir . '/' . $folder . '/index.php')) {
+                            $link .= 'index.php';
+                        }
+                    ?>
+                        <li>
+                            <a href="<?php echo $link; ?>" class="item-link">
+                                <span class="icon">📁</span>
+                                <?php echo htmlspecialchars(str_replace(['_', '-'], ' ', $folder)); ?>
+                            </a>
+                        </li>
+                    <?php endforeach; ?>
+                </ul>
+            <?php endif; ?>
+
+            <?php if (!empty($files)): ?>
+                <span class="category-title">Documents</span>
+                <ul>
+                    <?php foreach ($files as $file): ?>
+                        <li>
+                            <a href="<?php echo htmlspecialchars($file); ?>" class="item-link">
+                                <span class="icon">📄</span>
+                                <?php echo htmlspecialchars(str_replace(['_', '-'], ' ', pathinfo($file, PATHINFO_FILENAME))); ?>
+                            </a>
+                        </li>
+                    <?php endforeach; ?>
+                </ul>
+            <?php endif; ?>
+
+            <?php if (empty($folders) && empty($files)): ?>
+                <p class="empty-msg">No files found in this collection.</p>
+            <?php endif; ?>
+        </div>
+    </div>
+</body>
+</html>

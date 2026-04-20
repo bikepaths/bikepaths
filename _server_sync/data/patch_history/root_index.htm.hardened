@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bikepaths - Journey Through Thought</title>
+    <meta name="description" content="Bikepaths - A strategic intelligence archive and journey through thought, covering Cambodian history, financial resilience, and modern governance." />
+    <style>
+        body {
+            background-color: black;
+            color: #e0e0e0;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 90%;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .logo-container {
+            margin-bottom: 40px;
+            text-align: left;
+        }
+
+
+        .popular-section {
+            margin-top: 50px;
+            text-align: left;
+        }
+
+        h2 {
+            border-bottom: 1px solid #333;
+            padding-bottom: 10px;
+            font-size: 1.5rem;
+            color: #fff;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 15px 0;
+        }
+
+        a {
+            color: #aaa;
+            text-decoration: none;
+            font-size: 1.1rem;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            color: #fff;
+        }
+
+        .view-count {
+            font-size: 0.8rem;
+            color: #555;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo-container">
+            <a href="/blog/">
+                <img src="/blog/themes/blog/images/logo.png" alt="Bikepaths Logo"
+                    style="max-height: 80px; transition: transform 0.3s ease;"
+                    onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            </a>
+        </div>
+
+        <div class="popular-section">
+            <h1>Popular Insights</h1>
+            <ul>
+                <li><a href="/blog/2023/05/bokator-khmer-martial-arts">Bokator Khmer Martial Arts</a><span
+                        class="view-count">(1812 reads)</span></li>
+                <li><a href="/blog/2024/10/truth-exposed-why-america-is-not-a-democracy">Truth Exposed Why America Is
+                        Not A Democracy</a><span class="view-count">(1749 reads)</span></li>
+                <li><a href="/blog/2024/07/inside-heavens-gate-the-rise-and-tragic-fall-of-a-ufo-cult">Inside Heavens
+                        Gate The Rise And Tragic Fall Of A Ufo Cult</a><span class="view-count">(1581 reads)</span></li>
+                <li><a href="/blog/2024/07/the-mystery-of-crop-circles-unraveling-wiltshires-enigmatic-patterns">The
+                        Mystery Of Crop Circles Unraveling Wiltshires Enigmatic Patterns</a><span
+                        class="view-count">(1555 reads)</span></li>
+                <li><a href="/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android">Detailed Guide To Mount
+                        All Partitions On Android</a><span class="view-count">(1505 reads)</span></li>
+                <li><a href="/blog/2023/05/sacred-spirit-yeha-noha">Sacred Spirit Yeha Noha</a><span
+                        class="view-count">(1459 reads)</span></li>
+                <li><a href="/blog/2024/05/everyday-life-in-modern-cuba">Everyday Life In Modern Cuba</a><span
+                        class="view-count">(1447 reads)</span></li>
+                <li><a href="/blog/2024/08/navigating-financial-collapse-in-a-modern-economy">Navigating Financial
+                        Collapse In A Modern Economy</a><span class="view-count">(1438 reads)</span></li>
+                <li><a href="/blog/2023/05/why-people-fear-the-power-of-ai">Why People Fear The Power Of Ai</a><span
+                        class="view-count">(1424 reads)</span></li>
+                <li><a href="/blog/2023/06/bikecamp-discoveries-transformative-outdoor-education">Bikecamp Discoveries
+                        Transformative Outdoor Education</a><span class="view-count">(1414 reads)</span></li>
+                <li><a href="/blog/2023/05/bob-marleys-redemption-song">Bob Marleys Redemption Song</a><span
+                        class="view-count">(1410 reads)</span></li>
+                <li><a href="/blog/2023/08/molding-thoughts-and-censoring-opinions">Molding Thoughts And Censoring
+                        Opinions</a><span class="view-count">(1395 reads)</span></li>
+                <li><a href="/blog/2023/09/depth-of-consciousness-and-end-of-life-experiences">Depth Of Consciousness
+                        And End Of Life Experiences</a><span class="view-count">(1394 reads)</span></li>
+                <li><a href="/blog/2024/06/resilient-investment-portfolio-amid-pandemic-threats">Resilient Investment
+                        Portfolio Amid Pandemic Threats</a><span class="view-count">(1387 reads)</span></li>
+                <li><a href="/blog/2024/09/cloward-piven-strategy-crisis-in-the-welfare-system">Cloward Piven Strategy
+                        Crisis In The Welfare System</a><span class="view-count">(1377 reads)</span></li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
