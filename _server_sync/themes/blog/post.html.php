@@ -42,6 +42,7 @@
                 <div class="desc text-left post-<?php echo $p->date;?>" itemprop="articleBody">
                     <?php echo $p->body; ?>
                 </div><!--//desc-->
+                
 
 
 
@@ -49,8 +50,14 @@
 
 
 <div style="margin-top:0px;position:relative;">
-	<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9703312">White Paper</a>
-	<div class="share pull-right social-logo social">&#x1F517; &nbsp; Share This Post &nbsp; &nbsp;
+	<a href="https://bikepaths.org/blog/topics/audio/podcasts/">Podcasts</a>
+	<div class="share pull-right social-logo social">
+        <span class="voting" style="margin-right: 20px; border-right: 1px solid #eee; padding-right: 15px;">
+            <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50;"><i class="fa fa-thumbs-up"></i></a>
+            &nbsp;
+            <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'dislike')" title="Dislike" style="color: #F44336;"><i class="fa fa-thumbs-down"></i></a>
+        </span>
+        &#x1F517; &nbsp; Share This Post &nbsp; &nbsp;
 		<!-- Facebook -->
 		<a class="social-logo-facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $p->url ?>">
 			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
@@ -137,3 +144,29 @@
         </div><!--//section-inner-->                 
     </section><!--//section-->
 <?php endif; ?>
+<script>
+function vote(slug, type) {
+    var cookieName = 'voted_' + slug;
+    if (document.cookie.split(';').some((item) => item.trim().startsWith(cookieName + '='))) {
+        alert('You have already provided feedback for this post.');
+        return;
+    }
+    fetch('<?php echo site_url();?>vote/' + slug + '/' + type, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.status === 'success') {
+            alert('Thank you for your feedback!');
+        } else {
+            alert(data.message);
+        }
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
+}
+</script>

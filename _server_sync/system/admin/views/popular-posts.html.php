@@ -1,4 +1,11 @@
 <?php if (!defined('HTMLY')) die('HTMLy'); ?>
+<?php
+$votesFile = "content/data/votes.json";
+$votes = array();
+if (file_exists($votesFile)) {
+    $votes = json_decode(file_get_contents($votesFile), true);
+}
+?>
 <h2 class="post-index"><?php echo $heading ?></h2>
 <br>
 <a class="btn btn-primary right" href="<?php echo site_url();?>admin/content"><?php echo i18n('Add_new_post');?></a>
@@ -8,8 +15,11 @@
         <thead>
         <tr class="head">
             <th><?php echo i18n('Title');?></th>
-            <th><?php echo i18n('Published');?></th><?php if (config("views.counter") == "true"): ?>
-                <th><?php echo i18n('Views');?></th><?php endif; ?>
+            <th><?php echo i18n('Published');?></th>
+            <?php if (config("views.counter") == "true"): ?>
+                <th><?php echo i18n('Views');?></th>
+            <?php endif; ?>
+            <th>Engagement</th>
             <th><?php echo i18n('Author');?></th>
             <th><?php echo i18n('Category');?></th>
             <th><?php echo i18n('Tags');?></th>
@@ -22,7 +32,15 @@
                 <td><a target="_blank" href="<?php echo $p->url ?>"><?php echo $p->title ?></a></td>
                 <td><?php echo format_date($p->date) ?></td>
                 <?php if (config("views.counter") == "true"): ?>
-                    <td><?php echo get_views('post_' . $p->slug); ?></td><?php endif; ?>
+                    <td><?php echo get_views('post_' . $p->slug); ?></td>
+                <?php endif; ?>
+                <td>
+                    <?php 
+                    $v = isset($votes[$p->slug]) ? $votes[$p->slug] : array('likes' => 0, 'dislikes' => 0);
+                    echo '<span class="text-success" title="Likes"><i class="fa fa-thumbs-up"></i> ' . $v['likes'] . '</span> / ';
+                    echo '<span class="text-danger" title="Dislikes"><i class="fa fa-thumbs-down"></i> ' . $v['dislikes'] . '</span>';
+                    ?>
+                </td>
                 <td><a target="_blank" href="<?php echo $p->authorUrl ?>"><?php echo $p->author ?></a></td>
                 <td><a href="<?php echo site_url() . 'admin/categories/' . $p->categorySlug; ?>"><?php echo $p->categoryTitle;?></a></td>
                 <td><?php echo str_replace('rel="tag"', 'rel="tag" class="badge badge-light text-primary font-weight-normal"', $p->tag); ?></td>

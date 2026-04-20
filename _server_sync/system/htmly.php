@@ -6114,6 +6114,29 @@ post('/comments/submit', function () {
     header("location: $redir");
 });
 
+// Voting system
+post('/vote/:slug/:type', function ($slug, $type) {
+    if (isset($_COOKIE['voted_' . $slug])) {
+        json(array('status' => 'error', 'message' => 'Already voted'), 403);
+    }
+    $votesFile = 'content/data/votes.json';
+    $votes = array();
+    if (file_exists($votesFile)) {
+        $votes = json_decode(file_get_contents($votesFile), true);
+    }
+    if (!isset($votes[$slug])) {
+        $votes[$slug] = array('likes' => 0, 'dislikes' => 0);
+    }
+    if ($type === 'like') {
+        $votes[$slug]['likes']++;
+    } elseif ($type === 'dislike') {
+        $votes[$slug]['dislikes']++;
+    }
+    file_put_contents($votesFile, json_encode($votes), LOCK_EX);
+    setcookie('voted_' . $slug, '1', time() + 86400 * 365, '/');
+    json(array('status' => 'success'));
+});
+
 // If we get here, it means that
 // nothing has been matched above
 get('.*', function () {
