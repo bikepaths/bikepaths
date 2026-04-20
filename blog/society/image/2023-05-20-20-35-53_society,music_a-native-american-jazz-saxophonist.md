@@ -14,3 +14,6 @@ Jim Pepper was a pioneering figure in the jazz world, known for his unique blend
 The version provided here captures the spiritual essence of Pepper's vision, bridging the gap between ancestral tradition and contemporary expression.
 
 <audio controls style="width:100%; margin: 20px 0;"><source src="https://www.bikepaths.org/topics/audio/music/pepper-witchi-tai-to.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+
+Readers can view our music catalogue here: https://bikepaths.org/blog/tag/music

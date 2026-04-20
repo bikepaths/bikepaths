@@ -14,3 +14,6 @@ The project was not without controversy, however. Some Native American activists
 Despite the controversy, *Yeha Noha* remains a popular and influential track in the world music genre. It is often praised for its beautiful and atmospheric sound, and for bringing attention to the rich musical traditions of Native Americans.
 
 <audio controls style="width:100%; margin: 20px 0;"><source src="https://bikepaths.org/topics/audio/music/yeha-noha.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
+
+Readers can view our music catalogue here: https://bikepaths.org/blog/tag/music
