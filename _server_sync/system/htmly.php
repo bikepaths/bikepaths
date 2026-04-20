@@ -2673,6 +2673,17 @@ get('/admin/update/now/:csrf', function ($CSRF) {
         $role = user('role', $user);
         if ($role === 'admin') {
             $updater->update();
+            // Post-update maintenance
+            rebuilt_cache();
+            rebuilt_index();
+            // Self-healing: Re-inject custom_logic.php include if missing
+            $kernel = 'system/htmly.php';
+            $content = file_get_contents($kernel);
+            if (strpos($content, "includes/custom_logic.php") === false) {
+                $patch = "\n// Load Custom Logic\nrequire_once __DIR__ . '/includes/custom_logic.php';\n\n// If we get here";
+                $content = str_replace("// If we get here", $patch, $content);
+                file_put_contents($kernel, $content);
+            }
             config('views.root', 'system/admin/views');
             render('updated-to', array(
                 'title' => generate_title('is_default', i18n('Update')),
@@ -6114,28 +6125,8 @@ post('/comments/submit', function () {
     header("location: $redir");
 });
 
-// Voting system
-post('/vote/:slug/:type', function ($slug, $type) {
-    if (isset($_COOKIE['voted_' . $slug])) {
-        json(array('status' => 'error', 'message' => 'Already voted'), 403);
-    }
-    $votesFile = 'content/data/votes.json';
-    $votes = array();
-    if (file_exists($votesFile)) {
-        $votes = json_decode(file_get_contents($votesFile), true);
-    }
-    if (!isset($votes[$slug])) {
-        $votes[$slug] = array('likes' => 0, 'dislikes' => 0);
-    }
-    if ($type === 'like') {
-        $votes[$slug]['likes']++;
-    } elseif ($type === 'dislike') {
-        $votes[$slug]['dislikes']++;
-    }
-    file_put_contents($votesFile, json_encode($votes), LOCK_EX);
-    setcookie('voted_' . $slug, '1', time() + 86400 * 365, '/');
-    json(array('status' => 'success'));
-});
+// Load Custom Logic
+require_once __DIR__ . '/includes/custom_logic.php';
 
 // If we get here, it means that
 // nothing has been matched above

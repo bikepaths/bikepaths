@@ -76,7 +76,7 @@ if (isset($author[0])) {
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="<?php echo site_url();?>admin/content" class="nav-link">
+            <a href="<?php echo site_url();?>add/content?type=image" class="nav-link">
               <i class="nav-icon fa-solid fa-square-plus"></i>
               <p>
                 <?php echo ucwords(i18n('Add_content')); ?>
@@ -101,13 +101,6 @@ if (isset($author[0])) {
                 </a>
               </li>
               <?php endif;?>
-              <li class="nav-item">
-                <a href="<?php echo site_url();?>admin/mine" class="nav-link">
-                  <p>
-                    <?php echo i18n('My_posts');?>
-                  </p>
-                </a>
-              </li>
               <li class="nav-item">
                 <a href="<?php echo site_url();?>admin/scheduled" class="nav-link">
                   <p>
@@ -211,33 +204,12 @@ if (isset($author[0])) {
                   </p>
                 </a>
               </li>
-              <li class="nav-item">
-                <a href="<?php echo site_url();?>admin/themes" class="nav-link">
-                  <p>
-                      <?php echo i18n('themes'); ?>
-                  </p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="<?php echo site_url();?>admin/users" class="nav-link">
-                  <p>
-                      <?php echo i18n('Manage_users'); ?>
-                  </p>
-                </a>
-              </li>
               <?php endif;?>
               <?php if ($role === 'editor' || $role === 'admin'):?>
               <li class="nav-item">
                 <a href="<?php echo site_url();?>admin/menu" class="nav-link">
                   <p>
                     <?php echo i18n('Menus');?>
-                  </p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="<?php echo site_url();?>admin/field" class="nav-link">
-                  <p>
-                    <?php echo i18n('custom_fields');?>
                   </p>
                 </a>
               </li>
@@ -280,16 +252,9 @@ if (isset($author[0])) {
                 </a>
               </li>
               <li class="nav-item">
-                <a href="<?php echo site_url();?>admin/backup" class="nav-link">
+                <a href="<?php echo site_url();?>admin/sync" class="nav-link">
                   <p>
                     <?php echo i18n('Backup');?>
-                  </p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="<?php echo site_url();?>admin/import" class="nav-link">
-                  <p>
-                    <?php echo i18n('Import_RSS');?>
                   </p>
                 </a>
               </li>
