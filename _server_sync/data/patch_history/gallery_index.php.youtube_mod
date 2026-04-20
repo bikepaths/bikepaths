@@ -1,0 +1,543 @@
+<?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+// Configuration
+$config = [
+    'gallery_root' => './images',
+    'thumb_dir' => './cache/thumbs',
+    'metadata_dir' => './cache/metadata',
+    'thumb_sizes' => [0, 150, 200, 300], // 0 represents 'list' view
+    'default_thumb_size' => 150,          // List view by default
+    'per_page' => 50,                   // Larger per-page for lists
+    'allowed_extensions' => [
+        'jpg', 'jpeg', 'png', 'gif', 'bmp', 'webp', 'avif', 'tiff', 'tif', // Images
+        'pdf', 'htm', 'html', 'txt', 'md',                                 // Documents
+        'mp3', 'ogg', 'wav', 'm4a',                                        // Audio
+        'mp4', 'webm', 'mov', 'yt'                                          // Video + YT Virtual
+    ],
+    'enable_exif' => true,
+    'enable_geocoding' => true
+];
+
+// Helper to get granular file type and icon
+function getFileInfo($filename) {
+    $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
+    $map = [
+        'jpg' => ['type' => 'image', 'icon' => '🖼️'],
+        'jpeg' => ['type' => 'image', 'icon' => '🖼️'],
+        'png' => ['type' => 'image', 'icon' => '🖼️'],
+        'gif' => ['type' => 'image', 'icon' => '🖼️'],
+        'webp' => ['type' => 'image', 'icon' => '🖼️'],
+        'avif' => ['type' => 'image', 'icon' => '🖼️'],
+        'pdf' => ['type' => 'doc', 'icon' => '📕'],
+        'htm' => ['type' => 'doc', 'icon' => '🌐'],
+        'html' => ['type' => 'doc', 'icon' => '🌐'],
+        'txt' => ['type' => 'doc', 'icon' => '📄'],
+        'md' => ['type' => 'doc', 'icon' => '📝'],
+        'mp3' => ['type' => 'audio', 'icon' => '📻'],
+        'ogg' => ['type' => 'audio', 'icon' => '📻'],
+        'wav' => ['type' => 'audio', 'icon' => '🎵'],
+        'm4a' => ['type' => 'audio', 'icon' => '🎵'],
+        'mp4' => ['type' => 'video', 'icon' => '🎬'],
+        'webm' => ['type' => 'video', 'icon' => '🎥'],
+        'mov' => ['type' => 'video', 'icon' => '🎞️'],
+        'yt' => ['type' => 'youtube', 'icon' => '📺']
+    ];
+    
+    if (isset($map[$ext])) return $map[$ext];
+    
+    // Fallback categories
+    $types = [
+        'image' => ['bmp', 'tiff', 'tif'],
+        'doc' => [],
+        'audio' => [],
+        'video' => []
+    ];
+    
+    foreach ($types as $type => $extensions) {
+        if (in_array($ext, $extensions)) {
+            switch ($type) {
+                case 'image': return ['type' => 'image', 'icon' => '🖼️'];
+                case 'doc': return ['type' => 'doc', 'icon' => '📄'];
+                case 'audio': return ['type' => 'audio', 'icon' => '🎵'];
+                case 'video': return ['type' => 'video', 'icon' => '🎥'];
+            }
+        }
+    }
+    
+    return ['type' => 'other', 'icon' => '❓'];
+}
+
+// FileManager Class
+class FileManager {
+    private $config;
+
+    public function __construct($config) {
+        $this->config = $config;
+        $this->ensureDirectories();
+    }
+
+    private function ensureDirectories() {
+        $dirs = [$this->config['thumb_dir'], $this->config['metadata_dir']];
+        foreach ($dirs as $dir) {
+            if (!is_dir($dir)) {
+                mkdir($dir, 0755, true);
+            }
+        }
+    }
+
+    public function scanDirectory($dir) {
+        if (!is_dir($dir)) return ['dirs' => [], 'files' => []];
+
+        $items = scandir($dir);
+        $directories = [];
+        $files = [];
+
+        foreach ($items as $item) {
+            if ($item == '.' || $item == '..') continue;
+
+            $full_item = $dir . '/' . $item;
+
+            if (is_dir($full_item)) {
+                $directories[] = [
+                    'name' => $item,
+                    'path' => $item,
+                    'mtime' => filemtime($full_item)
+                ];
+            } else {
+                $ext = strtolower(pathinfo($item, PATHINFO_EXTENSION));
+                if (in_array($ext, $this->config['allowed_extensions'])) {
+                    $info = getFileInfo($item);
+                    $yt_id = '';
+                    if ($ext === 'yt') {
+                        $yt_id = trim(file_get_contents($full_item));
+                    }
+                    $files[] = [
+                        'name' => $item,
+                        'path' => $item,
+                        'type' => $info['type'],
+                        'icon' => $info['icon'],
+                        'mtime' => filemtime($full_item),
+                        'size' => filesize($full_item),
+                        'yt_id' => $yt_id
+                    ];
+                }
+            }
+        }
+
+        usort($directories, function($a, $b) { return $b['mtime'] - $a['mtime']; });
+        usort($files, function($a, $b) { return $b['mtime'] - $a['mtime']; });
+
+        return ['dirs' => $directories, 'files' => $files];
+    }
+}
+
+// ImageProcessor Class
+class ImageProcessor {
+    private $config;
+
+    public function __construct($config) {
+        $this->config = $config;
+    }
+
+    public function generateThumbnail($image_path, $size = null) {
+        $info = getFileInfo($image_path);
+        
+        // If not an image or if list view (size 0), we render an icon
+        if ($info['type'] !== 'image' || $size === 0) {
+            $this->renderIcon($info['icon'], $size ?: 48);
+            return true;
+        }
+
+        $size = $size ?: $this->config['default_thumb_size'];
+        $source_file = $this->config['gallery_root'] . '/' . $image_path;
+        $thumb_file = $this->config['thumb_dir'] . '/' . $size . '_' . str_replace(['/', '\\'], '_', $image_path);
+
+        if (!file_exists($source_file)) {
+            http_response_code(404);
+            return false;
+        }
+
+        if (file_exists($thumb_file) && filemtime($thumb_file) >= filemtime($source_file)) {
+            header('Content-Type: image/jpeg');
+            header('Cache-Control: max-age=31536000');
+            readfile($thumb_file);
+            return true;
+        }
+
+        $image_info = @getimagesize($source_file);
+        if (!$image_info) {
+             $this->renderIcon($info['icon'], $size);
+             return true;
+        }
+
+        $width = $image_info[0];
+        $height = $image_info[1];
+        $mime = $image_info['mime'];
+
+        $ratio = min($size / $width, $size / $height);
+        $new_width = $width * $ratio;
+        $new_height = $height * $ratio;
+
+        $source = $this->createImageResource($source_file, $mime);
+        if (!$source) {
+             $this->renderIcon($info['icon'], $size);
+             return true;
+        }
+
+        $thumbnail = imagecreatetruecolor($new_width, $new_height);
+
+        if ($mime == 'image/png' || $mime == 'image/gif') {
+            imagealphablending($thumbnail, false);
+            imagesavealpha($thumbnail, true);
+            $transparent = imagecolorallocatealpha($thumbnail, 255, 255, 255, 127);
+            imagefill($thumbnail, 0, 0, $transparent);
+        }
+
+        imagecopyresampled($thumbnail, $source, 0, 0, 0, 0, $new_width, $new_height, $width, $height);
+        imagejpeg($thumbnail, $thumb_file, 85);
+
+        imagedestroy($source);
+        imagedestroy($thumbnail);
+
+        header('Content-Type: image/jpeg');
+        header('Cache-Control: max-age=31536000');
+        readfile($thumb_file);
+        return true;
+    }
+
+    private function renderIcon($icon, $size) {
+        $size = max(32, $size);
+        $im = imagecreatetruecolor($size, $size);
+        $bg = imagecolorallocate($im, 248, 249, 250);
+        $text_color = imagecolorallocate($im, 50, 50, 50);
+        imagefill($im, 0, 0, $bg);
+        
+        $font_size = ($size > 100) ? 5 : 3;
+        $text = $icon;
+        $tw = imagefontwidth($font_size) * mb_strlen($text);
+        $th = imagefontheight($font_size);
+        imagestring($im, $font_size, ($size-$tw)/2, ($size-$th)/2, $text, $text_color);
+        
+        header('Content-Type: image/png');
+        imagepng($im);
+        imagedestroy($im);
+    }
+
+    private function createImageResource($file, $mime) {
+        switch ($mime) {
+            case 'image/jpeg': return imagecreatefromjpeg($file);
+            case 'image/png': return imagecreatefrompng($file);
+            case 'image/gif': return imagecreatefromgif($file);
+            case 'image/webp': return imagecreatefromwebp($file);
+            case 'image/avif': return function_exists('imagecreatefromavif') ? imagecreatefromavif($file) : false;
+            default: return false;
+        }
+    }
+
+    public function getImageMetadata($image_path) {
+        $info = getFileInfo($image_path);
+        if (!$this->config['enable_exif'] || $info['type'] !== 'image') return [];
+
+        $source_file = $this->config['gallery_root'] . '/' . $image_path;
+        $cache_file = $this->config['metadata_dir'] . '/meta_' . md5($image_path) . '.json';
+
+        if (file_exists($cache_file) && filemtime($cache_file) >= filemtime($source_file)) {
+            return json_decode(file_get_contents($cache_file), true);
+        }
+
+        $metadata = [];
+        if (function_exists('exif_read_data')) {
+            $exif = @exif_read_data($source_file);
+            if ($exif) {
+                $metadata['camera'] = isset($exif['Model']) ? $exif['Model'] : '';
+                $metadata['datetime'] = isset($exif['DateTime']) ? $exif['DateTime'] : '';
+                if (isset($exif['GPSLatitude']) && isset($exif['GPSLongitude'])) {
+                    $lat = $this->gpsToDecimal($exif['GPSLatitude'], $exif['GPSLatitudeRef']);
+                    $lng = $this->gpsToDecimal($exif['GPSLongitude'], $exif['GPSLongitudeRef']);
+                    if ($lat && $lng) {
+                        $metadata['gps'] = ['lat' => $lat, 'lng' => $lng];
+                        if ($this->config['enable_geocoding']) {
+                            $metadata['maps_url'] = "https://maps.google.com/?q={$lat},{$lng}";
+                        }
+                    }
+                }
+            }
+        }
+        file_put_contents($cache_file, json_encode($metadata));
+        return $metadata;
+    }
+
+    private function gpsToDecimal($coordinate, $hemisphere) {
+        if (!is_array($coordinate) || count($coordinate) != 3) return false;
+        $degrees = count($coordinate) > 0 ? $this->gpsToFloat($coordinate[0]) : 0;
+        $minutes = count($coordinate) > 1 ? $this->gpsToFloat($coordinate[1]) : 0;
+        $seconds = count($coordinate) > 2 ? $this->gpsToFloat($coordinate[2]) : 0;
+        $decimal = $degrees + ($minutes / 60) + ($seconds / 3600);
+        if ($hemisphere == 'S' || $hemisphere == 'W') $decimal *= -1;
+        return $decimal;
+    }
+
+    private function gpsToFloat($rational) {
+        if (strpos($rational, '/') !== false) {
+            $parts = explode('/', $rational);
+            return $parts[1] != 0 ? $parts[0] / $parts[1] : 0;
+        }
+        return floatval($rational);
+    }
+}
+
+// UIRenderer Class
+class UIRenderer {
+    private $config;
+
+    public function __construct($config) {
+        $this->config = $config;
+    }
+
+    public function generateBreadcrumbs($current_dir) {
+        $crumbs = [];
+        $crumbs[] = '<a href="/topics/" style="margin-right: 20px; color: #d4af37; text-decoration: none; font-weight: 700;">⬅ Topics</a><a href="?" data-nav="home">🏠 Gallery</a>';
+        if ($current_dir) {
+            $parts = explode('/', trim($current_dir, '/'));
+            $path = '';
+            foreach ($parts as $part) {
+                $path .= $part;
+                $crumbs[] = '<a href="?dir=' . urlencode($path) . '">' . htmlspecialchars($part) . '</a>';
+                $path .= '/';
+            }
+        }
+        return implode(' / ', $crumbs);
+    }
+
+    public function renderHTML($content, $current_dir, $page, $total_pages, $thumb_size) {
+        $files_page = array_slice($content['files'], ($page - 1) * $this->config['per_page'], $this->config['per_page']);
+        $imageProcessor = new ImageProcessor($this->config);
+        $is_list = ($thumb_size === 0);
+
+        ob_start();
+        ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bikepaths Media Explorer</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; padding: 20px; background: #f8f9fa; }
+        .header { background: #fff; padding: 15px; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .breadcrumbs { display: inline-block; font-size: 16px; font-weight: 500; }
+        .breadcrumbs a { color: #007cba; text-decoration: none; }
+        .controls { float: right; }
+        .grid-toggle { background: #e9ecef; color: #333; border: 1px solid #ced4da; padding: 6px 12px; margin: 0 2px; border-radius: 4px; cursor: pointer; font-size: 14px; }
+        .grid-toggle.active { background: #007cba; color: white; border-color: #007cba; }
+        
+        /* Gallery Layouts */
+        .gallery { display: grid; gap: 15px; margin-bottom: 20px; }
+        .gallery.small  { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+        .gallery.medium { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+        .gallery.large  { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+        
+        /* List View Specific */
+        .gallery.list { display: flex; flex-direction: column; gap: 8px; }
+        .gallery.list .item { 
+            display: flex; align-items: center; text-align: left; padding: 10px 20px; 
+            flex-direction: row; justify-content: flex-start;
+        }
+        .gallery.list .thumb-wrapper { width: 40px; margin-right: 20px; flex-shrink: 0; }
+        .gallery.list .icon-display { font-size: 24px; }
+        .gallery.list .filename { margin: 0; flex-grow: 1; font-size: 15px; }
+        .gallery.list .fileinfo { margin: 0 20px; white-space: nowrap; width: 180px; text-align: right; }
+        .gallery.list .metadata { display: none; }
+
+        /* General Item Styling */
+        .item { background: #fff; border-radius: 8px; padding: 15px; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.05); transition: transform 0.1s; position: relative; cursor: pointer; }
+        .item:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .thumb { max-width: 100%; height: auto; border-radius: 4px; }
+        .folder { font-size: 48px; color: #ffa500; cursor: pointer; margin-bottom: 10px; }
+        .filename { margin-top: 10px; font-size: 14px; font-weight: 500; color: #333; word-break: break-all; }
+        .fileinfo { font-size: 12px; color: #6c757d; margin-top: 8px; line-height: 1.4; }
+        .icon-large { font-size: 40px; margin: 10px 0; display: block; }
+
+        .pagination { text-align: center; margin: 40px 0; }
+        .pagination a, .pagination span { display: inline-block; padding: 8px 16px; margin: 0 4px; border-radius: 6px; text-decoration: none; }
+        .pagination a { background: #fff; color: #007cba; border: 1px solid #dee2e6; }
+        .pagination .current { background: #007cba; color: white; border-color: #007cba; }
+
+        .lightbox { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); z-index: 2000; }
+        .lightbox-content { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; height: 90%; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        .lightbox img, .lightbox video { max-width: 100%; max-height: 85%; object-fit: contain; }
+        .lightbox iframe { width: 90%; height: 85%; background: white; border: none; border-radius: 8px; }
+        .lightbox audio { width: 80%; max-width: 600px; }
+        .lightbox-info { color: white; text-align: center; margin-top: 25px; font-size: 16px; background: rgba(0,0,0,0.5); padding: 10px 20px; border-radius: 20px; }
+        .close { position: absolute; top: 20px; right: 30px; color: #fff; font-size: 40px; cursor: pointer; z-index: 2001; }
+        
+        @media (max-width: 768px) {
+            .controls { float: none; display: flex; justify-content: center; margin-top: 15px; }
+            .gallery.list .fileinfo { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="breadcrumbs">
+            <?php echo $this->generateBreadcrumbs($current_dir); ?>
+        </div>
+        <div class="controls">
+            <button class="grid-toggle <?php echo $thumb_size == 0 ? 'active' : ''; ?>" onclick="changeGridSize(0)">List</button>
+            <button class="grid-toggle <?php echo $thumb_size == 150 ? 'active' : ''; ?>" onclick="changeGridSize(150)">SML</button>
+            <button class="grid-toggle <?php echo $thumb_size == 200 ? 'active' : ''; ?>" onclick="changeGridSize(200)">MED</button>
+            <button class="grid-toggle <?php echo $thumb_size == 300 ? 'active' : ''; ?>" onclick="changeGridSize(300)">LRG</button>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+
+    <div class="gallery <?php echo $is_list ? 'list' : ($thumb_size <= 150 ? 'small' : ($thumb_size <= 200 ? 'medium' : 'large')); ?>" id="gallery">
+        <?php foreach ($content['dirs'] as $dir): ?>
+            <div class="item folder-item" onclick="location.href='?dir=<?php echo urlencode(($current_dir ? $current_dir . '/' : '') . $dir['path']); ?>'">
+                <div class="thumb-wrapper">
+                    <span class="folder <?php echo $is_list ? '' : 'icon-large'; ?>">📁</span>
+                </div>
+                <div class="filename"><?php echo htmlspecialchars($dir['name']); ?></div>
+                <div class="fileinfo"><?php echo date('Y-m-d H:i', $dir['mtime']); ?></div>
+            </div>
+        <?php endforeach; ?>
+
+        <?php foreach ($files_page as $index => $file):
+            $full_path = ($current_dir ? $current_dir . '/' : '') . $file['path'];
+            $metadata = ($file['type'] === 'image' && !$is_list) ? $imageProcessor->getImageMetadata($full_path) : [];
+        ?>
+            <div class="item file-item" data-type="<?php echo $file['type']; ?>" onclick="showLightbox(<?php echo $index; ?>)">
+                <div class="thumb-wrapper">
+                    <?php if ($is_list): ?>
+                        <span class="icon-display"><?php echo $file['icon']; ?></span>
+                    <?php else: ?>
+                        <img src="?thumb=<?php echo urlencode($full_path); ?>&size=<?php echo $thumb_size; ?>" class="thumb" alt="<?php echo htmlspecialchars($file['name']); ?>">
+                    <?php endif; ?>
+                </div>
+                <div class="filename"><?php echo htmlspecialchars($file['name']); ?></div>
+                <div class="fileinfo">
+                    <?php echo date('Y-m-d H:i', $file['mtime']); ?> • <?php echo number_format($file['size'] / 1024, 1); ?>KB
+                </div>
+            </div>
+        <?php endforeach; ?>
+    </div>
+
+    <?php if ($total_pages > 1): ?>
+        <div class="pagination">
+            <?php for ($i = 1; $i <= $total_pages; $i++): ?>
+                <?php if ($i == $page): ?>
+                    <span class="current"><?php echo $i; ?></span>
+                <?php else: ?>
+                    <a href="?dir=<?php echo urlencode($current_dir); ?>&page=<?php echo $i; ?>&size=<?php echo $thumb_size; ?>"><?php echo $i; ?></a>
+                <?php endif; ?>
+            <?php endfor; ?>
+        </div>
+    <?php endif; ?>
+
+    <div class="lightbox" id="lightbox">
+        <span class="close" onclick="hideLightbox()">&times;</span>
+        <div class="lightbox-content" id="lightbox-content"></div>
+    </div>
+
+    <script>
+        let currentFileIndex = 0;
+        let files = <?php echo json_encode(array_values($files_page)); ?>;
+        let currentDir = <?php echo json_encode($current_dir); ?>;
+        let galleryRoot = '<?php echo $this->config['gallery_root']; ?>';
+
+        function changeGridSize(size) {
+            const url = new URL(window.location);
+            url.searchParams.set('size', size);
+            window.location.href = url.toString();
+        }
+
+        function showLightbox(index) {
+            currentFileIndex = index;
+            const file = files[index];
+            const filePath = (currentDir ? currentDir + '/' : '') + file.path;
+            const fullUrl = galleryRoot + '/' + filePath;
+            const contentDiv = document.getElementById('lightbox-content');
+            
+            let html = '';
+            if (file.type === 'image') {
+                html = `<img src="${fullUrl}">`;
+            } else if (file.type === 'youtube') {
+                html = `<iframe src="https://www.youtube-nocookie.com/embed/${file.yt_id}?modestbranding=1&rel=0&showinfo=0&autoplay=1" frameborder="0" allowfullscreen style="width:100%; height:450px;"></iframe>`;
+            } else if (file.type === 'video') {
+                html = `<video src="${fullUrl}" controls autoplay></video>`;
+            } else if (file.type === 'audio') {
+                html = `<audio src="${fullUrl}" controls autoplay></audio>`;
+            } else if (file.type === 'doc') {
+                html = `<iframe src="${fullUrl}"></iframe><br><a href="${fullUrl}" target="_blank" style="color:#007cba; background:white; padding:5px 15px; border-radius:15px; text-decoration:none; margin-top:10px">Open in New Tab</a>`;
+            } else {
+                html = `<div style="font-size: 64px">📄</div><br><a href="${fullUrl}" target="_blank" style="color:white">Download File</a>`;
+            }
+
+            html += `<div class="lightbox-info">
+                <strong>${file.name}</strong><br>
+                ${new Date(file.mtime * 1000).toLocaleString()} • ${(file.size / 1024).toFixed(1)}KB
+            </div>`;
+
+            contentDiv.innerHTML = html;
+            document.getElementById('lightbox').style.display = 'block';
+        }
+
+        function hideLightbox() {
+            document.getElementById('lightbox').style.display = 'none';
+            document.getElementById('lightbox-content').innerHTML = '';
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (document.getElementById('lightbox').style.display === 'block') {
+                if (e.key === 'Escape') hideLightbox();
+                if (e.key === 'ArrowRight' && currentFileIndex < files.length - 1) showLightbox(currentFileIndex + 1);
+                if (e.key === 'ArrowLeft' && currentFileIndex > 0) showLightbox(currentFileIndex - 1);
+            }
+        });
+
+        document.getElementById('lightbox').addEventListener('click', function(e) {
+            if (e.target === this) hideLightbox();
+        });
+    </script>
+</body>
+</html>
+<?php return ob_get_clean(); } }
+
+class Gallery {
+    private $config;
+    private $fileManager;
+    private $imageProcessor;
+    private $uiRenderer;
+
+    public function __construct($config) {
+        $this->config = $config;
+        $this->fileManager = new FileManager($config);
+        $this->imageProcessor = new ImageProcessor($config);
+        $this->uiRenderer = new UIRenderer($config);
+    }
+
+    public function handleRequest() {
+        if (isset($_GET['thumb'])) {
+            $size = isset($_GET['size']) ? intval($_GET['size']) : $this->config['default_thumb_size'];
+            $this->imageProcessor->generateThumbnail($_GET['thumb'], $size);
+            return;
+        }
+        $current_dir = isset($_GET['dir']) ? str_replace(['../', './'], '', $_GET['dir']) : '';
+        $full_path = rtrim($this->config['gallery_root'] . '/' . $current_dir, '/');
+        $content = $this->fileManager->scanDirectory($full_path);
+        $page = isset($_GET['page']) ? max(1, intval($_GET['page'])) : 1;
+        $total_files = count($content['files']);
+        $total_pages = ceil($total_files / $this->config['per_page']);
+        $thumb_size = isset($_GET['size']) ? intval($_GET['size']) : $this->config['default_thumb_size'];
+        if (!in_array($thumb_size, $this->config['thumb_sizes'])) $thumb_size = $this->config['default_thumb_size'];
+        echo $this->uiRenderer->renderHTML($content, $current_dir, $page, $total_pages, $thumb_size);
+    }
+}
+
+$gallery = new Gallery($config);
+$gallery->handleRequest();
+?>
