@@ -1,7 +1,7 @@
 <!--t Bob Marley&#039;s Redemption Song: A Message of Liberation and Inner Freedom t-->
 <!--d Explore the profound message of Bob Marley&#039;s Redemption Song, focusing on the call for mental liberation and spiritual strength in the face of oppression. d-->
 <!--tag society,music,marley,redemption-song,liberation,spirituality tag-->
-<!--link https://www.bikepaths.org/topics/audio/music/marley-redemption-song.ogg link-->
+<!--image https://bikepaths.org/blog/content/images/marley.jpg image-->
 
 Redemption Song is a powerful anthem by Bob Marley, released in 1980 as a message of liberation that continues to resonate today. Through this track, Marley urges listeners to free themselves from mental slavery and take control of their own minds.
 
@@ -23,86 +23,49 @@ Despite the heavy themes, Marley expresses optimism for the current generation, 
 
 The spiritual connection found in the music empowers the generation by focusing on the importance of individual agency and self-empowerment. Ultimately, the pursuit of personal and collective freedom remains a central pillar of the human experience.
 
-Listen to his song by clicking on the title link of this article above.
+[**Listen to Bob Marley's Redemption Song (Audio)**](https://www.bikepaths.org/topics/audio/music/marley-redemption-song.ogg)
 
-![Bob Marley](https://bikepaths.org/blog/content/images/marley.jpg)
+**Redemption Song Lyrics**
 
 > Old pirates, yes, they rob I
-
 > Sold I to the merchant ships
-
 > Minutes after they took I
-
 > From the bottomless pit
-
 > But my hand was made strong
-
 > By the hand of the Almighty
-
 > We forward in this generation
-
 > Triumphantly
-
 > Won't you help to sing
-
 > These songs of freedom?
-
 > 'Cause all I ever have
-
 > Redemption songs
-
 > Emancipate yourselves from mental slavery
-
 > None but ourselves can free our minds
-
 > Have no fear for atomic energy
-
 > 'Cause none of them can stop the time
-
 > How long shall they kill our prophets
-
 > While we stand aside and look?
-
 > Ooh, some say it's just a part of it
-
 > We've got to fulfill the Book
  
 > Won't you help to sing
-
 > These songs of freedom?
-
 > 'Cause all I ever have
-
 > Redemption songs
-
 > Emancipate yourselves from mental slavery
-
 > None but ourselves can free our minds
-
 > Have no fear for atomic energy
-
 > 'Cause none of them can stop the time
-
 > How long shall they kill our prophets
-
 > While we stand aside and look?
-
 > Yes, some say it's just a part of it
-
 > We've got to fulfill the Book
 
 > Won't you help to sing
-
 > These songs of freedom?
-
 > 'Cause all I ever had
-
 > Redemption songs
-
 > All I ever had
-
 > Redemption songs
-
 > These songs of freedom
-
 > Songs of freedom
