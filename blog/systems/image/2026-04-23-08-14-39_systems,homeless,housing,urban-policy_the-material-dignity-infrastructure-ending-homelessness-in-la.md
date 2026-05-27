@@ -1,11 +1,7 @@
-<!--t The Material Dignity Infrastructure: Ending Homelessness in LA t-->
-<!--d The full working paper &quot;Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization&quot; (2026) is linked below. This post summarizes the working paper for a general audience. d-->
-<!--tag systems tag-->
+<!--t Ending Homelessness in LA: Material Dignity Infrastructure t-->
+<!--d The full working paper Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization (2026) is linked below. This post summarizes the working paper for a general audience. d-->
+<!--tag systems,homeless,housing,urban-policy tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-347.jpg image-->
-
-**The Unengineered Pipeline: A Systems Case for the Material Dignity Infrastructure**
-
-Metadescription: The full working paper "Material Dignity Infrastructure: Los Angeles Metropolitan Stabilization" (2026) is linked below. This post summarizes the working paper for a general audience.
 
 Homelessness in Los Angeles is not primarily a housing supply constraint but a pipeline problem, because the system connecting the street to housing has never been engineered. That distinction is the central idea that underpins the Material Dignity Infrastructure (MDI) approach, and it changes what a viable solution looks like.
 

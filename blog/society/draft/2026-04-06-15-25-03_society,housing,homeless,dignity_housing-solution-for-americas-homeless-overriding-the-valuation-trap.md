@@ -1,4 +1,4 @@
-<!--t Housing Solution for America&#039;s Homeless: Overriding the Valuation Trap t-->
+<!--t Housing Solution for Homeless: Overriding the Valuation Trap t-->
 <!--d The housing market requires scarcity to build asset wealth. The federal Material Dignity Implementation bypasses the market by placing factory-built, single-occupancy homes directly onto volunteer properties. d-->
 <!--tag society,housing,homeless,dignity tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-371.jpg image-->
