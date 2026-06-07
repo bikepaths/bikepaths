@@ -5,11 +5,12 @@
 
 ### tl;dr
 
-Chronic street exposure forces the human nervous system into continuous cycles of sympathetic hyperarousal and parasympathetic shutdown. Physiological extremis renders isolated housing unintelligible, forcing structural separation. Capital streams must maintain operational independence. By braiding distinct streams, systems can sustain the relational presence necessary to stabilize autonomic function while migrating intact survival networks indoors.
+Chronically unsheltered individuals operate under biological survival reflexes, not voluntary choices. Placing traumatized people into single-occupancy isolation disables danger-monitoring reflexes, triggering panic and immediate housing rejection. Successful stabilization requires moving intact peer defense networks indoors together. Execution blueprint requires converting commercial office towers using shared central utility cores and funding operations via Medicaid billing codes, bypassing state budget deficits.
 
 #### Reading time averages six minutes. 
 
 Word count totals 1950 words. 
+
 Long-form narrative structure.
 
 On East Sixth Street, she sat against the retaining wall. Her posture collapsed inward as her breathing remained shallow. Approaching the wall, the outreach worker crouched six feet away and said her name before waiting for a response. Her eyes remained open but did not track his voice. Without speaking further, he placed a bottle of water beside her hand, noted the interaction on his tablet, checked a box labeled "Service Declined," and moved to the next person on his route.
@@ -37,8 +38,11 @@ Resolving this failure requires structural financial separation. Managed care sy
 Despite twenty-eight trillion dollars in national gross domestic product, the solution remains unassembled. The technological infrastructure for permanent supportive housing exists. The clinical data mapping autonomic responses has been available since 1994. The fiscal data proving street management costs more than stabilization has been available since 2002. Four independent structural forces maintain this operational misalignment:
 
 *   **Political Voice Asymmetry**: The chronically unsheltered lack proportionate electoral influence. They do not fund campaigns or attend public hearings. Organized incumbent interests dominate procurement decisions.
+
 *   **Asset Protection**: Local political systems protect existing property values by constraining new construction through zoning restrictions and environmental review processes.
+
 *   **Geographic Insulation**: Physical geography separates property-owning electorates from encampment concentrations. Visual distance neutralizes political urgency.
+
 *   **Institutional Inertia**: Existing service systems employ thousands of individuals and distribute billions of dollars. Changing the funding architecture threatens established contract bases.
 
 Implementation requires overriding these forces. Finland reduced its homeless population by forty percent over fifteen years through sustained political commitment. Closing the distance between clinical knowledge and public action demands visible crises, legal mandates, and structural prototypes that bypass institutional resistance.
