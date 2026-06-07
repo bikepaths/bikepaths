@@ -5,7 +5,7 @@
 
 ### tl;dr
 
-Chronically unsheltered individuals operate under biological survival reflexes, not voluntary choices. Placing traumatized people into single-occupancy isolation disables danger-monitoring reflexes, triggering panic and immediate housing rejection. Successful stabilization requires moving intact peer defense networks indoors together. Execution blueprint requires converting commercial office towers using shared central utility cores and funding operations via Medicaid billing codes, bypassing state budget deficits.
+Chronically unsheltered individuals operate under biological survival reflexes, not voluntary choices. Placing traumatized people into single-occupancy isolation disables danger-monitoring reflexes, triggering panic and eventual housing rejection. Successful stabilization requires moving intact peer defense networks indoors together. Execution blueprint requires converting commercial office towers using shared central utility cores and funding operations via Medicaid billing codes, bypassing state budget deficits.
 
 #### Reading time averages six minutes. 
 
