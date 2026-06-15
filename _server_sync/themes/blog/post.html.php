@@ -50,7 +50,7 @@
 
 
 <div style="margin-top:0px;position:relative;">
-	<a href="https://bikepaths.org/blog/topics/audio/podcasts/">Podcasts</a>
+	<a href="https://bikepaths.org/blog/tips/">Kindle Books</a>
 	<div class="share pull-right social-logo social">
         <span class="voting" style="margin-right: 20px; border-right: 1px solid #eee; padding-right: 15px;">
             <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50;"><i class="fa fa-thumbs-up"></i></a>
