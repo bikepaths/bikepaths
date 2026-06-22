@@ -1,7 +1,7 @@
-<!--t <!--t Urban Astrophysics: How Concrete Infrastructure Amplifies Planetary Radiation t--> t-->
-<!--d <!--tag systems,society,health,technology,urban-infrastructure tag--> d-->
+<!--t Urban Astrophysics: How Concrete Infrastructure Amplifies Planetary Radiation t-->
+<!--d Modern cities combine rigid artificial schedules with highly reflective glass infrastructure, amplifying solar radiation and destroying essential human biological rhythms. d-->
 <!--tag systems, society, health, technology, urban-infrastructure, series-redefining-urban-infrastructure tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/systems_society_t-urban-astrophysics-how-concrete-infrastructure-amplifies-planetary-radiation-t.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/urban_solar_radiation_man.webp image-->
 
 Human biology depends on an internal clock using natural sunlight to decide when people should sleep. When the evening sky turns dark, the brain makes a chemical called melatonin. This powerful chemical makes muscles feel exhausted and tells the human body to rest. But when the summer sun stays high until late evening, the brain never sees the dark sky. Without seeing darkness, the brain refuses to make melatonin. Exhausted workers stay wide awake while trapped inside artificial cities built ignoring human health.
 
