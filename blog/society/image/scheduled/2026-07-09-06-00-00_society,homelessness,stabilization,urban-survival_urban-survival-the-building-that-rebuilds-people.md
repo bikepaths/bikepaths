@@ -23,9 +23,9 @@ For a person who has lived outside for five or eight years, the scattered-site a
 
 **The Dunbar Pod: Social Architecture as Clinical Design**
 
-The human brain has a cognitive ceiling for genuine trust relationships. Research by anthropologist Robin Dunbar documented this ceiling at roughly 150 people, the number of individuals a human brain can track with enough relational depth to function as a genuine social group. Beyond 150, the group becomes a crowd. Below 150, it becomes a community.
+The human brain possesses a cognitive ceiling limiting the maintenance of stable social relationships. Anthropologist Robin Dunbar identified this limit at exactly 150 individuals, the threshold for functional social networking without formal rules or hierarchies. Beyond 150, communication and cohesion break down, requiring artificial bureaucratic structures. Beneath 150, natural community cohesion regulates the environment.
 
-The framework described in this series builds housing around this limit. Each pod within the tower contains 154 residents. Not 500. Not 1,000. Not the anonymous mass of a large residential building. A number at which the brain can learn who each person is, build genuine relationships, and experience the social stability that is as necessary to recovery as clean air and adequate nutrition.
+The framework described in this series builds housing around this limit. Each pod within the tower contains 150 residents. Not 500. Not 1,000. Not the anonymous mass of a large residential building. This specific 150-person threshold allows the brain to learn who each person is, build genuine functional relationships, and experience the social stability that is as necessary to recovery as clean air and adequate nutrition.
 
 Within the pod, one person holds a specific role: the Pod Steward. The Pod Steward is a peer specialist, a person with lived experience of homelessness and recovery, who lives in the building and is available to residents around the clock. Not a distant case manager reached by appointment. A neighbor, present in the same building, known by name, available for the 2am crisis as well as the scheduled check-in.
 
@@ -65,7 +65,7 @@ This matters because housing instability is itself a clinical risk factor. A per
 
 **Why All of This Together**
 
-Each feature described in this post, the pod size, the steward, the acoustic rating, the lockable door, zero separation, permanent tenure, is necessary but not sufficient on its own. A pod of 154 people in a noisy building with shared rooms and no steward is not the model. A quiet building with private rooms but no social structure and no steward is not the model.
+Each feature described in this post, the pod size, the steward, the acoustic rating, the lockable door, zero separation, permanent tenure, is necessary but not sufficient on its own. A pod of 150 people in a noisy building with shared rooms and no steward is not the model. A quiet building with private rooms but no social structure and no steward is not the model.
 
 The features work together as a system. They replicate, at scale and with state backing, the conditions that the metabolic stabilization document in this series described at the level of a single room: silence, safety, voluntariness, human presence, and control of the boundary.
 
