@@ -25,7 +25,7 @@ A police sweep of an encampment costs in officer time, equipment, disposal of ab
 
 Researchers tracking the total cost of a single chronically homeless individual, a person who cycles through emergency rooms, psychiatric holds, jail for minor offenses, and repeated shelter entries over multiple years, have found the annual cost to the city and county to range from $30,000 to $150,000 per person per year, depending on the intensity of their system usage. These figures are not projections. They are audited expenditures drawn from existing fiscal records.
 
-The framework described in this series projects a reduction in emergency service costs of at least $40,000 per resident per year once Phase Zero stabilization and permanent housing are in place. This projection is conservative. It is based on the documented reduction in emergency service utilization that occurs when a person moves from chronic street exposure into stable, supported housing.
+The framework described in this series projects a reduction in emergency service costs of at least $40,000 per resident per year once Phase Zero stabilization and permanent housing are in place. This projection is conservative. It is based on the documented reduction in emergency service usage that occurs when a person moves from chronic street exposure into stable, supported housing.
 
 **The Water Pump That Pays for Itself**
 
@@ -59,7 +59,7 @@ The framework assembles it. The fiscal audit required by metric three of the eig
 
 This post has made the fiscal argument because the fiscal argument is necessary and frequently decisive in policy decisions. But the group that has developed this framework does not believe the fiscal argument is the most important one.
 
-The most important argument is in Post 1. It is the person on the ground. It is the body in contact with concrete through every hour of every night. It is the exposure death spiral documented in Post 2. It is the human being in Stage Three depletion whose brain has withdrawn from external input and who sits in the rain without moving because the biology has run out of capacity to do otherwise.
+The most important argument is in [Part 1: How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless.md). It is the person on the ground. It is the body in contact with concrete through every hour of every night. It is the exposure death spiral documented in [Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md). It is the human being in Stage Three depletion whose brain has withdrawn from external input and who sits in the rain without moving because the biology has run out of capacity to do otherwise.
 
 If the framework cost more than the current system and never paid for itself, the case for it would still be strong, because the current system is producing preventable deaths in cities with functioning economies and surplus infrastructure, and that is a failure of moral engineering that no fiscal argument should be required to correct.
 
@@ -67,4 +67,4 @@ The fiscal argument is offered here because it happens to be true, and because i
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)

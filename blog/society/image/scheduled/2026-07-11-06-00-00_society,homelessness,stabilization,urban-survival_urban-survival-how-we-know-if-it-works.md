@@ -27,19 +27,19 @@ At least 85 percent of residents placed in the building must remain housed at 24
 
 **Measurement Three: Emergency Service Cost Reduction**
 
-The county fiscal audit must confirm a reduction of at least $40,000 per resident per year in emergency service costs. This is the measurement that connects the fiscal argument made in Post 10 to a verifiable outcome. If the reduction does not materialize, the fiscal case for the framework does not hold and must be reconsidered.
+The county fiscal audit must confirm a reduction of at least $40,000 per resident per year in emergency service costs. This is the measurement that connects the fiscal argument made in [Part 10: What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md) to a verifiable outcome. If the reduction does not materialize, the fiscal case for the framework does not hold and must be reconsidered.
 
 **Measurement Four: Voluntary Acceptance Rate for Group Two**
 
-At least 55 percent of Group Two residents, the encamped but reachable, described in Post 4, must accept the warm housing offer at the moment of their crisis window. This measurement confirms that the real offer described in Post 6 is structured correctly and that the outreach relationships built over 12 to 24 months are producing the result they are designed to produce.
+At least 55 percent of Group Two residents, the encamped but reachable, described in [Part 4: Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md), must accept the warm housing offer at the moment of their crisis window. This measurement confirms that the real offer described in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md) is structured correctly and that the outreach relationships built over 12 to 24 months are producing the result they are designed to produce.
 
-**Measurement Five: Legal Instrument Utilization for Group Three**
+**Measurement Five: Legal Instrument Application for Group Three**
 
-At least 15 percent of the Group Three cohort, those whose neurology makes voluntary engagement clinically impossible, must be housed through the legal pathways described in Post 7. This measurement confirms that the legal instruments are being used and that they are reaching the people they are designed to reach. If this measurement is not met, the legal pathway is not functioning and the Group Three cohort is being left in the exposure spiral.
+At least 15 percent of the Group Three cohort, those whose neurology makes voluntary engagement clinically impossible, must be housed through the legal pathways described in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md). This measurement confirms that the legal instruments are being used and that they are reaching the people they are designed to reach. If this measurement is not met, the legal pathway is not functioning and the Group Three cohort is being left in the exposure spiral.
 
 **Measurement Six: Capital Recovery Timeline**
 
-The breakeven point described in Post 10 must be reached within 45 months of full operation. A stewardship authority audit confirms this. If the fiscal recovery does not occur within this window, the economic model requires revision.
+The breakeven point described in [Part 10: What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md) must be reached within 45 months of full operation. A stewardship authority audit confirms this. If the fiscal recovery does not occur within this window, the economic model requires revision.
 
 **Measurement Seven: Phase Zero Clearance Rate**
 

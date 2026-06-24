@@ -35,9 +35,9 @@ Outreach workers must be present in the encampment for months before that window
 
 This person has been outside for five, eight, ten years or more. During that time, the combination of untreated psychosis or severe mental illness and the biological damage of long-term exposure has altered the chemistry of the brain in ways that are now measurable. The prefrontal cortex, responsible for planning, decision-making, and the ability to perceive one's own condition, is no longer functioning as it did before the years of cortisol flooding and sleep deprivation.
 
-Many people in this group have a condition called anosognosia. This word will be explained fully in Post 7. For now, it is enough to say that anosognosia means the brain's own illness has removed the brain's ability to perceive that illness. The person is not in denial. They are not being stubborn. The neurological faculty that would allow them to recognize their own condition has been damaged by the disease itself. Persuasion cannot reach a faculty that metabolic disease has destroyed.
+Many people in this group have a condition called anosognosia. This word will be explained fully in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md). For now, it is enough to say that anosognosia means the brain's own illness has removed the brain's ability to perceive that illness. The person is not in denial. They are not being stubborn. The neurological faculty that would allow them to recognize their own condition has been damaged by the disease itself. Persuasion cannot reach a faculty that metabolic disease has destroyed.
 
-This group represents roughly 34 percent of the unsheltered population. They require a different pathway, one that combines long-term clinical presence in their environment with legal instruments of last resort that are activated only when biological thresholds of danger have been met. This is described in detail in Post 7.
+This group represents roughly 34 percent of the unsheltered population. They require a different pathway, one that combines long-term clinical presence in their environment with legal instruments of last resort that are activated only when biological thresholds of danger have been met. This is described in detail in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md).
 
 **Group Three (Riparian): The Invisible Population**
 
@@ -45,7 +45,7 @@ Within Group Three, there is a sub-population that the standard count never find
 
 These people are mobile, terrain-adapted, and systematically missed by the single-night Point-in-Time count that cities use to measure their homeless population. Field evidence suggests they represent 20 to 30 percent above the official count, meaning that a city that believes it has 10,000 unsheltered people may have 12,000 or 13,000.
 
-Finding this population requires different tools. Post 8 in this series is dedicated entirely to how they are found and what response reaches them.
+Finding this population requires different tools. [Part 8: The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md) in this series is dedicated entirely to how they are found and what response reaches them.
 
 **Group Four: The Voluntary Nomads**
 
@@ -65,4 +65,4 @@ This is the operational design that separates an engineering framework from a po
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)

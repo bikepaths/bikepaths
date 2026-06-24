@@ -43,7 +43,7 @@ For a significant portion of the people on the street, roughly a third by the be
 
 This is not a moral judgment. It is a biological description. An engine that has seized cannot be fixed by offering it better fuel. The engine must be opened, the seized components freed, and the system brought back to operating temperature before fuel becomes useful again.
 
-The body in Stage Three depletion is the seized engine. Phase Zero stabilization, the subject of Post 5 in this series, is the process of opening the engine before anything else is attempted.
+The body in Stage Three depletion is the seized engine. Phase Zero stabilization, the subject of [Part 5: What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md) in this series, is the process of opening the engine before anything else is attempted.
 
 **What This Means for the City**
 
@@ -57,4 +57,4 @@ Once that precondition is met, the rest of the tools work as they were designed 
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)

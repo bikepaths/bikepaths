@@ -7,7 +7,7 @@
 
 **When Persuasion Cannot Reach — Part 7 of 11**
 
-Post 6 described the person whose refusal of housing is rational, whose objections are real and whose barriers are concrete and removable. This post describes a different person. This person cannot be reached by better offers, longer outreach relationships, or more skilled persuasion. Not because they have decided against housing. Because the neurological faculty that would process the offer and produce a decision has been damaged by disease.
+[Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md) described the person whose refusal of housing is rational, whose objections are real and whose barriers are concrete and removable. This post describes a different person. This person cannot be reached by better offers, longer outreach relationships, or more skilled persuasion. Not because they have decided against housing. Because the neurological faculty that would process the offer and produce a decision has been damaged by disease.
 
 Understanding this distinction is among the most important things this series will ask of the reader. Getting it wrong in one direction produces unnecessary coercion. Getting it wrong in the other direction leaves people to die on the street in the name of protecting their freedom.
 
@@ -63,4 +63,4 @@ The framework holds these two things simultaneously: maximum effort toward volun
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md)

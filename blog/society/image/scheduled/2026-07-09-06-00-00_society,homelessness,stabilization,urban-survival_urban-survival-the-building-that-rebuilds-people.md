@@ -51,7 +51,7 @@ Phase Zero stabilization works only when the person controls entry to their own 
 
 **Zero Separation**
 
-The Three Ps described in Post 6, pets, partners, possessions, do not disappear once a person enters permanent housing. A building designed for people leaving homelessness must accommodate all three from day one of occupancy, not as a future aspiration but as a baseline specification.
+The Three Ps described in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md), pets, partners, possessions, do not disappear once a person enters permanent housing. A building designed for people leaving homelessness must accommodate all three from day one of occupancy, not as a future aspiration but as a baseline specification.
 
 The pet has a space within or adjacent to the unit. The partner shares the unit. The possessions, the cart, the objects from the previous life, are stored securely within the building under the person's control and can be accessed at any time.
 
@@ -73,4 +73,4 @@ The building continues what Phase Zero began. The community inside it provides w
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)

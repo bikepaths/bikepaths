@@ -9,7 +9,7 @@
 
 There is a sequence to recovery that the body enforces whether or not the city acknowledges it. The body does not care about policy timelines or intake forms or housing availability. It moves through its own stages of damage and repair at its own speed, in response to its own conditions. A framework that ignores this sequence does not eliminate it. It collides with it, and the body loses.
 
-Post 2 in this series described the descent, the three stages of biological damage that exposure produces over days and weeks. This post describes the reversal. What does it take to actually stop the spiral? What does the body need before it can receive anything else?
+[Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md) in this series described the descent, the three stages of biological damage that exposure produces over days and weeks. This post describes the reversal. What does it take to actually stop the spiral? What does the body need before it can receive anything else?
 
 The answer is called Phase Zero. It is the missing first step in almost every city's response to homelessness.
 
@@ -19,7 +19,7 @@ Phase Zero is the period of metabolic stabilization that must occur before a per
 
 It is not a waiting room. It is not a bureaucratic holding stage. It is an active clinical and environmental process in which the body is given the specific physical conditions it needs to stop running its emergency systems and begin repairing itself.
 
-The body under permanent outdoor exposure, as described in Post 1, is like an engine locked at full heat with no cooling system. You cannot service an engine running at full heat. You must bring the temperature down first. Phase Zero brings the temperature down.
+The body under permanent outdoor exposure, as described in [Part 1: How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless.md), is like an engine locked at full heat with no cooling system. You cannot service an engine running at full heat. You must bring the temperature down first. Phase Zero brings the temperature down.
 
 **What the Body Requires**
 
@@ -61,8 +61,8 @@ Forcing a person into an enclosed space produces the opposite of stabilization. 
 
 The voluntary nature of Phase Zero is not a concession to philosophy. It is a clinical requirement. The body will not cooperate with stabilization unless the brain's threat-detection system has registered the space as safe and the entry as a choice. Trust is not an ethical preference in this context. It is a physiological input.
 
-This is why the outreach work described in Post 6 must come before the housing offer. The offer cannot be made cold. The relationship that makes the offer receivable, and therefore makes Phase Zero possible, must be built first.
+This is why the outreach work described in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md) must come before the housing offer. The offer cannot be made cold. The relationship that makes the offer receivable, and therefore makes Phase Zero possible, must be built first.
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)

@@ -57,4 +57,4 @@ The rest of this series is about what a matched response looks like. It begins w
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail.md)
