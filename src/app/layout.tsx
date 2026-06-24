@@ -23,7 +23,6 @@ export default function RootLayout({
             <Link href="https://bikepaths.org/blog" className="logo">bikepaths.org</Link>
             <nav>
               <ul>
-                <li><Link href="https://bikepaths.org/blog/category/society">Society</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/technology">Technology</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/systems">Systems</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/society">Society</Link></li>
