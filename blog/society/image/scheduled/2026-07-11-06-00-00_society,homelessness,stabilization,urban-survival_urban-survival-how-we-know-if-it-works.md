@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **How We Know If It Works — Part 11 of 11**
 
@@ -79,7 +79,7 @@ The standard is now written down. The measurements are now stated. The word can 
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 *Series Complete*
 

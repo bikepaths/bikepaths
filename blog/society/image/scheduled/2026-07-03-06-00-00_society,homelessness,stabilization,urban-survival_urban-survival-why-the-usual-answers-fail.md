@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **Why the Usual Answers Fail — Part 3 of 11**
 
@@ -59,6 +59,6 @@ Once that precondition is met, the rest of the tools work as they were designed 
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)

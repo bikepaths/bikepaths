@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **What It Costs to Do Nothing — Part 10 of 11**
 
@@ -69,6 +69,6 @@ The fiscal argument is offered here because it happens to be true, and because i
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)

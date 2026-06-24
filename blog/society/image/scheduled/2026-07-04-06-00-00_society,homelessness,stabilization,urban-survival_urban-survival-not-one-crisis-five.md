@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **Not One Crisis, Five — Part 4 of 11**
 
@@ -67,6 +67,6 @@ This is the operational design that separates an engineering framework from a po
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)

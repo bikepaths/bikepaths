@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **What the Body Needs Before the Key — Part 5 of 11**
 
@@ -67,6 +67,6 @@ This is why the outreach work described in Post 6 must come before the housing o
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)

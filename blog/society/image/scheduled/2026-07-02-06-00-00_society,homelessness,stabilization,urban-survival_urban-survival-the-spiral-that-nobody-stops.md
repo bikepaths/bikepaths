@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **The Spiral That Nobody Stops — Part 2 of 11**
 
@@ -59,6 +59,6 @@ The rest of this series is about what a matched response looks like. It begins w
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail.md)

@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **The People Nobody Counted — Part 8 of 11**
 
@@ -63,6 +63,6 @@ A framework built on a count that misses 20 to 30 percent of the population it i
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md)

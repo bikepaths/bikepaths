@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **When Persuasion Cannot Reach — Part 7 of 11**
 
@@ -65,6 +65,6 @@ The framework holds these two things simultaneously: maximum effort toward volun
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md)

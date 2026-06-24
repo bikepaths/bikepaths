@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **What a Real Offer Looks Like — Part 6 of 11**
 
@@ -71,6 +71,6 @@ That offer is receivable. It has been earned.
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md)

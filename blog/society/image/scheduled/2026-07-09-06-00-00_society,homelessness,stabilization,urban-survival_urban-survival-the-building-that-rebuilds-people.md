@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **The Building That Rebuilds People — Part 9 of 11**
 
@@ -75,6 +75,6 @@ The building continues what Phase Zero began. The community inside it provides w
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)

@@ -3,7 +3,7 @@
 <!--tag society, homelessness, stabilization, urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 **How It Feels to Be Homeless — Part 1 of 11**
 
@@ -49,6 +49,6 @@ Everything that follows in this series is a response to what you have just seen.
 
 ---
 
-**Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival) **
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
 
 Part 2: [The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md)
