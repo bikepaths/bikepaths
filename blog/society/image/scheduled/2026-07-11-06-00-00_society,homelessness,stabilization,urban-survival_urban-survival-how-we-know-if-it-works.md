@@ -7,8 +7,6 @@
 
 **How We Know If It Works — Part 11 of 11**
 
----
-
 Every policy proposal says it will work. Every framework promises better outcomes. The history of homelessness policy is filled with plans that were implemented with genuine commitment, measured by metrics designed after the fact to show progress, and declared successful while the population on the street continued to grow.
 
 The framework described in this series does something different. It states, in advance, the specific conditions under which it has failed.
@@ -79,5 +77,4 @@ The standard is now written down. The measurements are now stated. The word can 
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-*Series Complete*
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - *Series Complete*

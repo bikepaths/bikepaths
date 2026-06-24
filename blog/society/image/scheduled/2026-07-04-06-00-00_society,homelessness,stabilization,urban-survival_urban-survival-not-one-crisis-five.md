@@ -65,5 +65,4 @@ This is the operational design that separates an engineering framework from a po
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)

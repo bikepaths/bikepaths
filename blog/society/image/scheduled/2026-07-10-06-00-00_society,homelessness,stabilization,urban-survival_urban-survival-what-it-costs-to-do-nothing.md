@@ -67,5 +67,4 @@ The fiscal argument is offered here because it happens to be true, and because i
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)

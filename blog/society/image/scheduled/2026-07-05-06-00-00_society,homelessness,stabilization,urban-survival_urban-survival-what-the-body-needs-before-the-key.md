@@ -65,5 +65,4 @@ This is why the outreach work described in Post 6 must come before the housing o
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)

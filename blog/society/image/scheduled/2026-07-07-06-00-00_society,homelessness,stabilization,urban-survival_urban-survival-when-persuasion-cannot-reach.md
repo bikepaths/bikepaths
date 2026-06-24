@@ -63,5 +63,4 @@ The framework holds these two things simultaneously: maximum effort toward volun
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md)

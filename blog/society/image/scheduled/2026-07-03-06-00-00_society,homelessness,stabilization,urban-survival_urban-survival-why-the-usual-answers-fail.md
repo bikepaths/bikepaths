@@ -57,5 +57,4 @@ Once that precondition is met, the rest of the tools work as they were designed 
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)

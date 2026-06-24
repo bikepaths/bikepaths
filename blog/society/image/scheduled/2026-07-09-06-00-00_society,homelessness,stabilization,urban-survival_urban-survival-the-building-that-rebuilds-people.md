@@ -73,5 +73,4 @@ The building continues what Phase Zero began. The community inside it provides w
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)

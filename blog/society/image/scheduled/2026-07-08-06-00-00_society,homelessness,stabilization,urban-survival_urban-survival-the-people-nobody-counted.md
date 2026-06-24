@@ -61,5 +61,4 @@ A framework built on a count that misses 20 to 30 percent of the population it i
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md)
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Next: Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md)
