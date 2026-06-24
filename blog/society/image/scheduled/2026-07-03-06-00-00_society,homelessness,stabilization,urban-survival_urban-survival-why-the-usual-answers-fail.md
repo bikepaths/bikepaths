@@ -7,8 +7,6 @@
 
 **Why the Usual Answers Fail — Part 3 of 11**
 
----
-
 Cities have been trying to solve homelessness for decades. The efforts are real. The funding is real. The people doing the work care deeply about the outcome. And yet the population on the street does not decrease. In most cities, it grows.
 
 This is not a failure of effort or compassion. It is a failure of match. The tools being used are applied to the wrong conditions, in the wrong sequence, at the wrong time. Understanding why requires looking honestly at what the most common approaches actually do, and what they cannot do.
@@ -60,5 +58,4 @@ Once that precondition is met, the rest of the tools work as they were designed 
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)

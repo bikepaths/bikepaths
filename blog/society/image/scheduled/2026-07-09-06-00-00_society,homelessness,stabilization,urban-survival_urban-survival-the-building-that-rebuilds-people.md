@@ -7,8 +7,6 @@
 
 **The Building That Rebuilds People — Part 9 of 11**
 
----
-
 Most housing built for people leaving homelessness is designed around one question: does it have a roof and a door? If yes, it counts as housing. The person is no longer homeless. The count goes down. The program reports a success.
 
 This framing misses what housing actually needs to do for a person whose nervous system, cognitive function, and social world have been restructured by years of outdoor survival. A roof and a door are necessary. They are not sufficient. The architecture of the space in which a person attempts to rebuild their life is a clinical variable. The wrong architecture undoes the stabilization that Phase Zero produced. The right architecture continues it.
@@ -76,5 +74,4 @@ The building continues what Phase Zero began. The community inside it provides w
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)

@@ -7,8 +7,6 @@
 
 **How It Feels to Be Homeless — Part 1 of 11**
 
----
-
 Stand on any major street in a large city and look carefully at the pavement near a building entrance, a freeway underpass, or a sheltered corner of a public park. There is a person there. They are lying on concrete. They have been lying on concrete for a long time.
 
 This post does not begin with statistics. It does not begin with policy. It begins where the problem begins, with a human body in contact with asphalt, in open air, through every hour of every night.
@@ -50,5 +48,4 @@ Everything that follows in this series is a response to what you have just seen.
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 Part 2: [The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md)

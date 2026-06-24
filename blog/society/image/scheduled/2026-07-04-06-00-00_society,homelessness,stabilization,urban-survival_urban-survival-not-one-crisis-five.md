@@ -7,8 +7,6 @@
 
 **Not One Crisis, Five — Part 4 of 11**
 
----
-
 The word "homeless" names an administrative category. It describes a legal and economic status, a person without a fixed residential address. It does not describe a physiological condition, a psychological condition, a social condition, or a set of circumstances. It groups together people whose situations are as different from one another as a broken arm is from a broken spine. Both are injuries. The treatment is entirely different.
 
 Every city that applies a single response to its entire unsheltered population is treating a broken arm and a broken spine with the same cast. For some people, that cast helps. For others, it does not fit the injury at all.
@@ -68,5 +66,4 @@ This is the operational design that separates an engineering framework from a po
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)

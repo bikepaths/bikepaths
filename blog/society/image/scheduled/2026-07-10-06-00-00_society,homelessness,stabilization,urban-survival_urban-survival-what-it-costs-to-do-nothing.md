@@ -7,8 +7,6 @@
 
 **What It Costs to Do Nothing — Part 10 of 11**
 
----
-
 The most common objection to the framework described in this series is the cost. A 2,000-unit tower. Clinical teams in the field for 12 to 24 months before occupancy. Phase Zero stabilization wards. Thermal drone mapping. Acoustic isolation to medical specifications. Permanent tenure with a steward in every pod.
 
 The number is large. The objection is understandable. And it rests entirely on looking at the cost of action while ignoring the cost of inaction.
@@ -70,5 +68,4 @@ The fiscal argument is offered here because it happens to be true, and because i
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)

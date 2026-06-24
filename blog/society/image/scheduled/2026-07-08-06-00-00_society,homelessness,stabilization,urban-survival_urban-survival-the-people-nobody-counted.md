@@ -7,8 +7,6 @@
 
 **The People Nobody Counted — Part 8 of 11**
 
----
-
 Every year or two, in most cities across the United States, volunteers go out in the middle of a single night and count the people sleeping on the street. They walk designated routes, look in doorways and parks and known encampments, and record what they find. The result is called the Point-in-Time count. It is the primary number used by governments to measure the scale of homelessness, allocate funding, and evaluate whether their responses are working.
 
 The count is a genuine effort by people who care about the problem. It is also structurally incapable of finding a significant portion of the population it is trying to count.
@@ -64,5 +62,4 @@ A framework built on a count that misses 20 to 30 percent of the population it i
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md)

@@ -80,9 +80,4 @@ The standard is now written down. The measurements are now stated. The word can 
 ---
 
 ***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
 *Series Complete*
-
-*Full framework: bikepaths.org | Academic papers: SSRN 5968756 · 6211658 · 6579600*
-
-*Charles J. DiBella, Principal Systems Architect | Global Youth Learning Collective*
