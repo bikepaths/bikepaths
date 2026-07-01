@@ -7,64 +7,65 @@
 
 **What It Costs to Do Nothing — Part 10 of 11**
 
-The most common objection to the framework described in this series is the cost. A 2,000-unit tower. Clinical teams in the field for 12 to 24 months before occupancy. Phase Zero stabilization wards. Thermal drone mapping. Acoustic isolation to medical specifications. Permanent tenure with a steward in every pod.
+The most common objection to this system is the cost. A 2,000-unit tower presents significant expenses. Clinical teams will operate in the field for 12 to 24 months. These teams prepare the site before occupancy. Phase Zero includes stabilization wards that ensure safety. Thermal drones will map the area accurately. Acoustic isolation meets medical specifications precisely. Each pod will maintain a steward for permanent oversight.
 
-The number is large. The objection is understandable. And it rests entirely on looking at the cost of action while ignoring the cost of inaction.
+The number is substantial and the objection remains valid. It focuses on the cost of action and overlooks the price of inaction.
 
-This post counts both.
+This document includes both required elements.
 
 **What the City Is Already Spending**
 
 A person cycling through the homelessness system without resolution does not cost the city nothing. They generate costs continuously, across multiple city and county departments, in a pattern that is now well documented.
 
-A single visit to a hospital emergency room for a person experiencing homelessness costs, on average, several thousand dollars. People in Stage Two and Stage Three depletion visit emergency rooms repeatedly: for infections from untreated wounds, for hypothermia, for cardiac events, for psychiatric crises. Each visit is expensive. None of them resolve the underlying condition that produced the visit.
+A single visit to a hospital emergency room for a homeless person costs thousands of dollars. Individuals in Stage Two and Stage Three depletion visit emergency rooms repeatedly. They seek treatment for infections from untreated wounds, hypothermia, cardiac events, and psychiatric crises. Each visit incurs significant costs and none address the underlying conditions that prompt the visits.
 
-A psychiatric hold, involuntary short-term psychiatric detention, costs similar amounts per episode and produces the same result: temporary stabilization followed by return to the street, where the conditions that produced the crisis continue unchanged.
+A psychiatric hold causes involuntary short-term psychiatric detention. Each episode incurs similar costs and provides the same outcome. Patients experience temporary stabilization before returning to the streets. The conditions that triggered the crisis remain unchanged.
 
-A police sweep of an encampment costs in officer time, equipment, disposal of abandoned property, and administration. Sweeps move encampments. They do not reduce them. The same people reappear within weeks in a different location, and the sweep is repeated.
+A police sweep of an encampment demands officer time, equipment, disposal of abandoned property, and administrative effort. Sweeps displace encampments but do not decrease their numbers. The same individuals return within weeks to a new location, prompting another sweep.
 
-Researchers tracking the total cost of a single chronically homeless individual, a person who cycles through emergency rooms, psychiatric holds, jail for minor offenses, and repeated shelter entries over multiple years, have found the annual cost to the city and county to range from $30,000 to $150,000 per person per year, depending on the intensity of their system usage. These figures are not projections. They are audited expenditures drawn from existing fiscal records.
+Researchers measuring the total cost of one chronically homeless individual have reported substantial expenses. This individual cycles through emergency rooms, psychiatric holds, and jail for minor offenses. They also re-enter shelters multiple times over the years. The annual cost to the city and county ranges from $30,000 to $150,000. This variation depends on how often they use city services. These figures include actual expenditures from audited fiscal records.
 
-The framework described in this series projects a reduction in emergency service costs of at least $40,000 per resident per year once Phase Zero stabilization and permanent housing are in place. This projection is conservative. It is based on the documented reduction in emergency service usage that occurs when a person moves from chronic street exposure into stable, supported housing.
+The system in this series projects a reduction in emergency service costs. Each resident could save at least $40,000 per year after Phase Zero stabilization and permanent housing are established. This projection remains conservative and it builds on documented reductions in emergency service usage. These reductions occur when individuals transition from chronic street exposure to stable, supported housing.
 
 **The Water Pump That Pays for Itself**
 
-Consider a village without a clean water source. The village spends significant labor every day carrying water from a distant river. The labor is productive: water arrives. But it costs the village time and energy that could be spent on other things. The cost of carrying water is dispersed across every person and every day and is never added up into a single number, so it appears to be zero.
+Imagine a village lacking a clean water source. Each day, villagers toil to transport water from a distant river. This labor produces results; water arrives. Yet, the effort consumes time and energy better spent on other tasks. Carrying water burdens every person daily. This cost never accumulates into a single figure, leading to the illusion of zero impact.
 
-Someone proposes building a well. The well has a capital cost. It requires materials, labor, and time to construct. The number is visible and specific. The objection arrives immediately: the well is expensive.
+An individual suggests constructing a well. This well incurs a capital cost. It demands materials, labor, and time for construction. The expense is clear and precise. An immediate objection arises: the well is costly.
 
 The objection is correct that the well is expensive. It ignores the cost of carrying water, which is also expensive but distributed invisibly across a decade of days.
 
-The city's homelessness expenditure is the water-carrying. It happens every day, across emergency rooms and police departments and public health systems and courts, in amounts that are real but never assembled into a single visible number. The framework described in this series is the well. It has a visible capital cost and a return on that capital that the framework projects to occur within 29 to 45 months of full operation.
+The city's spending on homelessness acts like water-carrying. It flows daily through emergency rooms, police departments, public health systems, and courts. These amounts are real but never compiled into one visible figure. The system described in this series serves as the well. It carries a visible capital cost. The system projects a return on that capital within 29 to 45 months of full operation.
 
 **The Capital Recovery Timeline**
 
-The framework projects 2,000 units in a single building, acquired through receivership at a cost significantly below market construction cost. The five simultaneous operations, clinical field teams, legal pathway activation, the housing surplus event itself, environmental compliance enforcement, and the architectural stabilization environment, require coordinated capital deployment over a defined period.
+The system delivers 2,000 units in one building, acquired through receivership at a cost below market construction price. Five simultaneous operations include clinical field teams and legal pathway activation. The housing surplus event creates demand for action. Environmental compliance enforcement and architectural stabilization also play crucial roles. Coordinated capital deployment is necessary to execute these operations over a defined period.
 
-The projected breakeven point is 29 to 45 months from the date of full operation. At that point, the reduction in emergency service costs, combined with the cessation of the expenditures listed above, sweeps, repeated psychiatric holds, emergency room cycling, has recovered the capital cost of the framework.
+The projected breakeven point occurs 29 to 45 months after starting full operations. At that time, the reduced emergency service costs contribute to overall savings. The elimination of listed expenditures also aids financial recovery. These savings cover the capital cost of the system.
 
-Beyond the breakeven point, the city is spending less than it was spending before. Not less on homelessness services. Less in total, across every department that currently pays for the consequences of untreated homelessness.
+After reaching the breakeven point, the city spends less overall than before. This reduction does not apply to homelessness services. The decrease occurs across all departments that cover the consequences of untreated homelessness.
 
-This is the fiscal argument stated plainly: the framework costs money to build and saves money to operate. The alternative, the current system, costs money to operate every year without end, without resolution, and without a breakeven point that is ever reached.
+The fiscal argument is clear: the system requires investment for construction but reduces operating costs. The current system, in contrast, incurs annual operating expenses indefinitely. It lacks resolution and never reaches a breakeven point.
 
 **What the Objection Gets Wrong**
 
-The fiscal isolation fallacy, the name this series gives to the objection that the framework is too expensive, makes one specific error. It counts the capital cost of the framework and compares it to zero. It assumes that doing nothing costs nothing.
+The fiscal isolation fallacy, the name this series gives to the objection that the system is too expensive, makes one defined error. It counts the capital cost of the system and compares it to zero. It assumes that doing nothing costs nothing.
 
-Doing nothing costs $30,000 to $150,000 per person per year, multiplied by the number of people in the system, for as many years as the system runs without resolution. That number is very large. It is simply invisible, because it is distributed across departments and fiscal years and never assembled into a single line.
+Inaction incurs costs ranging from $30,000 to $150,000 per person annually. This amount multiplies by the number of individuals in the system. As the system continues without resolution, these costs accumulate over years. The total becomes substantial and yet, this figure remains hidden. It disperses across various departments and fiscal years, lacking a unified presentation.
 
-The framework assembles it. The fiscal audit required by metric three of the eight verification metrics, a reduction in emergency service costs of at least $40,000 per resident per year, is the mechanism by which the invisible distributed cost becomes visible and comparable.
+The system assembles the elements and the fiscal audit, required by metric three of the eight verification metrics, focuses on cost reduction. This metric demands a decrease of at least $40,000 in emergency service costs for each resident annually. This process makes the previously hidden costs visible and comparable.
 
 **What Money Cannot Answer**
 
-This post has made the fiscal argument because the fiscal argument is necessary and frequently decisive in policy decisions. But the group that has developed this framework does not believe the fiscal argument is the most important one.
+This post has made the fiscal argument because the fiscal argument is necessary and frequently decisive in policy decisions. But the group that has developed this system does not believe the fiscal argument is the most important one.
 
-The most important argument is in [Part 1: How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless.md). It is the person on the ground. It is the body in contact with concrete through every hour of every night. It is the exposure death spiral documented in [Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md). It is the human being in Stage Three depletion whose brain has withdrawn from external input and who sits in the rain without moving because the biology has run out of capacity to do otherwise.
+The most compelling argument appears in [Part 1: How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless.md). It centers on the individual enduring hardship. The body presses against the concrete hour after hour throughout each night. This struggle mirrors the exposure death spiral detailed in [Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md). It illustrates a person in Stage Three depletion. Their brain retreats from external stimuli. They remain seated in the rain, unable to move due to biological exhaustion.
 
-If the framework cost more than the current system and never paid for itself, the case for it would still be strong, because the current system is producing preventable deaths in cities with functioning economies and surplus infrastructure, and that is a failure of moral engineering that no fiscal argument should be required to correct.
+If the system costs more than the current system, its case remains strong. The current system causes preventable deaths in cities with robust economies. This situation reveals a failure of moral engineering. No financial argument should justify this ongoing tragedy.
 
-The fiscal argument is offered here because it happens to be true, and because it removes the last available objection for those who have not yet been moved by the person on the ground.
+This fiscal argument stands as fact. It eliminates the final objection for those unconvinced by the individual on the ground.
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)
+**Series: Urban Survival** - Tomorrow: Part 11: How We Know If It Works
+
