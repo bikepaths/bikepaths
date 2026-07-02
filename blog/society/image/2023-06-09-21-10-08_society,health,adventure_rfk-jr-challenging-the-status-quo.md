@@ -1,7 +1,7 @@
 <!--t RFK Jr. Challenging the Status Quo t-->
 <!--d RFK Jr. stands as a bold voice advocating for change and accountability, inviting critical discussions on important issues. d-->
-<!--tag society, health, adventure tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--tag society,health,adventure tag-->
+<!--image https://bikepaths.org/blog/content/images/scenes-506.jpg image-->
 
 Robert F. Kennedy Jr. has emerged as a powerful figure in modern discourse, representing a voice of change and accountability. His journey started with environmental advocacy, where he fought to clean up the Hudson River and protect natural resources. That work laid a foundation for his later involvement in broader health discussions, particularly surrounding vaccines. His pivot to vaccine-related issues has sparked both support and controversy, leading people to engage in conversations that challenge mainstream narratives.
 
