@@ -1,7 +1,7 @@
 <!--t Build a Brighter Future for Everyone t-->
 <!--d Examining the importance of fairness and cooperation in our communities and the ongoing effort to create a just society. d-->
-<!--tag society, skills, nature tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--tag society,skills,nature tag-->
+<!--image https://bikepaths.org/blog/content/images/jeremiah-the-prophet-writing.jpg image-->
 
 Fairness and cooperation are cornerstones of human community. From the time our ancestors lived in small groups, they recognized the significance of treating each other with kindness and sharing resources. This foundational understanding has been passed down through generations. It reminds us of our shared responsibility to foster a better world for everyone. These principles help improve collective well-being, shaping societies where kindness creates a solid bond among individuals.
 
