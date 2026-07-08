@@ -1,13 +1,11 @@
 <!--t Urban Survival: Why the Usual Answers Fail t-->
 <!--d This post explains why emergency shelter and Housing First models fail the most vulnerable, and introduces the clinical necessity of Phase Zero stabilization. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**Why the Usual Answers Fail — Part 3 of 11**
-
 Cities have battled homelessness for decades. Their efforts remain tangible and funding sources are reliable and accessible. Workers in this field care about their results. Yet, the number of individuals on the street does not decline. In many cities, it continues to rise.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***  —  **Why the Usual Answers Fail — Part 3 of 11**
 
 This is not a failure of effort or compassion. It is a failure of match. The tools being used are applied to the wrong conditions, in the wrong sequence, at the wrong time. Understanding why requires looking honestly at what the most common approaches actually do, and what they cannot do.
 
@@ -43,7 +41,7 @@ Approximately one third of the people on the street do not meet either assumptio
 
 This is not a moral judgment. It is a biological description and an engine that has seized cannot function with better fuel. The mechanic must open the engine. He must free the seized components. The system requires heating to return to operation. Only then does the fuel become useful again.
 
-The body in Stage Three depletion resembles a seized engine. Stabilizing in Phase Zero opens the engine. This step is crucial before further actions are taken and refer to [Part 5: What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md) for more details.
+The body in Stage Three depletion resembles a seized engine. Stabilizing in Phase Zero opens the engine. This step is crucial before further actions are taken and refer to [Part 5: What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key) for more details.
 
 **What This Means for the City**
 
@@ -57,5 +55,4 @@ Once that precondition is met, the rest of the tools work as they were designed 
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five)

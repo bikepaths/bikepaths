@@ -1,8 +1,7 @@
 <!--t Urban Survival: The Core Insight and Series Index t-->
 <!--d An executive preface and comprehensive index to the Urban Survival series, outlining the biological collapse of chronic homelessness and the required clinical architecture for recovery. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
-
 
 **Urban Survival Series Index**
 
@@ -18,37 +17,37 @@ This is the core idea supporting the entire Urban Survival structure. Every desi
 
 **Series Index and Segment Descriptions**
 
-**Part 1: [How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless.md)**
+**Part 1: [How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless)**
 Establishes the physical baseline of street exposure. An objective examination of the environmental hostility that begins the biological descent.
 
-**Part 2: [The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md)**
+**Part 2: [The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops)**
 Documents the three stages of metabolic and neurological collapse. Explains how sleep deprivation and cortisol flooding fundamentally alter brain chemistry over time.
 
-**Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail.md)**
+**Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail)**
 Analyzes the systemic failure of placing biologically destabilized individuals directly into independent housing without clinical prerequisites.
 
-**Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five.md)**
+**Part 4: [Not One Crisis, Five](https://bikepaths.org/blog/2026/07/urban-survival-not-one-crisis-five)**
 Categorizes the unsheltered population into five distinct groups requiring five specific, matched, and parallel responses.
 
-**Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)**
+**Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key)**
 This step introduces Phase Zero stabilization. The absolute clinical requirement of bringing the body's threat-detection system back to baseline before expecting executive function.
 
-**Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)**
+**Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like)**
 Defines the elements of an acceptable housing offer for the rational holdout, addressing the "Three Ps": pets, partners, and possessions.
 
-**Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md)**
+**Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach)**
 Addresses anosognosia and the necessity of legal instruments for individuals whose neurological damage prevents them from recognizing their own critical illness.
 
-**Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted.md)**
+**Part 8: [The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted)**
 Examines the invisible, terrain-adapted population living in riparian corridors and the environmental enforcement mechanism required to reach them.
 
-**Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md)**
+**Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people)**
 Details the precise clinical architecture required for permanent supportive housing, integrating acoustic isolation, permanent tenure, and Dunbar's 150-person community threshold.
 
-**Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md)**
+**Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing)**
 This segment presents the core fiscal argument. Contrasts the reactive, endless expense of emergency system usage against the proactive investment in clinical stabilization infrastructure.
 
-**Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works.md)**
+**Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works)**
 Establishes seven verifiable metrics to audit the system's effectiveness, proving the model remains accountable to its clinical and economic claims.
 
 **Evidence-Based Design for Permanent Supportive Housing**
@@ -74,3 +73,5 @@ The location of the building matters as much as the individual rooms. Sites are 
 **Ongoing Clinical and Administrative Support**
 
 The built environment must house immediate care. Medical, psychiatric, and addiction treatment must operate inside the building to eliminate barriers to access (Osborn et al., 2021). These integrated services allow residents with complex neurology to stabilize. Case management, skills training, and medical support operate as the functional backbone of the physical structure (Mascaro et al., 2017).
+
+[Plain language Summary Guide](https://bikepaths.org/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide_v2.html)

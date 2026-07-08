@@ -1,13 +1,11 @@
 <!--t Urban Survival: What It Costs to Do Nothing t-->
 <!--d This post outlines the invisible financial drain of chronic homelessness, contrasting the reactive spending of emergency systems with the proactive investment of stabilization infrastructure. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**What It Costs to Do Nothing — Part 10 of 11**
-
 The most common objection to this system is the cost. A 2,000-unit tower presents significant expenses. Clinical teams will operate in the field for 12 to 24 months. These teams prepare the site before occupancy. Phase Zero includes stabilization wards that ensure safety. Thermal drones will map the area accurately. Acoustic isolation meets medical specifications precisely. Each pod will maintain a steward for permanent oversight.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** — **What It Costs to Do Nothing — Part 10 of 11**
 
 The number is substantial and the objection remains valid. It focuses on the cost of action and overlooks the price of inaction.
 
@@ -59,7 +57,7 @@ The system assembles the elements and the fiscal audit, required by metric three
 
 This post has made the fiscal argument because the fiscal argument is necessary and frequently decisive in policy decisions. But the group that has developed this system does not believe the fiscal argument is the most important one.
 
-The most compelling argument appears in [Part 1: How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless.md). It centers on the individual enduring hardship. The body presses against the concrete hour after hour throughout each night. This struggle mirrors the exposure death spiral detailed in [Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md). It illustrates a person in Stage Three depletion. Their brain retreats from external stimuli. They remain seated in the rain, unable to move due to biological exhaustion.
+The most compelling argument appears in [Part 1: How It Feels to Be Homeless](https://bikepaths.org/blog/2026/07/urban-survival-how-it-feels-to-be-homeless). It centers on the individual enduring hardship. The body presses against the concrete hour after hour throughout each night. This struggle mirrors the exposure death spiral detailed in [Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops). It illustrates a person in Stage Three depletion. Their brain retreats from external stimuli. They remain seated in the rain, unable to move due to biological exhaustion.
 
 If the system costs more than the current system, its case remains strong. The current system causes preventable deaths in cities with robust economies. This situation reveals a failure of moral engineering. No financial argument should justify this ongoing tragedy.
 
@@ -67,5 +65,4 @@ This fiscal argument stands as fact. It eliminates the final objection for those
 
 ---
 
-**Series: Urban Survival** - Tomorrow: Part 11: How We Know If It Works
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 11: [How We Know If It Works](https://bikepaths.org/blog/2026/07/urban-survival-how-we-know-if-it-works)

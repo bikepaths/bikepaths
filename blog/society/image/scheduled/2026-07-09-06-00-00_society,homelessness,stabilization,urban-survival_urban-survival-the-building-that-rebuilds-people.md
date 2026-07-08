@@ -1,13 +1,11 @@
 <!--t Urban Survival: The Building That Rebuilds People t-->
 <!--d This post explores the clinical architecture required for permanent supportive housing, detailing how acoustic isolation, Dunbar numbers, and private spaces function as medical interventions. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**The Building That Rebuilds People — Part 9 of 11**
-
 Most housing for individuals exiting homelessness centers on one question: does it have a roof and a door? If it meets that criteria, it counts as housing. The individual is no longer homeless. The tally decreases and the program reports success.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** — **The Building That Rebuilds People — Part 9 of 11**
 
 This framing overlooks the requirements of housing for someone reshaped by years of outdoor survival. A roof and a door provide security. They do not support recovery and the layout of the space where someone rebuilds their life is a critical factor. Poor design disrupts the stability that Phase Zero established and effective design reinforces that stability.
 
@@ -73,5 +71,4 @@ The building continues what Phase Zero began. The community inside it provides w
 
 ---
 
-**Series: Urban Survival** - Tomorrow: Part 10: What It Costs to Do Nothing
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 10: [What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing)

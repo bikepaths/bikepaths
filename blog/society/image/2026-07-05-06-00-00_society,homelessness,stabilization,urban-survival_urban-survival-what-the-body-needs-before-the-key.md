@@ -1,15 +1,14 @@
 <!--t Urban Survival: What the Body Needs Before the Key t-->
 <!--d This post details the clinical process of Phase Zero stabilization, explaining why a period of controlled metabolic repair must precede any offer of permanent housing. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
-
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**What the Body Needs Before the Key — Part 5 of 11**
 
 There is a sequence to recovery that the body enforces whether or not the city acknowledges it. The body does not care about policy timelines or intake forms or housing availability. It moves through its own stages of damage and repair at its own speed, in response to its own conditions. A system that ignores this sequence does not eliminate it. It collides with it, and the body loses.
 
-[Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops.md) in this series described the descent, the three stages of biological damage that exposure produces over days and weeks. This document clearly describes the reversal. What does it take to actually stop the spiral? What does the body need before it can receive anything else?
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** — **What the Body Needs Before the Key — Part 5 of 11**
+
+
+[Part 2: The Spiral That Nobody Stops](https://bikepaths.org/blog/2026/07/urban-survival-the-spiral-that-nobody-stops) in this series described the descent, the three stages of biological damage that exposure produces over days and weeks. This document clearly describes the reversal. What does it take to actually stop the spiral? What does the body need before it can receive anything else?
 
 The answer is called Phase Zero. It is the missing first step in almost every city's response to homelessness.
 
@@ -61,9 +60,8 @@ Confining a person to an enclosed space disrupts stability. Compulsion releases 
 
 Phase Zero's voluntary nature is a clinical requirement, not a philosophical concession. The body resists stabilization unless the brain perceives safety. The brain must recognize the environment as secure for cooperation to occur. Trust is not an ethical choice here. It acts as a critical physiological input.
 
-The outreach work described in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md) must precede the housing offer. Making the offer without prior connection proves ineffective. Builders must establish trust before presenting the offer. This relationship enables acceptance and paves the way for Phase Zero.
+The outreach work described in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like) must precede the housing offer. Making the offer without prior connection proves ineffective. Builders must establish trust before presenting the offer. This relationship enables acceptance and paves the way for Phase Zero.
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md)
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 6: [What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like)

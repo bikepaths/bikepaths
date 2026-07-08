@@ -1,13 +1,11 @@
 <!--t Urban Survival: Not One Crisis, Five t-->
 <!--d This post outlines the five distinct subgroups within the unsheltered population, explaining why a single administrative category requires five matched clinical responses. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**Not One Crisis, Five — Part 4 of 11**
-
 The term "homeless" identifies an administrative category. It indicates a legal and economic status for individuals lacking a fixed address. This term does not capture bodily, psychological, or social conditions. It fails to reflect varying circumstances. This label unites people with vastly different situations. A broken arm contrasts with a broken spine, yet both are injuries. The approach to each requires distinct treatment.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** —  **Not One Crisis, Five — Part 4 of 11**
 
 Cities that apply one response to their unsheltered population treat a broken arm and a broken spine with the same cast. That cast aids some people and for others, it fails to address their defined injuries.
 
@@ -35,9 +33,9 @@ Outreach workers must remain in the encampment for months. Trust builds over tim
 
 This person has spent five, eight, ten years outside. During this time, untreated psychosis and mental illness have changed their brain chemistry. Long-term exposure to harsh environments has caused measurable damage. The prefrontal cortex controls planning, decision-making, and self-perception. It no longer functions as it did before the constant cortisol flooding and sleep deprivation.
 
-Many individuals in this group have anosognosia. This term will receive a full explanation in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md). Anosognosia indicates that the brain's illness impairs its ability to recognize that illness. The affected person does not deny reality. They do not resist the truth. The neurological function needed to acknowledge their condition has suffered damage from the disease. Persuasion cannot impact a function that metabolic disease has obliterated.
+Many individuals in this group have anosognosia. This term will receive a full explanation in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach). Anosognosia indicates that the brain's illness impairs its ability to recognize that illness. The affected person does not deny reality. They do not resist the truth. The neurological function needed to acknowledge their condition has suffered damage from the disease. Persuasion cannot impact a function that metabolic disease has obliterated.
 
-This group makes up approximately 34 percent of the unsheltered population. They need a distinct approach and this approach includes long-term clinical support within their environment. Legal instruments of last resort activate when defined danger thresholds exist and detailed information appears in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md).
+This group makes up approximately 34 percent of the unsheltered population. They need a distinct approach and this approach includes long-term clinical support within their environment. Legal instruments of last resort activate when defined danger thresholds exist and detailed information appears in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach).
 
 **Group Three (Riparian): The Invisible Population**
 
@@ -45,7 +43,7 @@ Group Three contains a sub-population that standard counts miss. These individua
 
 These individuals move frequently and adapt to various terrains. The single-night Point-in-Time count often overlooks them. Cities rely on this count to measure their homeless population. Field evidence indicates these individuals account for 20 to 30 percent more than the official count. For instance, a city with a reported 10,000 unsheltered individuals may actually have 12,000 or 13,000.
 
-Identifying this population demands diverse tools. Part 8: The People Nobody Counted focuses on methods for discovering them. It also examines responses that effectively reach this group.
+Identifying this population demands diverse tools. [Part 8: The People Nobody Counted](https://bikepaths.org/blog/2026/07/urban-survival-the-people-nobody-counted) focuses on methods for discovering them. It also examines responses that effectively reach this group.
 
 **Group Four: The Voluntary Nomads**
 
@@ -65,5 +63,4 @@ This active design distinguishes an engineering system from a policy intention. 
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key.md)
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 5: [What the Body Needs Before the Key](https://bikepaths.org/blog/2026/07/urban-survival-what-the-body-needs-before-the-key)

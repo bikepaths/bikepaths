@@ -1,13 +1,11 @@
 <!--t Urban Survival: The People Nobody Counted t-->
 <!--d This post exposes the hidden demographics of subterranean and riparian homelessness, explaining why traditional point-in-time counts systematically fail to locate the most vulnerable. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**The People Nobody Counted — Part 8 of 11**
-
 Every one or two years, volunteers in many U.S. cities venture out on a single night to count people sleeping on the streets. They follow designated routes, inspect doorways, parks, and known encampments, and document their findings. This effort produces the Point-in-Time count. Governments rely on this number to assess the scale of homelessness, allocate resources, and evaluate response effectiveness.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** —  **The People Nobody Counted — Part 8 of 11**
 
 The count is a genuine effort by people who care about the problem. It is also structurally incapable of finding a significant portion of the population it is trying to count.
 
@@ -45,7 +43,7 @@ The concrete river channels and flood control corridors in which this population
 
 This creates a legal mechanism that operates independently of homelessness policy. Environmental compliance proceedings can be initiated against the municipality for conditions in the waterways. These proceedings create pressure for remediation, and remediation cannot occur while people are living in the space being remediated.
 
-The system detailed in this series employs this mechanism as a structural tool, not as punishment. Environmental enforcement proceedings start alongside the warm housing offer. The individual in the riparian corridor receives a tangible alternative: the named room, the stored cart, and the accommodated pet outlined in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like.md). This occurs as the legal process demanding cleanup of their current location begins.
+The system detailed in this series employs this mechanism as a structural tool, not as punishment. Environmental enforcement proceedings start alongside the warm housing offer. The individual in the riparian corridor receives a tangible alternative: the named room, the stored cart, and the accommodated pet outlined in [Part 6: What a Real Offer Looks Like](https://bikepaths.org/blog/2026/07/urban-survival-what-a-real-offer-looks-like). This occurs as the legal process demanding cleanup of their current location begins.
 
 This is not coercion and coercion eliminates options. This situation adds one option while a legal process addresses the current conditions. The offer remains and the person decides. The waterway undergoes remediation, as mandated by law.
 
@@ -61,6 +59,4 @@ A system that overlooks 20 to 30 percent of its target population will lack reso
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people.md) 
-
-This series explores urban survival techniques. It focuses on structures that support community resilience. Each installment examines a different approach to survival. The upcoming part details a building that transforms lives. This structure encourages growth among its occupants. It offers resources and opportunities for improvement. Readers will discover practical strategies within urban environments. Strategies help individuals thrive amidst challenges.
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 9: [The Building That Rebuilds People](https://bikepaths.org/blog/2026/07/urban-survival-the-building-that-rebuilds-people)

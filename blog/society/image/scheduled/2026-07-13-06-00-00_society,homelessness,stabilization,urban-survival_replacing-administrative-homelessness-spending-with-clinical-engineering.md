@@ -1,6 +1,6 @@
 <!--t Replacing Administrative Homelessness Spending with Clinical Engineering t-->
 <!--d A state audit revealed 24 billion dollars in untracked homelessness spending. This analysis outlines the necessity of transitioning toward accountable clinical solutions. d-->
-<!--tag society, homelessness, systems tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/24_billion_dollar_question.webp image-->
 
 Cities pour millions of dollars into homelessness programs. Yet streets remain filled with people fighting to survive. California recently revived a $900 million funding program. This adds to the $24 billion allocated over recent years. The true problem is the core approach to managing this crisis. A state audit revealed a troubling fact. State agencies failed to track funding outcomes. This creates a massive gap between administrative rules and clinical reality.

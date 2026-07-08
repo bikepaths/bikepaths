@@ -1,13 +1,11 @@
 <!--t Urban Survival: How We Know If It Works t-->
 <!--d This post establishes the eight verification metrics for systemic homelessness intervention, ensuring clinical and architectural pathways remain accountable to measurable biological and fiscal realities. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**How We Know If It Works — Part 11 of 11**
-
 Every policy proposal claims it will succeed. Every system guarantees improved results and the history of homelessness policy contains plans enacted with real commitment. Authorities measured progress by metrics created after implementation. They declared these efforts successful even as street homelessness increased.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** — **How We Know If It Works — Part 11 of 11**
 
 The system described in this series does something different. It states, in advance, the defined conditions under which it has failed.
 
@@ -35,11 +33,11 @@ At least 55 percent of Group Two residents, the encamped but reachable, describe
 
 **Measurement Five: Legal Instrument Application for Group Three**
 
-At least 15 percent of the Group Three cohort cannot engage voluntarily due to their neurological conditions. They must be accommodated through the legal pathways outlined in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md). This figure confirms the legal instruments function as intended. They must reach the intended individuals effectively. If this measurement is not met, the legal pathway fails. The Group Three cohort remains trapped in the exposure spiral.
+At least 15 percent of the Group Three cohort cannot engage voluntarily due to their neurological conditions. They must be accommodated through the legal pathways outlined in [Part 7: When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach). This figure confirms the legal instruments function as intended. They must reach the intended individuals effectively. If this measurement is not met, the legal pathway fails. The Group Three cohort remains trapped in the exposure spiral.
 
 **Measurement Six: Capital Recovery Timeline**
 
-The breakeven point outlined in [Part 10: What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing.md) must occur within 45 months of full operation. An audit by a stewardship authority confirms this requirement. If the fiscal recovery fails to materialize in this timeframe, the economic model needs revision.
+The breakeven point outlined in [Part 10: What It Costs to Do Nothing](https://bikepaths.org/blog/2026/07/urban-survival-what-it-costs-to-do-nothing) must occur within 45 months of full operation. An audit by a stewardship authority confirms this requirement. If the fiscal recovery fails to materialize in this timeframe, the economic model needs revision.
 
 **Measurement Seven: Phase Zero Clearance Rate**
 
@@ -77,6 +75,4 @@ The standard is written down and the measurements are stated clearly and the wor
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - *Series Concluded*
-
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: [Series Overview](https://bikepaths.org/blog/2026/07/urban-survival-the-core-insight-and-series-index)

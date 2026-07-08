@@ -1,13 +1,11 @@
 <!--t Urban Survival: What a Real Offer Looks Like t-->
 <!--d This post deconstructs the anatomy of a genuine housing offer, contrasting it with administrative placements that force impossible choices on encamped individuals. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**What a Real Offer Looks Like — Part 6 of 11**
-
 Most housing offers to people in encampments are not genuine. They mimic the form of an offer. They use language that suggests assistance and creates an illusion of choice. When individuals evaluate the actual proposals, they reveal a harsh reality. The offer demands they surrender everything they possess. In return, it promises something uncertain and unproven. There is no assurance that it will be safe. It lacks guarantees of permanence or fulfillment of its claims.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** — **What a Real Offer Looks Like — Part 6 of 11**
 
 Refusing that offer is not irrational. It is the correct response to the information available.
 
@@ -69,5 +67,4 @@ The offer is valid and it has been earned.
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach.md)
-
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 7: [When Persuasion Cannot Reach](https://bikepaths.org/blog/2026/07/urban-survival-when-persuasion-cannot-reach)

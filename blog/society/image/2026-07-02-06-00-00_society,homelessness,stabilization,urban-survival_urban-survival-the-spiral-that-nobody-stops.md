@@ -1,13 +1,11 @@
 <!--t Urban Survival: The Spiral That Nobody Stops t-->
 <!--d This post deconstructs the defined biological sequence a human body undergoes during prolonged outdoor exposure, explaining why street living is an escalating medical emergency. d-->
-<!--tag society, homelessness, stabilization, urban-survival tag-->
+<!--tag society,homelessness,stabilization,urban-survival tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/person-on-ground.webp image-->
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***
-
-**The Spiral That Nobody Stops — Part 2 of 11**
-
 The body on the street is unstable. It shifts and it advances in one direction at a steady pace. Researchers and physicians have documented its stages. They can now describe this movement with a clock.
+
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)***  — **The Spiral That Nobody Stops — Part 2 of 11**
 
 This is not a gradual decline that stretches over years. Once someone spends more than a few days outside, the decline accelerates. Recognizing this sequence marks the first step in grasping the urgency. This urgency reflects a medical reality.
 
@@ -57,6 +55,6 @@ This series explores what a matched response entails. It starts with recognizing
 
 ---
 
-***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail.md) 
+***Series: [Urban Survival](https://bikepaths.org/blog/tag/urban-survival)*** - Tomorrow: Part 3: [Why the Usual Answers Fail](https://bikepaths.org/blog/2026/07/urban-survival-why-the-usual-answers-fail) 
 
 Tomorrow, we will explore why typical solutions fall short. Many attempts to address urban challenges miss critical aspects. Effective strategies require clear understanding and defined actions. We will break down the reasons these standard approaches often yield poor results.
