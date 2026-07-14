@@ -1,6 +1,6 @@
 <!--t Systemic Dignity: A Practical Alternative to Current Homelessness Strategies t-->
 <!--d A breakdown of the biological relational and economic steps required to resolve chronic street homelessness. d-->
-<!--tag society, health, money, infrastructure, mind, systems tag-->
+<!--tag society,health,homelessness,stabilization,urban-planning tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-422.jpg image-->
 
 Material Dignity Infrastructure, a proposed alternative to current homelessness strategies, suggests that a dedicated recovery phase prioritizing biological stabilization and nutritional rehabilitation is necessary before long-term housing placement. This model uses converted commercial real estate to create safe, small-scale communal living environments, aiming to address the physical and neurological trauma of chronic homelessness.
