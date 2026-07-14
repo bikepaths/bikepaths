@@ -3,10 +3,6 @@
 <!--tag society,media,psychology,economics,technology tag-->
 <!--image https://bikepaths.org/blog/content/images/visuals-372.jpg image-->
 
-#### The Market for Outrage and the Death of Shared Reality
-
-#### The Broken Mirror
-
 If you want to understand why the world feels so angry today, you have to look at how we pay for information. Over the past 60 years, the way we share news has completely flipped upside down. We went from a handful of television channels to billions of glowing screens in our pockets. This change did more than just speed up the news cycle. It fundamentally altered the exact types of human behavior that earn money. The modern internet actively pays people to create entirely separate realities.
 
 We do not need to argue about whether aliens are real or if global conspiracies secretly run the world. The literal truth of those wild stories does not actually matter when you look at the plumbing of the internet. We only need to look at how people use those shocking claims to grab your attention. People use radical stories like fishing nets to scoop up loyal followers. They use that loyalty to extract money directly from their audience. In the end, the storyteller gets paid and feels incredibly important.
