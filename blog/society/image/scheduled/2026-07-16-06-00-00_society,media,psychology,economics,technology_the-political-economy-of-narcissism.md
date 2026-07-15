@@ -1,7 +1,7 @@
 <!--t The Market for Outrage and the Death of Shared Reality t-->
 <!--d We no longer get our news from three big TV networks. The modern internet pays people directly to act out, start fights, and invent new realities. This explains how that money changes human behavior. d-->
 <!--tag society,media,psychology,economics,technology tag-->
-<!--image https://bikepaths.org/blog/content/images/visuals-372.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/webp/shattered_mirror_glowing_phone.webp image-->
 
 If you want to understand why the world feels so angry today, you have to look at how we pay for information. Over the past 60 years, the way we share news has completely flipped upside down. We went from a handful of television channels to billions of glowing screens in our pockets. This change did more than just speed up the news cycle. It fundamentally altered the types of human behavior that earn money. The modern internet actively pays people to create entirely separate realities.
 
