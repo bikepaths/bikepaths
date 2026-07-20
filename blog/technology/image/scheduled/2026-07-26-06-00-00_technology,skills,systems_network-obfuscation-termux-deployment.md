@@ -34,9 +34,9 @@ To conduct an audit safely, we must isolate diagnostic tools from the primary de
 
 Download and install the official Termux application wrapper from a trusted source. Do not use the deprecated Google Play Store version. Launch the Termux terminal interface on the device. Synchronize local package indexes and upgrade core binaries to their latest baseline release.
 
-<pre><code>
+```bash
 pkg update && pkg upgrade -y
-</code></pre>
+```
 
 
 **Step 2.2: User Authentication Configuration**
@@ -44,9 +44,9 @@ pkg update && pkg upgrade -y
 
 Termux runs as a single-user environment inside an Android application sandbox. The SSH daemon still requires a secure password structure for session initialization. Generate a secure account password by executing the following command in Termux.
 
-<pre><code>
+```bash
 passwd
-</code></pre>
+```
 
 Enter a strong, alphanumeric passphrase when prompted, and confirm it.
 
@@ -56,15 +56,15 @@ Enter a strong, alphanumeric passphrase when prompted, and confirm it.
 
 Install the OpenSSH binary suite directly into the Termux environment.
 
-<pre><code>
+```bash
 pkg install openssh -y
-</code></pre>
+```
 
 Launch the SSH server daemon background process.
 
-<pre><code>
+```bash
 sshd
-</code></pre>
+```
 
 The OpenSSH daemon in Termux defaults to running on non-standard port 8022. This avoids conflicts with root-level system privileges.
 
@@ -76,35 +76,35 @@ Relying entirely on password authentication leaves the network boundary vulnerab
 
 On the remote workstation, open a native terminal. Generate a highly secure Ed25519 elliptic-curve key pair.
 
-<pre><code>
+```bash
 ssh-keygen -t ed25519 -C "lab_audit_key"
-</code></pre>
+```
 
 Follow the prompts to save the key to the default directory. Read the raw public key output string to your terminal screen.
 
-<pre><code>
+```bash
 cat ~/.ssh/id_ed25519.pub
-</code></pre>
+```
 
 Copy the entire string printed on your workstation screen.
 
 Within Termux on the target diagnostic machine, create the secure configuration folder for SSH authorizations.
 
-<pre><code>
+```bash
 mkdir -p ~/.ssh
-</code></pre>
+```
 
 Open or create the authorized keys manifest file.
 
-<pre><code>
+```bash
 nano ~/.ssh/authorized_keys
-</code></pre>
+```
 
 Paste the copied Ed25519 public key string directly into this file. Save and exit the text editor. Restrict the directory permissions to enforce system security standards.
 
-<pre><code>
+```bash
 chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
-</code></pre>
+```
 
 
 **Step 2.5: Establishing Network Context Discovery**
@@ -112,21 +112,21 @@ chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
 
 Before connecting remotely, we must determine the exact local network identity parameters assigned to the target device. Install the baseline network tools package inside Termux.
 
-<pre><code>
+```bash
 pkg install dnsutils -y
-</code></pre>
+```
 
 Query the device's internal network adapters to find its local IPv4 address.
 
-<pre><code>
+```bash
 ifconfig
-</code></pre>
+```
 
 Locate the active network interface and note the assigned IP address. Determine the internal application username assigned to the Termux sandbox environment.
 
-<pre><code>
+```bash
 whoami
-</code></pre>
+```
 
 Termux names users based on internal Android application space.
 
@@ -142,9 +142,9 @@ With the background daemon configured and cryptographic keys deployed, abandon t
 
 Execute the following connection string from your workstation terminal. Substitute the bracketed fields with the unique values captured during Step 2.5.
 
-<pre><code>
+```bash
 ssh [termux_username]@[device_local_ip] -p 8022 -i ~/.ssh/id_ed25519
-</code></pre>
+```
 
 
 **Step 3.2: First-Time Connection Integrity Handshake**
@@ -152,11 +152,11 @@ ssh [termux_username]@[device_local_ip] -p 8022 -i ~/.ssh/id_ed25519
 
 Upon initiating the connection, your workstation terminal will print an RSA/Ed25519 key fingerprint warning string.
 
-<pre><code>
+```bash
 The authenticity of host ':8022' can't be established.
 ED25519 key fingerprint is SHA256:xX/xX/...
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
-</code></pre>
+```
 
 Type yes and press Enter. This action appends the target device's cryptographic identity directly to your workstation's known hosts system log. This protects future sessions against machine-in-the-middle interceptions. You are now inside the Termux shell environment remotely.
 
@@ -172,9 +172,9 @@ Once the remote terminal session is established, run the following diagnostic su
 
 Install the core networking toolsets and JSON parsing engines. This allows automated manipulation of outbound diagnostic streams.
 
-<pre><code>
+```bash
 pkg install curl traceroute jq -y
-</code></pre>
+```
 
 
 **Step 4.2: Auditing External Geo-IP and Autonomous System Number Data**
@@ -182,9 +182,9 @@ pkg install curl traceroute jq -y
 
 Query a dedicated, secure metadata reflection server. View exactly how your current network lease maps to geographical routing registries.
 
-<pre><code>
+```bash
 curl -s https://ipapi.co/json/ | jq '{ip, city, region, postal, asn, org}'
-</code></pre>
+```
 
 
 **Rationale for Execution:**
@@ -198,9 +198,9 @@ This test forces an outbound API handshake identical to the script calls execute
 
 Verify if your local router intercepts your domain queries.
 
-<pre><code>
+```bash
 dig +short txt ch whoami.cloudflare @1.1.1.1
-</code></pre>
+```
 
 
 **Rationale for Execution:**
@@ -214,9 +214,9 @@ This script queries Cloudflare's diagnostic node via a specific DNS TXT loop. If
 
 Trace the exact sequence of Layer-3 physical routing switches your packets touch.
 
-<pre><code>
+```bash
 traceroute 1.1.1.1
-</code></pre>
+```
 
 
 **Rationale for Execution:**
