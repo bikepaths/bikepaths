@@ -30,6 +30,7 @@ export default function RootLayout({
                 <li><Link href="https://bikepaths.org/blog/category/health">Health</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/history">History</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/money">Money</Link></li>
+                <li><Link href="https://bikepaths.org/blog/category/mind">Mind</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/skills">Skills</Link></li>
                 <li><Link href="https://bikepaths.org/blog/category/nature">Nature</Link></li>
               </ul>
