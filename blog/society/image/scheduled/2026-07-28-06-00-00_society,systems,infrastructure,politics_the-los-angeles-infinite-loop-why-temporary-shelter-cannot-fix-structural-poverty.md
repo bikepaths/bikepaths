@@ -1,4 +1,4 @@
-<!--t The Los Angeles Infinite Loop: Why Temporary Shelter Cannot Fix Structural Poverty t-->
+<!--t Los Angeles Homeless Crisis: Why Temporary Shelter Cannot Fix Structural Poverty t-->
 <!--d Urban homelessness operates as a sequential dependency failure, and the ongoing political conflict regarding jurisdiction obscures the underlying architectural deficit. d-->
 <!--tag society,systems,infrastructure,politics tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/urban_municipal_concrete_plaza.webp image-->
@@ -24,22 +24,3 @@ The Systemic Dignity Infrastructure specification provides a mathematical replac
 To break this cycle, the civic response must transition from fragmented charitable management to unified utility engineering. The primary requirement involves converting surplus commercial real estate into permanent stabilization environments, immediately bypassing the immense construction delays that plague traditional housing initiatives. Physical shelter solves only the most immediate biological threat, leaving the psychological and financial vulnerabilities entirely exposed. The architecture must concurrently establish a relational infrastructure by organizing residents into small, stable cohorts governed by trained stewards. This directly counters the extreme psychological isolation that typically triggers regression within standard congregate shelters.
 
 The final requirement demands bridging the Return Deficit by constructing cooperative micro-economies and underwriting long-term financial guarantees. These three layers operate as a single, sequentially dependent pipeline. They cannot function when deployed piecemeal by competing organizations relying on temporary funding streams. Until political leaders stop arguing over the administrative management of emergency shelters and begin engineering dignity as a permanent municipal utility, the infinite loop of the crisis remains mathematically guaranteed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

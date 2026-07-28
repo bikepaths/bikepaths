@@ -38,4 +38,3 @@ The twentieth century introduced Existentialism. Thinkers like Jean-Paul Sartre 
 This massive philosophical lineage finally crystallized into modern clinical mechanics in the mid-twentieth century. Albert Ellis developed Rational Emotive Behavior Therapy. Ellis argued that psychological distress is not caused by events themselves. Distress is caused by the rigid, irrational beliefs people hold about those events. He explicitly targeted the destructive nature of "should" and "must" thinking.
 
 Aaron Beck later formalized these concepts into Cognitive Behavioral Therapy. The clinical technique for breaking a rumination loop directly mirrors the ancient Stoic mandate. A person must stop asking what they should have done. They must ask what actually happened, and what they will do differently next time.
-

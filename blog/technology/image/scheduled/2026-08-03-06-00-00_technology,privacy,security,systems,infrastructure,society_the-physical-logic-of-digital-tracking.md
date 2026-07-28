@@ -1,4 +1,4 @@
-<!--t The Physical Logic of Digital Tracking t-->
+<!--t Personal Privacy and the Logic of Digital Tracking t-->
 <!--d Digital tracking operates through documented corporate data gathering and authorized government access, functioning as a tangible physical infrastructure. d-->
 <!--tag technology,privacy,security,systems,infrastructure,society tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/suburban_kitchen_smart_speaker.webp image-->

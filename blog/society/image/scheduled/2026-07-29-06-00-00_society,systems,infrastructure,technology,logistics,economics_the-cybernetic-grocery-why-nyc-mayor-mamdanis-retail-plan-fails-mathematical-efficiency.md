@@ -1,5 +1,5 @@
-<!--t The Cybernetic Grocery: Why NYC Mayor Mamdani's Retail Plan Fails Mathematical Efficiency t-->
-<!--d Mayor Mamdani's municipal grocery plan wastes millions on retail overhead; a cybernetic pipeline provides free food at a fraction of the cost. d-->
+<!--t Why NYC Mayor Mamdani&#039;s Retail Plan Fails Mathematical Efficiency t-->
+<!--d Mayor Mamdani&#039;s municipal grocery plan wastes millions on retail overhead; a cybernetic pipeline provides free food at a fraction of the cost. d-->
 <!--tag society,systems,infrastructure,technology,logistics,economics tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/urban_logistics_community_network.webp image-->
 

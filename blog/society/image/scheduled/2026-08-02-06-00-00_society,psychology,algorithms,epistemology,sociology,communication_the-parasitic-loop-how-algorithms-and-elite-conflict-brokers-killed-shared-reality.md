@@ -1,4 +1,4 @@
-<!--t The Parasitic Loop: How Algorithms and Elite Conflict Brokers Killed Shared Reality t-->
+<!--t How Algorithms and Elite Conflict Brokers Killed Shared Reality t-->
 <!--d Digital communication infrastructure runs on a parasitic feedback loop where algorithmic attention harvesting and the financialization of conflict by a wealthy minority systematically destroy the shared factual baseline required for civic governance. d-->
 <!--tag society,psychology,algorithms,epistemology,sociology,communication tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/subway_passengers_staring_phones_20.webp image-->
