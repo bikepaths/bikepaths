@@ -2,7 +2,6 @@
 <!--d Faith is the blind step a child takes toward someone who might hurt them, and trust is the warm floor they find on the other side. d-->
 <!--tag mind,family,faith,psychology,trust,relationships tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/child_doorway_warmth_trust.webp image-->
-<!--mos MoS_OVP_Organic_Vernacular_Pedagogy.md mos-->
 
 A child who has been let down by the adults in their life carries something invisible everywhere they go. It works like an alarm system wired into their bones that was built one disappointment at a time before running constantly without needing permission. Every adult who broke a promise or vanished without explanation added another wire to the system. By the time the child meets someone new, the alarm is already scanning before the first hello is finished.
 
