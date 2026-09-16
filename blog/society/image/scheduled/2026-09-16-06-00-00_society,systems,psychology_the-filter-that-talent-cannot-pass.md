@@ -1,4 +1,4 @@
-<!--t The Filter That Talent Cannot Pass t-->
+<!--t Persistence: The Filter That Talent Cannot Pass t-->
 <!--d Persistence separates the fraction of a population that reaches high positions from the majority that stops after the first serious failure, but persistence without structural access produces nothing. d-->
 <!--tag society,systems,psychology tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/granite_wall_climber_ascent.webp image-->
@@ -40,4 +40,3 @@ Picture a population of 10,000 people. The structural filter, which includes inc
 This compound filter explains why successful people in any society represent such a small fraction of the population. The structural filter alone removes the majority. The persistence filter removes most of whoever remains. A person looking at the survivors and concluding that talent put them there mistakes the visible endpoint for the invisible process. Talent opens a door. Structure determines whether that door exists in the first place. Persistence determines whether the person walks through it after getting knocked backward.
 
 The wall does not care how strong the climber is. But the climber cannot reach the wall without a road.
-
