@@ -1,17 +1,7 @@
 <!--t The River and the Road: How Geography Built Rome, New York t-->
 <!--d A gap in the water systems made a narrow path. Soldiers, canal builders, and factory workers used this path for 300 years. d-->
 <!--tag history,systems,infrastructure,environment,urban-planning,engineering tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/layered_infrastructure_canal_rail.webp image-->
-
-**Outline Table**
-
-| Section | Title | Focus |
-| :--- | :--- | :--- |
-| **Section 1** | The Geographic Gateway | The canoe path and early Oneida use. |
-| **Section 2** | The Military Corridor | European wars, Fort Stanwix, and the Revolution. |
-| **Section 3** | The Canal Junction | The Erie Canal and Black River Canal. |
-| **Section 4** | The Industrial Shift | Railroads, copper factories, and the Barge Canal. |
-| **Section 5** | The Defense Center | The air base and the modern city. |
+<!--image https://bikepaths.org/blog/content/images/rome-ny.jpg image-->
 
 **The Geographic Gateway**
 
