@@ -1,7 +1,7 @@
 <!--t AI Apocalypse: A Brief History of Bad Tech Predictions t-->
 <!--d The historical record reveals a consistent pattern of predictive failure among leading authorities due to cognitive biases and structural incentives that actively distort foresight. d-->
 <!--tag systems,technology,psychology,history,infrastructure,mind tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/technological_forecasting_error.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/tech_forecast_newspaper_hands.webp image-->
 
 Predicting the consequences of a new technology is a notoriously unreliable exercise. The historical record reveals a consistent pattern of predictive failure among leading authorities. Albert Einstein stated nuclear energy was impossible eight years before the first reactor achieved criticality. Microsoft chief executive Steve Ballmer dismissed the initial smartphone market based on the absence of a physical keyboard. These failures do not stem from a lack of expertise. They arise from an inability to map linear assumptions onto the nonlinear reality of adoption, a cognitive limitation that becomes most visible when exponential growth curves collide with institutional inertia.
 
