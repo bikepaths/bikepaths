@@ -1,5 +1,5 @@
 <!--t How Learning a New Language Rewires the Aging Mind t-->
-<!--d Learning a second language in adulthood does more than add vocabulary. It physically reshapes the brain's structure, delays dementia onset, and builds a tolerance for ambiguity that makes a person more socially resilient. d-->
+<!--d Learning a second language in adulthood does more than add vocabulary. It physically reshapes the brain&#039;s structure, delays dementia onset, and builds a tolerance for ambiguity that makes a person more socially resilient. d-->
 <!--tag mind,cognition,neuroscience,education,learning,psychology tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/adult_language_classroom_brain.webp image-->
 
