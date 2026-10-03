@@ -1,5 +1,5 @@
 <!--t How Political Violence Taxes the Working Class t-->
-<!--d When the civic machinery breaks down, riots follow. But the destruction falls hardest on the people who needed the repairs most. d-->
+<!--d When the civic machinery breaks down, riots follow. But the destruction falls hardest on the people who needed the repairs most. t-->
 <!--tag society,systems,economics,psychology,history,conflict tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/france_protest_street_debris.webp image-->
 
