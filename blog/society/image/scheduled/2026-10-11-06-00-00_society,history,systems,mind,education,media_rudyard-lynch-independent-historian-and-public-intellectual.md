@@ -93,5 +93,4 @@ The 2026 recalibration reflects a creator who recognizes these limits, at least 
 
 What is not in question is the cultural function he performs. He provides a macro-level lens on civilizational forces at a moment when most institutions produce only narrow, specialized analysis. He makes demography, geography, and evolutionary pressure feel urgent and consequential rather than academic. He builds the track while driving the train, mapping the past to project the future, and the audience that follows him is telling something important about what people want from public intellectual life.
 
-[More about Rudyard Lynch on YouTube](https://www.youtube.com/results?sp=mAEB&search_query=rudyard+lynch+austin)
-
+[More about Rudyard Lynch on YouTube](https://www.youtube.com/@History102-qg5oj/videos)
