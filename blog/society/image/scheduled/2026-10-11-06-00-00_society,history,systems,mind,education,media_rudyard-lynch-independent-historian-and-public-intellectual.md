@@ -3,8 +3,6 @@
 <!--tag society,history,systems,mind,education,media tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/whatifalthist_history_creator_synthesis.webp image-->
 
-**The Creator and the Public Record**
-
 Rudyard William Lynch built a broadcasting empire on his own terms. He held no university fellowship, sought no network television slot, and answered to no editorial board. He set up a microphone, started talking, and let the audience decide. Over a decade, that decision produced one of the most ambitious independent history platforms on the internet, one that diagnoses civilizational collapse, evolutionary psychology, and geopolitical fracture lines with the same breath.
 
 The platform began under the banner of WhatifAltHist, where Lynch started producing speculative history content as a young teenager. As his audience grew, the logistical foundation matured alongside the intellectual scope. In early 2024, he launched History 102 alongside Austin Padgett, a collaborative podcast operating under the Turpentine network, which provided a more structured, conversational environment for exploring historical patterns.
