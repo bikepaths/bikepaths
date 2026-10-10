@@ -1,20 +1,20 @@
 <!--t Charles DiBella t-->
-<!--d Charles DiBella is dedicated bikepacker, long-distance bicycle touring enthusiast, world adventurer, thinker, technician, researcher, writer, speaker and teacher. His aim is to inspire and engage, welcoming your comments and questions. d-->
+<!--d Charles DiBella: Systemic architecture researcher, bicycle adventurer, and author of the SDI Specification to end chronic homelessness. d-->
 <!--image https://bikepaths.org/blog/content/images/mandala.png image-->
 
-Current research focuses on a practical plan to end long-term homelessness in big cities. 
-The project is called the Material Dignity Infrastructure (MDI). 
-It solves the problem by combining three physical actions. 
-The system requires people to receive medical care and build healthy habits before moving into permanent apartments. 
-This early health step ensures they do not lose their housing later. 
-The architecture provides a financial model allowing cities to buy empty office buildings cheaply and rebuild them into safe, supportive housing. 
-The project then tests this system like a strict science experiment. 
-Planners must prove the health steps work before building more towers. 
-The goal is to write clear instructions that turn empty office buildings into places that save lives.
+Charles DiBella builds practical systems to solve complex human problems. He studies how people perform, how our minds evolved, and how large systems operate.
 
-[Social Science Research Network, Author Landing Page][2] 
+**Core Project: Systemic Dignity Infrastructure (SDI)**
+His primary work provides a permanent exit from chronic street homelessness. The SDI gives cities a clear blueprint. It relies on three physical actions to keep vulnerable people safe:
+- **Health First**: People receive medical care and build healthy daily habits before they move into permanent apartments. This early step stops them from losing their homes later.
+- **Smart Capital**: A new financial model allows cities to buy empty office towers cheaply. Builders then convert these spaces into safe, supportive housing.
+- **Strict Science**: Planners must test the system like an experiment. They must prove that the health steps work before they construct more towers.
 
-[General Contact Information][1] 
+Beyond urban design, Charles writes about global risks, artificial intelligence, and the ancient philosophy of stoicism. He is also a dedicated long-distance bicycle adventurer.
+
+**[Review the Complete Methodology on SSRN][2]**
+
+**[Reach Out Directly][1]**
 
   [1]: https://bikepaths.org/blog/contact/#form
   [2]: https://bikepaths.org/about

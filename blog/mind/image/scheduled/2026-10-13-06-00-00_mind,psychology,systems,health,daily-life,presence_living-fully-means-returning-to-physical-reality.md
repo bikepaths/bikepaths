@@ -1,7 +1,7 @@
 <!--t Living Fully Means Returning to Physical Reality t-->
 <!--d Modern life engineers a constant detachment from physical reality, but a grounded existence relies on intentional routines and sensory attention to restore stability. d-->
 <!--tag mind,psychology,systems,health,daily-life,presence tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/human_morning_street_walk.webp image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-105.jpg image-->
 
 A modern mind spends much of its time in places that do not exist, rehearsing disasters, replaying conflicts, and measuring circumstances against polished accounts of others. This habitual displacement turns the present moment into a waiting room for a life that seems always to be arriving. The body occupies a physical space while attention scatters across imagined timelines, leaving the actual moment unoccupied.
 
