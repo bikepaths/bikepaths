@@ -4,8 +4,8 @@
 <?php endif; ?>
 <section class="inpost post section" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
     <div class="section-inner">
-        <div class="content">    
-            <?php if (login()) { echo tab($p); } ?>   
+        <div class="content">
+            <?php if (login()) { echo tab($p); } ?>
             <div class="item">
                 <?php if (!empty($p->image)) { ?>
                     <div class="featured featured-image">
@@ -34,11 +34,11 @@
 						<h1 class="title" itemprop="headline"><?php echo $p->title;?></h1>
 					<?php } ?>
                     <p class="meta">
-                        <span class="date" itemprop="datePublished"><?php echo format_date($p->date) ?></span> - <?php echo i18n("Posted_in");?> 
-                        <span itemprop="articleSection"><?php echo $p->category;?></span> <?php echo i18n("by");?> 
+                        <span class="date" itemprop="datePublished"><?php echo format_date($p->date) ?></span> - <?php echo i18n("Posted_in");?>
+                        <span itemprop="articleSection"><?php echo $p->category;?></span> <?php echo i18n("by");?>
                         <span itemprop="author"><a href="<?php echo $p->authorUrl;?>"><?php echo $p->authorName;?></a></span>
                     </p>
-                    <div class="voting-module" style="margin: 5px 0; padding: 10px; background: #f9f9f9; border-radius: 5px; float: right; display: inline-block;">
+                    <div class="voting-module" style="margin: 0px 0; padding: 10px; background: #f9f9f9; border-radius: 5px; float: right; display: inline-block;">
                         <span id="vote-message-<?php echo $p->slug;?>" style="margin-right: 15px; color: #555; font-style: italic;"></span>
                         <strong>Was this article helpful?</strong> &nbsp;
                         <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50; font-size: 1.2em;"><i class="fa fa-thumbs-up"></i></a> &nbsp;
@@ -49,7 +49,7 @@
                 <div class="desc text-left post-<?php echo $p->date;?>" itemprop="articleBody">
                     <?php echo $p->body; ?>
                 </div><!--//desc-->
-                
+
 
 
 
@@ -77,7 +77,7 @@
 			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
 	</div>
 	<div style="clear:both;"></div>
-	<span class="tags"><i class="fa fa-tags"></i> <?php echo $p->tag;?></span> 
+	<span class="tags"><i class="fa fa-tags"></i> <?php echo $p->tag;?></span>
 </div>
 
 
@@ -90,10 +90,10 @@
                 <?php if (disqus_count()): ?>
                     <?php echo disqus_count() ?>
                 <?php endif; ?>
-    
-    
-    
-                
+
+
+
+
                 <?php $tags = get_related($p->related, true, config('related.count'));?>
                 <?php $char = 100; $total = count($tags); $i = 1; if ($total >= 1) { ?>
                     <div class="related related-posts" style="margin-top:30px;position:relative;">
@@ -112,8 +112,8 @@
                         <div style="clear:both;"></div>
                     </div>
                 <?php }?>
-                
-                
+
+
                 <div style="margin-top:0px;position:relative;">
                     <?php if (!empty($next)): ?>
                         <span class="newer"><a href="<?php echo($next['url']); ?>" rel="next"><i class="fa fa-long-arrow-left"></i> <?php echo i18n("Next");?></a></span>
@@ -123,11 +123,11 @@
                     <?php endif; ?>
                     <div style="clear:both;"></div><hr>
                 </div>
-                
-                
-            </div><!--//item-->                       
-        </div><!--//content-->  
-    </div><!--//section-inner-->                 
+
+
+            </div><!--//item-->
+        </div><!--//content-->
+    </div><!--//section-inner-->
 </section><!--//section-->
 <?php if (facebook() || disqus()): ?>
     <section class="comment-wrapper post section">
@@ -142,8 +142,8 @@
                         <div id="disqus_thread"></div>
                     <?php endif; ?>
                 </div>
-            </div><!--//content-->  
-        </div><!--//section-inner-->                 
+            </div><!--//content-->
+        </div><!--//section-inner-->
     </section><!--//section-->
 <?php endif; ?>
 <script>
