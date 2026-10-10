@@ -38,6 +38,12 @@
                         <span itemprop="articleSection"><?php echo $p->category;?></span> <?php echo i18n("by");?> 
                         <span itemprop="author"><a href="<?php echo $p->authorUrl;?>"><?php echo $p->authorName;?></a></span>
                     </p>
+                    <div class="voting-module" style="margin: 15px 0; padding: 10px; background: #f9f9f9; border-radius: 5px; display: inline-block;">
+                        <strong>Was this article helpful?</strong> &nbsp;
+                        <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50; font-size: 1.2em;"><i class="fa fa-thumbs-up"></i></a> &nbsp;
+                        <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'dislike')" title="Dislike" style="color: #F44336; font-size: 1.2em;"><i class="fa fa-thumbs-down"></i></a>
+                        <span id="vote-message-<?php echo $p->slug;?>" style="margin-left: 15px; color: #555; font-style: italic;"></span>
+                    </div>
                 </div>
                 <div class="desc text-left post-<?php echo $p->date;?>" itemprop="articleBody">
                     <?php echo $p->body; ?>
@@ -52,11 +58,6 @@
 <div style="margin-top:0px;position:relative;">
 	<a href="https://bikepaths.org/blog/tips/">Kindle Books</a>
 	<div class="share pull-right social-logo social">
-        <span class="voting" style="margin-right: 20px; border-right: 1px solid #eee; padding-right: 15px;">
-            <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50;"><i class="fa fa-thumbs-up"></i></a>
-            &nbsp;
-            <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'dislike')" title="Dislike" style="color: #F44336;"><i class="fa fa-thumbs-down"></i></a>
-        </span>
         &#x1F517; &nbsp; Share This Post &nbsp; &nbsp;
 		<!-- Facebook -->
 		<a class="social-logo-facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $p->url ?>">
@@ -146,9 +147,10 @@
 <?php endif; ?>
 <script>
 function vote(slug, type) {
+    var msgBox = document.getElementById('vote-message-' + slug);
     var cookieName = 'voted_' + slug;
     if (document.cookie.split(';').some((item) => item.trim().startsWith(cookieName + '='))) {
-        alert('You have already provided feedback for this post.');
+        msgBox.innerText = 'You have already voted on this post.';
         return;
     }
     fetch('<?php echo site_url();?>vote/' + slug + '/' + type, {
@@ -160,13 +162,17 @@ function vote(slug, type) {
     .then(response => response.json())
     .then(data => {
         if (data.status === 'success') {
-            alert('Thank you for your feedback!');
+            msgBox.innerText = 'Thank you for your feedback!';
+            msgBox.style.color = '#4CAF50';
         } else {
-            alert(data.message);
+            msgBox.innerText = data.message;
+            msgBox.style.color = '#F44336';
         }
     })
     .catch(error => {
         console.error('Error:', error);
+        msgBox.innerText = 'An error occurred. Please try again.';
+        msgBox.style.color = '#F44336';
     });
 }
 </script>
