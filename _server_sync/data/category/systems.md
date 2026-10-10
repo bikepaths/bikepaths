@@ -1,4 +1,4 @@
 <!--t Systems t-->
-<!--d Governance, infrastructure, institutional design, and how things work. d-->
+<!--d Engineering a better civilization. We analyze physical infrastructure, tear apart broken institutions, and design systems that actually work. d-->
 
-<p>Governance, infrastructure, institutional design, and how things work.</p>
+<p>Engineering a better civilization. We analyze physical infrastructure, tear apart broken institutions, and design systems that actually work.</p>

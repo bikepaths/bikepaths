@@ -1,4 +1,4 @@
 <!--t Technology t-->
-<!--d Tools, innovation, digital systems, AI, and practical tech use. d-->
+<!--d Harnessing the power of the digital frontier. We examine artificial intelligence, new tools, and the practical impact of modern innovation. d-->
 
-<p>Tools, innovation, digital systems, AI, and practical tech use.</p>
+<p>Harnessing the power of the digital frontier. We examine artificial intelligence, new tools, and the practical impact of modern innovation.</p>

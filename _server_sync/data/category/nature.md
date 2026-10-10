@@ -1,4 +1,4 @@
 <!--t Nature t-->
-<!--d Environment, ecology, natural world, conservation, and wilderness. d-->
+<!--d Defending the physical world. We examine the fragile balance of local ecosystems and the urgent need to protect our remaining wilderness. d-->
 
-<p>Environment, ecology, natural world, conservation, and wilderness.</p>
+<p>Defending the physical world. We examine the fragile balance of local ecosystems and the urgent need to protect our remaining wilderness.</p>

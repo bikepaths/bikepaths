@@ -1,4 +1,4 @@
 <!--t Society t-->
-<!--d Social dynamics, relationships, culture, and community. d-->
+<!--d Mapping the human network. We explore how culture shapes behavior and what it takes to build strong, resilient communities. d-->
 
-<p>Social dynamics, relationships, culture, and community.</p>
+<p>Mapping the human network. We explore how culture shapes behavior and what it takes to build strong, resilient communities.</p>

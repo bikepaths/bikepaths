@@ -1,4 +1,4 @@
 <!--t Adventure t-->
-<!--d Bikepacking, travel, exploration, and outdoor activities. d-->
+<!--d Pushing physical limits across global landscapes. We explore the wilderness by bicycle and discover what happens at the edge of the map. d-->
 
-<p>Bikepacking, travel, exploration, and outdoor activities.</p>
+<p>Pushing physical limits across global landscapes. We explore the wilderness by bicycle and discover what happens at the edge of the map.</p>

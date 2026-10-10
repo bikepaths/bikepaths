@@ -1,4 +1,4 @@
 <!--t History t-->
-<!--d Past events, historical analysis, patterns, and heritage. d-->
+<!--d Extracting hard lessons from the past. We analyze ancient patterns and historical events to understand how civilizations rise and fall. d-->
 
-<p>Past events, historical analysis, patterns, and heritage.</p>
+<p>Extracting hard lessons from the past. We analyze ancient patterns and historical events to understand how civilizations rise and fall.</p>

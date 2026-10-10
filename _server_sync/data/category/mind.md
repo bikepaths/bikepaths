@@ -1,4 +1,4 @@
 <!--t Mind t-->
-<!--d Psychology, cognition, learning, bias, and decision-making. d-->
+<!--d Upgrading how we think and decide. We explore human psychology, cognitive biases, and the mental frameworks that drive behavior. d-->
 
-<p>Psychology, cognition, learning, bias, and decision-making.</p>
+<p>Upgrading how we think and decide. We explore human psychology, cognitive biases, and the mental frameworks that drive behavior.</p>

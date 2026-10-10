@@ -1,4 +1,4 @@
 <!--t Health t-->
-<!--d Physical health, mental wellness, nutrition, and fitness. d-->
+<!--d Building a resilient body and mind. We focus on practical fitness, clean nutrition, and the daily habits required to stay sharp. d-->
 
-<p>Physical health, mental wellness, nutrition, and fitness.</p>
+<p>Building a resilient body and mind. We focus on practical fitness, clean nutrition, and the daily habits required to stay sharp.</p>
