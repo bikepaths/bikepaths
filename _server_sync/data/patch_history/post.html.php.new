@@ -57,9 +57,8 @@
 
 
 <div style="margin-top:0px;position:relative;">
-	<a href="https://bikepaths.org/blog/tips/">Kindle Books</a>
 	<div class="share pull-right social-logo social">
-        &#x1F517; &nbsp; Share This Post &nbsp; &nbsp;
+        <i class="fa fa-share-alt"></i> &nbsp; Share This Post &nbsp; &nbsp;
 		<!-- Facebook -->
 		<a class="social-logo-facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $p->url ?>">
 			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
