@@ -38,7 +38,7 @@
                         <span itemprop="articleSection"><?php echo $p->category;?></span> <?php echo i18n("by");?>
                         <span itemprop="author"><a href="<?php echo $p->authorUrl;?>"><?php echo $p->authorName;?></a></span>
                     </p>
-                    <div class="voting-module" style="margin: 0px 0; padding: 10px; background: #f9f9f9; border-radius: 5px; float: right; display: inline-block;">
+                    <div class="voting-module" style="margin: 0px 15px 0px 0px; padding: 10px; background: #f9f9f9; border-radius: 5px; float: right; display: inline-block;">
                         <span id="vote-message-<?php echo $p->slug;?>" style="margin-right: 15px; color: #555; font-style: italic;"></span>
                         <strong>Was this article helpful?</strong> &nbsp;
                         <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50; font-size: 1.2em;"><i class="fa fa-thumbs-up"></i></a> &nbsp;
