@@ -37,8 +37,8 @@ if (file_exists($votesFile)) {
                 <td>
                     <?php 
                     $v = isset($votes[$p->slug]) ? $votes[$p->slug] : array('likes' => 0, 'dislikes' => 0);
-                    echo '<span class="text-success" title="Likes"><i class="fa fa-thumbs-up"></i> ' . $v['likes'] . '</span> / ';
-                    echo '<span class="text-danger" title="Dislikes"><i class="fa fa-thumbs-down"></i> ' . $v['dislikes'] . '</span>';
+                    echo '<span class="badge badge-success">+' . $v['likes'] . '</span> ';
+                    echo '<span class="badge badge-danger">-' . $v['dislikes'] . '</span>';
                     ?>
                 </td>
                 <td><a target="_blank" href="<?php echo $p->authorUrl ?>"><?php echo $p->author ?></a></td>
