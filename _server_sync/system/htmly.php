@@ -5341,6 +5341,9 @@ post('/:static/delete', function () {
     }
 });
 
+// Load Custom Routes (must precede wildcards)
+require_once __DIR__ . '/includes/custom_logic.php';
+
 // Show the sb static page
 get('/:static/:sub', function ($static, $sub) {
     

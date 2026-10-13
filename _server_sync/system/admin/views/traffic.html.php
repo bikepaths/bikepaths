@@ -92,13 +92,17 @@ $generated  = isset($snap['generated_at'])       ? $snap['generated_at']       :
     <tbody>
     <?php foreach ($articles as $row): ?>
     <tr>
-      <td><strong><?php echo (int)$row['day']; ?></strong>
-          <span class="bar-bg" style="width:70px"><span class="bar-fill" style="width:<?php echo min(100,round((int)$row['day']/$maxDay*100)); ?>%"></span></span></td>
+      <td><strong><?php echo (int)$row['day']; ?></strong></td>
       <td><?php echo (int)$row['tot']; ?></td>
       <td><span style="color:#27ae60;font-weight:600">+<?php echo (int)$row['likes']; ?></span>
           <span style="color:#e74c3c;font-weight:600"> −<?php echo (int)$row['dislikes']; ?></span></td>
-      <td><a href="<?php echo site_url() . ltrim(htmlspecialchars($row['uri']),'/'); ?>" target="_blank"
-             style="color:#2980b9;text-decoration:none;word-break:break-all"><?php echo htmlspecialchars($row['uri']); ?></a></td>
+      <?php
+        $rawUri = $row['uri'];
+        $cleanPath = preg_replace('#^/blog/#', '', $rawUri);
+        $fullUrl = ($cleanPath === '' || $cleanPath === '/') ? site_url() : site_url() . '/' . ltrim($cleanPath, '/');
+      ?>
+      <td><a href="<?php echo htmlspecialchars($fullUrl); ?>" target="_blank"
+             style="color:#2980b9;text-decoration:none;word-break:break-all"><?php echo htmlspecialchars($rawUri); ?></a></td>
     </tr>
     <?php endforeach; ?>
     </tbody>
@@ -167,9 +171,7 @@ $generated  = isset($snap['generated_at'])       ? $snap['generated_at']       :
       <tbody>
       <?php foreach ($geodata as $g): ?>
       <tr>
-        <td style="width:80px;font-weight:600"><?php echo (int)$g['visitors']; ?>
-          <span class="bar-bg" style="width:50px"><span class="bar-fill" style="width:<?php echo min(100,round((int)$g['visitors']/$maxGeo*100)); ?>%"></span></span>
-        </td>
+        <td style="width:80px;font-weight:600"><?php echo (int)$g['visitors']; ?></td>
         <td><?php echo htmlspecialchars($g['country']); ?></td>
       </tr>
       <?php endforeach; ?>

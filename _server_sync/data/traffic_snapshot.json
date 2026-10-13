@@ -1,0 +1,340 @@
+{
+  "generated_at": "2026-10-12 22:14:01",
+  "summary": {
+    "today_human_visits": 1517,
+    "total_tracked_articles": 1610,
+    "inquiries_today": 0,
+    "top_country": "US, United States"
+  },
+  "security_offenders": [
+    {
+      "ip": "::1",
+      "hits": 2382,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.75.233.29",
+      "hits": 2187,
+      "status": "NEW"
+    },
+    {
+      "ip": "136.90.45.18",
+      "hits": 700,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.107.122.83",
+      "hits": 614,
+      "status": "NEW"
+    },
+    {
+      "ip": "207.175.162.72",
+      "hits": 608,
+      "status": "NEW"
+    },
+    {
+      "ip": "35.198.113.100",
+      "hits": 540,
+      "status": "NEW"
+    },
+    {
+      "ip": "136.92.13.159",
+      "hits": 382,
+      "status": "NEW"
+    },
+    {
+      "ip": "13.70.110.189",
+      "hits": 282,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.1.165.214",
+      "hits": 262,
+      "status": "NEW"
+    },
+    {
+      "ip": "35.217.144.32",
+      "hits": 261,
+      "status": "SAFE BOT"
+    }
+  ],
+  "top_articles": [
+    {
+      "uri": "/blog/",
+      "slug": "blog",
+      "day": 322,
+      "tot": 7987,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "slug": "itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "day": 22,
+      "tot": 104,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
+      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "day": 20,
+      "tot": 301,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/10/the-polarization-of-progressivism-and-traditionalism-understanding-the-divide",
+      "slug": "the-polarization-of-progressivism-and-traditionalism-understanding-the-divide",
+      "day": 6,
+      "tot": 73,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/history/irvthomas.com/",
+      "slug": "irvthomas.com",
+      "day": 6,
+      "tot": 58,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/the-idea-and-the-witnesses",
+      "slug": "the-idea-and-the-witnesses",
+      "day": 6,
+      "tot": 106,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "slug": "truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "day": 6,
+      "tot": 236,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/the-vulnerable-world-hypothesis",
+      "slug": "the-vulnerable-world-hypothesis",
+      "day": 5,
+      "tot": 156,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/how-central-banks-subsidize-capital-by-taxing-labor",
+      "slug": "how-central-banks-subsidize-capital-by-taxing-labor",
+      "day": 5,
+      "tot": 73,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/10/understanding-the-power-of-fear-how-constant-crises-shape-society",
+      "slug": "understanding-the-power-of-fear-how-constant-crises-shape-society",
+      "day": 5,
+      "tot": 65,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/urban-survival-why-the-usual-answers-fail",
+      "slug": "urban-survival-why-the-usual-answers-fail",
+      "day": 5,
+      "tot": 94,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/spiritual-pursuit-and-divine-connectivity",
+      "slug": "spiritual-pursuit-and-divine-connectivity",
+      "day": 4,
+      "tot": 45,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/02/how-students-change-schools-the-power-of-collective-questions",
+      "slug": "how-students-change-schools-the-power-of-collective-questions",
+      "day": 4,
+      "tot": 53,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/frederic-bastiat-and-classical-liberalism",
+      "slug": "frederic-bastiat-and-classical-liberalism",
+      "day": 4,
+      "tot": 48,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
+      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
+      "day": 4,
+      "tot": 156,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/the-political-economy-of-narcissism",
+      "slug": "the-political-economy-of-narcissism",
+      "day": 4,
+      "tot": 104,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/long-term-self-supported-urban-and-rural-bikepacking",
+      "slug": "long-term-self-supported-urban-and-rural-bikepacking",
+      "day": 4,
+      "tot": 35,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/the-rise-of-the-modern-bicycle",
+      "slug": "the-rise-of-the-modern-bicycle",
+      "day": 4,
+      "tot": 61,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/tale-of-the-urban-nomad",
+      "slug": "tale-of-the-urban-nomad",
+      "day": 4,
+      "tot": 22,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/history/irvthomas.com/RipeSeasons/season29.htm",
+      "slug": "season29.htm",
+      "day": 4,
+      "tot": 43,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/history/irvthomas.com/RipeSeasons/season25.htm",
+      "slug": "season25.htm",
+      "day": 4,
+      "tot": 38,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/history/irvthomas.com/RipeSeasons/season30.htm",
+      "slug": "season30.htm",
+      "day": 4,
+      "tot": 47,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/history/irvthomas.com/RipeSeasons/season16.html",
+      "slug": "season16.html",
+      "day": 4,
+      "tot": 34,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/american-war-criminals-named-by-google-bard",
+      "slug": "american-war-criminals-named-by-google-bard",
+      "day": 4,
+      "tot": 17,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/schizophrenia-and-schizoaffective-disorder",
+      "slug": "schizophrenia-and-schizoaffective-disorder",
+      "day": 4,
+      "tot": 31,
+      "likes": 0,
+      "dislikes": 0
+    }
+  ],
+  "inquiries_today": [],
+  "external_sources": [
+    {
+      "hits": 9,
+      "source": "https://www.google.com/"
+    },
+    {
+      "hits": 5,
+      "source": "https://www.bing.com/"
+    },
+    {
+      "hits": 4,
+      "source": "https://www.google.com"
+    },
+    {
+      "hits": 3,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/"
+    },
+    {
+      "hits": 1,
+      "source": "https://noai.duckduckgo.com/"
+    },
+    {
+      "hits": 1,
+      "source": "binance.com"
+    },
+    {
+      "hits": 1,
+      "source": "https://www.yandex.org/"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]"
+    }
+  ],
+  "geolocation": [
+    {
+      "country": "US, United States",
+      "visitors": 655
+    },
+    {
+      "country": "JP, Japan",
+      "visitors": 159
+    },
+    {
+      "country": "CN, China",
+      "visitors": 89
+    },
+    {
+      "country": "GB, United Kingdom",
+      "visitors": 63
+    },
+    {
+      "country": "DE, Germany",
+      "visitors": 58
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 55
+    },
+    {
+      "country": "BR, Brazil",
+      "visitors": 51
+    },
+    {
+      "country": "PL, Poland",
+      "visitors": 29
+    },
+    {
+      "country": "LT, Lithuania",
+      "visitors": 27
+    },
+    {
+      "country": "FR, France",
+      "visitors": 25
+    }
+  ]
+}
