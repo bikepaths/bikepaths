@@ -258,6 +258,13 @@ if (isset($author[0])) {
                   </p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="<?php echo site_url();?>admin/traffic" class="nav-link">
+                  <p>
+                    <i class="fa fa-line-chart" style="margin-right:4px"></i>Site Traffic
+                  </p>
+                </a>
+              </li>
               <?php endif;?>
             </ul>
           </li>

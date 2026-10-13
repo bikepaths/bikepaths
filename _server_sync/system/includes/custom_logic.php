@@ -100,6 +100,52 @@ post('/clear-author-cache', function () {
     die;
 });
 
+// Site Traffic Dashboard - GET (loads snapshot JSON)
+get('/admin/traffic', function () {
+    if (!login() || user('role', $_SESSION[site_url()]['user']) !== 'admin') {
+        header("location: " . site_url() . "login");
+        die;
+    }
+
+    $snapshotFile = '/home/user0/www/bikepaths/html/blog/content/data/traffic_snapshot.json';
+    $snapshot = array('generated_at' => null, 'summary' => array(), 'security_offenders' => array(),
+        'top_articles' => array(), 'inquiries_today' => array(), 'external_sources' => array(), 'geolocation' => array());
+
+    if (file_exists($snapshotFile)) {
+        $raw = file_get_contents($snapshotFile);
+        $decoded = json_decode($raw, true);
+        if (is_array($decoded)) {
+            $snapshot = $decoded;
+        }
+    }
+
+    config('views.root', 'system/admin/views');
+    render('traffic', array(
+        'title'       => 'Site Traffic Dashboard',
+        'description' => 'Admin traffic dashboard for bikepaths.org',
+        'canonical'   => site_url() . 'admin/traffic',
+        'metatags'    => '',
+        'breadcrumb'  => '<a href="' . site_url() . '">' . config('breadcrumb.home') . '</a> &#187; <a href="' . site_url() . 'admin">Admin</a> &#187; Traffic',
+        'type'        => 'is_admin',
+        'is_admin'    => true,
+        'snapshot'    => $snapshot,
+        'bodyclass'   => 'hold-transition skin-blue sidebar-mini',
+    ));
+    die;
+});
+
+// Site Traffic Dashboard - POST (triggers live scan and refreshes snapshot)
+post('/admin/traffic/refresh', function () {
+    if (!login() || user('role', $_SESSION[site_url()]['user']) !== 'admin') {
+        header("location: " . site_url() . "login");
+        die;
+    }
+
+    shell_exec('python3 /home/user0/.cron_scripts/bot-guard.py -r --no-color --snapshot > /dev/null 2>&1 &');
+    header("location: " . site_url() . "admin/traffic");
+    die;
+});
+
 // Remote Sync Route - Triggers Atomic GitHub Synchronization
 
 
