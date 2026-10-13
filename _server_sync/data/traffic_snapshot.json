@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13 02:38:57",
+  "generated_at": "2026-10-13 13:29:05",
   "summary": {
-    "today_human_visits": 228,
-    "total_tracked_articles": 1613,
+    "today_human_visits": 937,
+    "total_tracked_articles": 1611,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
@@ -13,57 +13,113 @@
       "status": "NEW"
     },
     {
+      "ip": "35.234.65.171",
+      "hits": 745,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.100.215.37",
+      "hits": 513,
+      "status": "NEW"
+    },
+    {
       "ip": "35.198.113.100",
-      "hits": 135,
+      "hits": 503,
       "status": "NEW"
     },
     {
       "ip": "::1",
-      "hits": 75,
+      "hits": 266,
       "status": "NEW"
     },
     {
-      "ip": "136.47.192.123",
-      "hits": 49,
+      "ip": "35.244.59.26",
+      "hits": 264,
       "status": "NEW"
     },
     {
-      "ip": "209.38.99.21",
-      "hits": 43,
+      "ip": "34.78.82.214",
+      "hits": 258,
       "status": "NEW"
     },
     {
-      "ip": "183.201.197.155",
-      "hits": 35,
+      "ip": "74.225.146.100",
+      "hits": 134,
       "status": "NEW"
     },
     {
-      "ip": "218.61.161.31",
-      "hits": 35,
+      "ip": "52.141.7.184",
+      "hits": 115,
       "status": "NEW"
     },
     {
-      "ip": "165.227.39.235",
-      "hits": 33,
-      "status": "NEW"
-    },
-    {
-      "ip": "139.59.231.238",
-      "hits": 32,
-      "status": "NEW"
-    },
-    {
-      "ip": "170.64.153.102",
-      "hits": 28,
-      "status": "NEW"
+      "ip": "76.38.129.110",
+      "hits": 78,
+      "status": "SAFE BOT"
     }
   ],
   "top_articles": [
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 39,
-      "tot": 7704,
+      "day": 155,
+      "tot": 7820,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
+      "slug": "living-fully-means-returning-to-physical-reality",
+      "day": 35,
+      "tot": 35,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
+      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "day": 16,
+      "tot": 297,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
+      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
+      "day": 8,
+      "tot": 160,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/contact/",
+      "slug": "contact",
+      "day": 6,
+      "tot": 267,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/08/the-parasitic-loop-how-algorithms-and-elite-conflict-brokers-killed-shared-reality",
+      "slug": "the-parasitic-loop-how-algorithms-and-elite-conflict-brokers-killed-shared-reality",
+      "day": 5,
+      "tot": 102,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "slug": "truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "day": 5,
+      "tot": 235,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
+      "slug": "the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
+      "day": 4,
+      "tot": 102,
       "likes": 0,
       "dislikes": 0
     },
@@ -76,6 +132,14 @@
       "dislikes": 0
     },
     {
+      "uri": "/blog/2026/06/when-the-tool-learns-to-think-ai-superintelligence-and-the-question-of-control",
+      "slug": "when-the-tool-learns-to-think-ai-superintelligence-and-the-question-of-control",
+      "day": 4,
+      "tot": 54,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
       "uri": "/blog/topics/audio/music/Jethro-Tull-Zealot-Gene-2022/07-Barren-Beth-Wild-Desert-John.mp3",
       "slug": "07-Barren-Beth-Wild-Desert-John.mp3",
       "day": 3,
@@ -84,10 +148,42 @@
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
-      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "uri": "/blog/2026/07/the-suburbia-trap",
+      "slug": "the-suburbia-trap",
       "day": 3,
-      "tot": 284,
+      "tot": 84,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/archive/2023",
+      "slug": "2023",
+      "day": 3,
+      "tot": 80,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/03/the-three-social-bonds-that-prevent-violence",
+      "slug": "the-three-social-bonds-that-prevent-violence",
+      "day": 3,
+      "tot": 47,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/08/three-nations-and-the-earths-bounty",
+      "slug": "three-nations-and-the-earths-bounty",
+      "day": 3,
+      "tot": 26,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
+      "slug": "cicada-3301-unsolved-digital-enigma",
+      "day": 2,
+      "tot": 45,
       "likes": 0,
       "dislikes": 0
     },
@@ -116,146 +212,50 @@
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
-      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
-      "day": 2,
-      "tot": 154,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
-      "slug": "cicada-3301-unsolved-digital-enigma",
-      "day": 1,
-      "tot": 44,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/01/the-neutrality-paradox-why-we-defend-the-stadium-not-the-teams",
-      "slug": "the-neutrality-paradox-why-we-defend-the-stadium-not-the-teams",
-      "day": 1,
-      "tot": 39,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/systemic-dignity-a-practical-alternative-to-current-homelessness-strategies",
-      "slug": "systemic-dignity-a-practical-alternative-to-current-homelessness-strategies",
-      "day": 1,
-      "tot": 141,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/bicycle-touring-after-retirement-the-physical-and-emotional-realities-of-the-open-road",
-      "slug": "bicycle-touring-after-retirement-the-physical-and-emotional-realities-of-the-open-road",
-      "day": 1,
-      "tot": 82,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/07/maximizing-battery-life-a-guide-to-using-polarity-reversal-for-long-term-storage",
-      "slug": "maximizing-battery-life-a-guide-to-using-polarity-reversal-for-long-term-storage",
-      "day": 1,
-      "tot": 24,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/06/the-bifurcated-market-system-analysis-and-projected-outcomes",
-      "slug": "the-bifurcated-market-system-analysis-and-projected-outcomes",
-      "day": 1,
-      "tot": 33,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/admin/traffic",
-      "slug": "traffic",
-      "day": 1,
-      "tot": 1,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "slug": "the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "day": 1,
-      "tot": 99,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/admin/traffic/refresh",
-      "slug": "refresh",
-      "day": 1,
-      "tot": 1,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog//2026/07/systemic-dignity-a-practical-alternative-to-current-homelessness-strategies",
-      "slug": "systemic-dignity-a-practical-alternative-to-current-homelessness-strategies",
-      "day": 1,
-      "tot": 1,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/bokator-khmer-martial-arts",
-      "slug": "bokator-khmer-martial-arts",
-      "day": 1,
-      "tot": 126,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/the-silver-test-how-paper-money-hides-the-true-cost-of-human-labor",
-      "slug": "the-silver-test-how-paper-money-hides-the-true-cost-of-human-labor",
-      "day": 1,
-      "tot": 46,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
       "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
       "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 1,
-      "tot": 575,
+      "day": 2,
+      "tot": 576,
       "likes": 2,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/06/chapter-1-embracing-minimalism",
-      "slug": "chapter-1-embracing-minimalism",
-      "day": 1,
-      "tot": 26,
+      "uri": "/blog/2026/08/raising-a-reader",
+      "slug": "raising-a-reader",
+      "day": 2,
+      "tot": 81,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/archive/2024-06",
-      "slug": "2024-06",
-      "day": 1,
+      "uri": "/blog/2024/12/topics/",
+      "slug": "topics",
+      "day": 2,
       "tot": 19,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/07/the-right-to-be-left-alone-a-foundational-concept-in-privacy-law",
-      "slug": "the-right-to-be-left-alone-a-foundational-concept-in-privacy-law",
-      "day": 1,
-      "tot": 31,
+      "uri": "/blog/2026/02/the-pathology-of-complexity",
+      "slug": "the-pathology-of-complexity",
+      "day": 2,
+      "tot": 46,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/the-limits-of-logic-why-superintelligence-is-a-mathematical-impossibility",
-      "slug": "the-limits-of-logic-why-superintelligence-is-a-mathematical-impossibility",
-      "day": 1,
-      "tot": 98,
+      "uri": "/blog/2026/02/the-architecture-of-control-understanding-agency-in-large-language-models",
+      "slug": "the-architecture-of-control-understanding-agency-in-large-language-models",
+      "day": 2,
+      "tot": 67,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/urban-survival-the-spiral-that-nobody-stops",
+      "slug": "urban-survival-the-spiral-that-nobody-stops",
+      "day": 2,
+      "tot": 72,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,8 +263,20 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 2,
+      "hits": 7,
       "source": "https://www.google.com/"
+    },
+    {
+      "hits": 5,
+      "source": "https://www.facebook.com/"
+    },
+    {
+      "hits": 3,
+      "source": "https://www.baidu.com"
+    },
+    {
+      "hits": 2,
+      "source": "https://www.bing.com/"
     },
     {
       "hits": 1,
@@ -273,48 +285,52 @@
     {
       "hits": 1,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
+    },
+    {
+      "hits": 1,
+      "source": "https://myactivity.google.com/"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 104
+      "visitors": 372
     },
     {
       "country": "JP, Japan",
-      "visitors": 22
-    },
-    {
-      "country": "CA, Canada",
-      "visitors": 12
-    },
-    {
-      "country": "GB, United Kingdom",
-      "visitors": 11
-    },
-    {
-      "country": "BR, Brazil",
-      "visitors": 9
+      "visitors": 87
     },
     {
       "country": "CN, China",
-      "visitors": 7
+      "visitors": 69
     },
     {
-      "country": "FR, France",
-      "visitors": 6
+      "country": "GB, United Kingdom",
+      "visitors": 41
     },
     {
-      "country": "HK, Hong Kong",
-      "visitors": 6
+      "country": "BR, Brazil",
+      "visitors": 37
     },
     {
-      "country": "ZA, South Africa",
-      "visitors": 5
+      "country": "CA, Canada",
+      "visitors": 37
     },
     {
       "country": "DE, Germany",
-      "visitors": 4
+      "visitors": 36
+    },
+    {
+      "country": "BE, Belgium",
+      "visitors": 21
+    },
+    {
+      "country": "IN, India",
+      "visitors": 17
+    },
+    {
+      "country": "ES, Spain",
+      "visitors": 16
     }
   ]
 }

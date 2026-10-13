@@ -9,7 +9,7 @@ Going without food alters the body in ways that reach far beyond weight loss, wh
 
 Whenever someone finishes a meal, sugar rushes into vessels to supply immediate energy to muscles and organs. The liver sweeps up the extra sugar and converts it into an energy reserve known as glycogen. Even though a human brain weighs only about three pounds, it consumes a fifth of all the energy the body uses at rest. Driven by that large appetite, the brain drains that glycogen storage steadily throughout the day.
 
-Within 12 to 24 hours after the last meal, depending on how much physical work a person does, that storage runs dry. When that happens, the body turns toward stored fat, releasing fatty acids into circulation so the liver can break them down into smaller molecules called ketones. Regular fat molecules are too large and greasy to pass through vessels entering the brain, so these smaller fragments serve as an alternate fuel that slips past the protective wall. Some of these fragments escape through the lungs, which is why a person several days into a fast often has breath that smells faintly like acetone.
+Within 12 to 24 hours after the last meal, depending on how much physical work a person does, that storage runs dry. When that happens, the body turns toward stored fat, releasing fatty acids into circulation so the liver can break them down into smaller molecules called ketones. Regular fat molecules are too large and greasy to pass through blood vessels entering the brain, so these smaller fragments serve as an alternate fuel that slips past the protective wall. Some of these fragments escape through the lungs, which is why a person several days into a fast often has breath that smells faintly like acetone.
 
 **A Backup Generator for the Mind**
 
