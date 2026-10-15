@@ -141,7 +141,7 @@ post('/admin/traffic/refresh', function () {
         die;
     }
 
-    shell_exec('python3 /home/user0/.cron_scripts/bot-guard.py -r --no-color --snapshot > /tmp/live_scan.log 2>&1 &');
+    shell_exec('/home/user0/.venv/bin/python /home/user0/.cron_scripts/bot-guard.py -r --no-color --snapshot 2>&1');
     header("location: " . site_url() . "admin/traffic");
     die;
 });
