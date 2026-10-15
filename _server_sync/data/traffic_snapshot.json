@@ -1,261 +1,261 @@
 {
-  "generated_at": "2026-10-13 23:50:09",
+  "generated_at": "2026-10-14 11:36:00",
   "summary": {
-    "today_human_visits": 1443,
-    "total_tracked_articles": 1611,
+    "today_human_visits": 610,
+    "total_tracked_articles": 1612,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "144.202.121.92",
-      "hits": 1578,
-      "status": "BLOCKED"
-    },
-    {
-      "ip": "136.243.220.210",
-      "hits": 1397,
-      "status": "NEW"
-    },
-    {
-      "ip": "35.234.65.171",
-      "hits": 1082,
-      "status": "NEW"
-    },
-    {
-      "ip": "35.198.113.100",
-      "hits": 723,
-      "status": "NEW"
-    },
-    {
-      "ip": "34.100.215.37",
-      "hits": 513,
-      "status": "NEW"
-    },
-    {
-      "ip": "8.234.100.112",
-      "hits": 512,
+      "ip": "34.153.221.122",
+      "hits": 3074,
       "status": "NEW"
     },
     {
       "ip": "::1",
-      "hits": 463,
+      "hits": 931,
       "status": "NEW"
     },
     {
-      "ip": "34.87.114.182",
-      "hits": 335,
+      "ip": "147.224.162.57",
+      "hits": 383,
       "status": "NEW"
     },
     {
-      "ip": "35.244.59.26",
-      "hits": 264,
+      "ip": "35.205.235.123",
+      "hits": 263,
       "status": "NEW"
     },
     {
-      "ip": "20.194.17.163",
+      "ip": "34.129.234.47",
       "hits": 262,
-      "status": "SAFE BOT"
+      "status": "NEW"
+    },
+    {
+      "ip": "136.87.82.155",
+      "hits": 211,
+      "status": "NEW"
+    },
+    {
+      "ip": "147.224.216.8",
+      "hits": 197,
+      "status": "NEW"
+    },
+    {
+      "ip": "35.198.113.100",
+      "hits": 190,
+      "status": "NEW"
+    },
+    {
+      "ip": "152.42.175.110",
+      "hits": 165,
+      "status": "NEW"
+    },
+    {
+      "ip": "68.155.153.75",
+      "hits": 89,
+      "status": "NEW"
     }
   ],
   "top_articles": [
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 280,
-      "tot": 8102,
+      "day": 85,
+      "tot": 7907,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
-      "slug": "living-fully-means-returning-to-physical-reality",
-      "day": 36,
-      "tot": 71,
+      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "day": 39,
+      "tot": 39,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "slug": "itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "day": 15,
+      "tot": 99,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
       "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 26,
-      "tot": 323,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
-      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
-      "day": 10,
-      "tot": 170,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/contact/",
-      "slug": "contact",
       "day": 8,
-      "tot": 275,
+      "tot": 305,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
-      "slug": "truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
-      "day": 6,
-      "tot": 241,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/08/the-parasitic-loop-how-algorithms-and-elite-conflict-brokers-killed-shared-reality",
-      "slug": "the-parasitic-loop-how-algorithms-and-elite-conflict-brokers-killed-shared-reality",
-      "day": 5,
-      "tot": 107,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "slug": "the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "day": 4,
-      "tot": 106,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/12/balancing-strategies-leveraging-technology-and-investment-planning",
-      "slug": "balancing-strategies-leveraging-technology-and-investment-planning",
-      "day": 4,
-      "tot": 30,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/06/when-the-tool-learns-to-think-ai-superintelligence-and-the-question-of-control",
-      "slug": "when-the-tool-learns-to-think-ai-superintelligence-and-the-question-of-control",
-      "day": 4,
-      "tot": 58,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/topics/audio/music/Jethro-Tull-Zealot-Gene-2022/07-Barren-Beth-Wild-Desert-John.mp3",
-      "slug": "07-Barren-Beth-Wild-Desert-John.mp3",
-      "day": 3,
-      "tot": 11,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 3,
-      "tot": 579,
-      "likes": 2,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/the-suburbia-trap",
-      "slug": "the-suburbia-trap",
-      "day": 3,
-      "tot": 87,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/urban-survival-the-spiral-that-nobody-stops",
-      "slug": "urban-survival-the-spiral-that-nobody-stops",
-      "day": 3,
-      "tot": 75,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/quantum-computing-and-artificial-intelligence",
-      "slug": "quantum-computing-and-artificial-intelligence",
-      "day": 3,
-      "tot": 41,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/archive/2023",
-      "slug": "2023",
-      "day": 3,
-      "tot": 83,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/03/the-three-social-bonds-that-prevent-violence",
-      "slug": "the-three-social-bonds-that-prevent-violence",
-      "day": 3,
-      "tot": 50,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/08/three-nations-and-the-earths-bounty",
-      "slug": "three-nations-and-the-earths-bounty",
-      "day": 3,
-      "tot": 29,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/11/how-to-eat-real-food-and-lose-weight-a-simple-guide",
-      "slug": "how-to-eat-real-food-and-lose-weight-a-simple-guide",
-      "day": 3,
-      "tot": 28,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
-      "slug": "cicada-3301-unsolved-digital-enigma",
-      "day": 2,
-      "tot": 47,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/topics/audio/music/Jethro-Tull-Zealot-Gene-2022/08-The-Betrayal-of-Joshua-Kynde.mp3",
-      "slug": "08-The-Betrayal-of-Joshua-Kynde.mp3",
-      "day": 2,
-      "tot": 8,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
-      "slug": "why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
-      "day": 2,
-      "tot": 38,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/bokator-khmer-martial-arts",
-      "slug": "bokator-khmer-martial-arts",
-      "day": 2,
-      "tot": 128,
+      "uri": "/blog/2026/02/the-architecture-of-control-understanding-agency-in-large-language-models",
+      "slug": "the-architecture-of-control-understanding-agency-in-large-language-models",
+      "day": 7,
+      "tot": 74,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/09/twenty-liters-across-tokyo-the-ultra-low-cost-bivouac-blueprint",
       "slug": "twenty-liters-across-tokyo-the-ultra-low-cost-bivouac-blueprint",
-      "day": 2,
-      "tot": 127,
+      "day": 4,
+      "tot": 129,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/03/topics/",
-      "slug": "topics",
+      "uri": "/blog/2025/09/complete-guide-to-business-planning-tools",
+      "slug": "complete-guide-to-business-planning-tools",
+      "day": 4,
+      "tot": 97,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/09/a-radical-transfer-of-wealth-in-modern-times",
+      "slug": "a-radical-transfer-of-wealth-in-modern-times",
+      "day": 4,
+      "tot": 48,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/why-people-fear-the-power-of-ai",
+      "slug": "why-people-fear-the-power-of-ai",
       "day": 2,
+      "tot": 106,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/01/future-historian-2026",
+      "slug": "future-historian-2026",
+      "day": 2,
+      "tot": 32,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/06/kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
+      "slug": "kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
+      "day": 2,
+      "tot": 58,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
+      "slug": "detailed-guide-to-mount-all-partitions-on-android",
+      "day": 2,
+      "tot": 167,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/05/homelessness-transcends-political-ideologies",
+      "slug": "homelessness-transcends-political-ideologies",
+      "day": 2,
+      "tot": 37,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/logic-epistemology-and-metaphysics-in-understanding-divinity",
+      "slug": "logic-epistemology-and-metaphysics-in-understanding-divinity",
+      "day": 2,
+      "tot": 39,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/unifying-the-universe-exploring-the-theory-of-everything",
+      "slug": "unifying-the-universe-exploring-the-theory-of-everything",
+      "day": 2,
+      "tot": 36,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
+      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
+      "day": 2,
+      "tot": 578,
+      "likes": 2,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "slug": "truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "day": 2,
+      "tot": 237,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/06/key-points-of-dry-fasting",
+      "slug": "key-points-of-dry-fasting",
+      "day": 2,
+      "tot": 28,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/individual-autonomy-self-sufficiency-and-minimalism",
+      "slug": "individual-autonomy-self-sufficiency-and-minimalism",
+      "day": 2,
+      "tot": 32,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/07/putting-on-ones-sunday-best",
+      "slug": "putting-on-ones-sunday-best",
+      "day": 2,
+      "tot": 25,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/transitioning-to-linux-breaking-the-windows-habit",
+      "slug": "transitioning-to-linux-breaking-the-windows-habit",
+      "day": 1,
+      "tot": 107,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/04/topics/",
+      "slug": "topics",
+      "day": 1,
+      "tot": 25,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/01/topics/",
+      "slug": "topics",
+      "day": 1,
       "tot": 17,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/the-los-angeles-infinite-loop-why-temporary-shelter-cannot-fix-structural-poverty",
+      "slug": "the-los-angeles-infinite-loop-why-temporary-shelter-cannot-fix-structural-poverty",
+      "day": 1,
+      "tot": 103,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/urban-survival-what-it-costs-to-do-nothing",
+      "slug": "urban-survival-what-it-costs-to-do-nothing",
+      "day": 1,
+      "tot": 107,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,78 +263,106 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 25,
+      "hits": 12,
       "source": "www.google.com"
     },
     {
-      "hits": 7,
-      "source": "https://www.google.com/"
+      "hits": 6,
+      "source": "https://www.beauxbijouxfantaisie.com//blog//wp-login.php"
     },
     {
       "hits": 5,
       "source": "https://www.facebook.com/"
     },
     {
-      "hits": 3,
-      "source": "https://www.baidu.com"
-    },
-    {
-      "hits": 2,
-      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
-    },
-    {
-      "hits": 2,
+      "hits": 1,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 2,
+      "hits": 1,
+      "source": "https://www.google.com/"
+    },
+    {
+      "hits": 1,
+      "source": "http://m.facebook.com"
+    },
+    {
+      "hits": 1,
       "source": "https://www.bing.com/"
     },
     {
       "hits": 1,
-      "source": "https://myactivity.google.com/"
+      "source": "https://[2604:a880:4:1d0::d3:5000]/owa/auth/errorFE.aspx?httpCode=500"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/owa/auth/logon.aspx"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/version"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/api/v1/pods"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/dana-na/nc/nc_gina_ver.txt"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/dana-cached/hc/HostCheckerInstaller.osx"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/dana-na/auth/url_default/welcome.cgi"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 580
+      "visitors": 263
     },
     {
       "country": "JP, Japan",
-      "visitors": 143
+      "visitors": 55
     },
     {
       "country": "CN, China",
-      "visitors": 105
-    },
-    {
-      "country": "GB, United Kingdom",
-      "visitors": 63
+      "visitors": 35
     },
     {
       "country": "DE, Germany",
-      "visitors": 60
+      "visitors": 23
+    },
+    {
+      "country": "GB, United Kingdom",
+      "visitors": 21
     },
     {
       "country": "CA, Canada",
-      "visitors": 54
+      "visitors": 17
     },
     {
       "country": "BR, Brazil",
-      "visitors": 51
+      "visitors": 14
     },
     {
-      "country": "PL, Poland",
-      "visitors": 28
+      "country": "BE, Belgium",
+      "visitors": 13
     },
     {
-      "country": "FR, France",
-      "visitors": 24
+      "country": "SG, Singapore",
+      "visitors": 10
     },
     {
-      "country": "HK, Hong Kong",
-      "visitors": 21
+      "country": "TR, Turkey",
+      "visitors": 9
     }
   ]
 }

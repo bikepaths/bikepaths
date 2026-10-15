@@ -79,6 +79,10 @@
 	<span class="tags"><i class="fa fa-tags"></i> <?php echo $p->tag;?></span>
 </div>
 
+<div class="article-disclaimer">
+    <p><em>Views expressed are the author's own and intended for informational and educational purposes only. Readers are encouraged to conduct their own research before acting on any information presented. Contact the author for errors, inaccuracies or omissions.</em></p>
+</div>
+
 
 
 
