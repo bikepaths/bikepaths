@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-14 11:36:00",
+  "generated_at": "2026-10-15 05:18:03",
   "summary": {
-    "today_human_visits": 610,
-    "total_tracked_articles": 1612,
+    "today_human_visits": 286,
+    "total_tracked_articles": 1614,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "34.153.221.122",
-      "hits": 3074,
+      "ip": "54.183.149.156",
+      "hits": 377,
       "status": "NEW"
     },
     {
-      "ip": "::1",
-      "hits": 931,
+      "ip": "144.76.67.25",
+      "hits": 375,
       "status": "NEW"
     },
     {
-      "ip": "147.224.162.57",
-      "hits": 383,
+      "ip": "34.163.31.89",
+      "hits": 261,
       "status": "NEW"
     },
     {
-      "ip": "35.205.235.123",
-      "hits": 263,
+      "ip": "13.70.110.189",
+      "hits": 140,
       "status": "NEW"
     },
     {
-      "ip": "34.129.234.47",
-      "hits": 262,
+      "ip": "13.57.148.235",
+      "hits": 124,
       "status": "NEW"
     },
     {
-      "ip": "136.87.82.155",
-      "hits": 211,
-      "status": "NEW"
-    },
-    {
-      "ip": "147.224.216.8",
-      "hits": 197,
+      "ip": "167.172.85.22",
+      "hits": 85,
       "status": "NEW"
     },
     {
       "ip": "35.198.113.100",
-      "hits": 190,
+      "hits": 54,
       "status": "NEW"
     },
     {
-      "ip": "152.42.175.110",
-      "hits": 165,
+      "ip": "165.99.207.153",
+      "hits": 49,
       "status": "NEW"
     },
     {
-      "ip": "68.155.153.75",
-      "hits": 89,
+      "ip": "::1",
+      "hits": 44,
+      "status": "NEW"
+    },
+    {
+      "ip": "174.138.47.167",
+      "hits": 28,
       "status": "NEW"
     }
   ],
@@ -62,200 +62,200 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 85,
-      "tot": 7907,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 39,
-      "tot": 39,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
-      "slug": "itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
-      "day": 15,
-      "tot": 99,
+      "day": 29,
+      "tot": 7880,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
       "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 8,
-      "tot": 305,
+      "day": 14,
+      "tot": 325,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/02/the-architecture-of-control-understanding-agency-in-large-language-models",
-      "slug": "the-architecture-of-control-understanding-agency-in-large-language-models",
-      "day": 7,
-      "tot": 74,
+      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "day": 14,
+      "tot": 28,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/twenty-liters-across-tokyo-the-ultra-low-cost-bivouac-blueprint",
-      "slug": "twenty-liters-across-tokyo-the-ultra-low-cost-bivouac-blueprint",
-      "day": 4,
-      "tot": 129,
+      "uri": "/blog/2026/10/the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
+      "slug": "the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
+      "day": 3,
+      "tot": 108,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/09/complete-guide-to-business-planning-tools",
-      "slug": "complete-guide-to-business-planning-tools",
-      "day": 4,
-      "tot": 97,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/09/a-radical-transfer-of-wealth-in-modern-times",
-      "slug": "a-radical-transfer-of-wealth-in-modern-times",
-      "day": 4,
-      "tot": 48,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/why-people-fear-the-power-of-ai",
-      "slug": "why-people-fear-the-power-of-ai",
+      "uri": "/blog/2026/10/why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
+      "slug": "why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
       "day": 2,
-      "tot": 106,
+      "tot": 40,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/01/future-historian-2026",
-      "slug": "future-historian-2026",
+      "uri": "/blog/2026/02/who-decides-the-future-the-path-forward-in-the-age-of-thinking-machines",
+      "slug": "who-decides-the-future-the-path-forward-in-the-age-of-thinking-machines",
       "day": 2,
-      "tot": 32,
+      "tot": 42,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/06/kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
-      "slug": "kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
-      "day": 2,
-      "tot": 58,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
-      "slug": "detailed-guide-to-mount-all-partitions-on-android",
-      "day": 2,
-      "tot": 167,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/05/homelessness-transcends-political-ideologies",
-      "slug": "homelessness-transcends-political-ideologies",
-      "day": 2,
-      "tot": 37,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/logic-epistemology-and-metaphysics-in-understanding-divinity",
-      "slug": "logic-epistemology-and-metaphysics-in-understanding-divinity",
-      "day": 2,
-      "tot": 39,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/unifying-the-universe-exploring-the-theory-of-everything",
-      "slug": "unifying-the-universe-exploring-the-theory-of-everything",
-      "day": 2,
-      "tot": 36,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 2,
-      "tot": 578,
-      "likes": 2,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
-      "slug": "truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
-      "day": 2,
-      "tot": 237,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/06/key-points-of-dry-fasting",
-      "slug": "key-points-of-dry-fasting",
+      "uri": "/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide_v2.html",
+      "slug": "MDI_Engineering_Framework_Plain-Language_Guide_v2.html",
       "day": 2,
       "tot": 28,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/individual-autonomy-self-sufficiency-and-minimalism",
-      "slug": "individual-autonomy-self-sufficiency-and-minimalism",
-      "day": 2,
-      "tot": 32,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/07/putting-on-ones-sunday-best",
-      "slug": "putting-on-ones-sunday-best",
-      "day": 2,
-      "tot": 25,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/transitioning-to-linux-breaking-the-windows-habit",
-      "slug": "transitioning-to-linux-breaking-the-windows-habit",
+      "uri": "/blog/2026/07/bicycle-touring-after-retirement-the-physical-and-emotional-realities-of-the-open-road",
+      "slug": "bicycle-touring-after-retirement-the-physical-and-emotional-realities-of-the-open-road",
       "day": 1,
-      "tot": 107,
+      "tot": 84,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/04/topics/",
-      "slug": "topics",
+      "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
+      "slug": "living-fully-means-returning-to-physical-reality",
       "day": 1,
-      "tot": 25,
+      "tot": 37,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/01/topics/",
-      "slug": "topics",
+      "uri": "/blog/2023/08/train-hopping-in-history",
+      "slug": "train-hopping-in-history",
       "day": 1,
-      "tot": 17,
+      "tot": 1173,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/07/the-los-angeles-infinite-loop-why-temporary-shelter-cannot-fix-structural-poverty",
-      "slug": "the-los-angeles-infinite-loop-why-temporary-shelter-cannot-fix-structural-poverty",
+      "uri": "/blog/2026/01/mechanical-drivers-gender-political-divergence",
+      "slug": "mechanical-drivers-gender-political-divergence",
       "day": 1,
-      "tot": 103,
+      "tot": 48,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/07/urban-survival-what-it-costs-to-do-nothing",
-      "slug": "urban-survival-what-it-costs-to-do-nothing",
+      "uri": "/blog/2026/09/acceptance-vs-repair-why-structural-pragmatism-is-the-better-philosophy",
+      "slug": "acceptance-vs-repair-why-structural-pragmatism-is-the-better-philosophy",
       "day": 1,
-      "tot": 107,
+      "tot": 78,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/index.html",
+      "slug": "index.html",
+      "day": 1,
+      "tot": 40,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "slug": "itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "day": 1,
+      "tot": 86,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/a-discussion-with-benjamin-franklin",
+      "slug": "a-discussion-with-benjamin-franklin",
+      "day": 1,
+      "tot": 38,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/contact/",
+      "slug": "contact",
+      "day": 1,
+      "tot": 269,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
+      "slug": "detailed-guide-to-mount-all-partitions-on-android",
+      "day": 1,
+      "tot": 167,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/extraordinary-psychic-abilities",
+      "slug": "extraordinary-psychic-abilities",
+      "day": 1,
+      "tot": 28,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/09/the-limits-of-logic-why-superintelligence-is-a-mathematical-impossibility",
+      "slug": "the-limits-of-logic-why-superintelligence-is-a-mathematical-impossibility",
+      "day": 1,
+      "tot": 100,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/sacred-spirit-yeha-noha",
+      "slug": "sacred-spirit-yeha-noha",
+      "day": 1,
+      "tot": 186,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/post/detailed-guide-to-mount-all-partitions-on-android",
+      "slug": "detailed-guide-to-mount-all-partitions-on-android",
+      "day": 1,
+      "tot": 55,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/05/everyday-life-in-modern-cuba",
+      "slug": "everyday-life-in-modern-cuba",
+      "day": 1,
+      "tot": 76,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/audio/dibella/",
+      "slug": "dibella",
+      "day": 1,
+      "tot": 22,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/post/navigating-financial-collapse-in-a-modern-economy",
+      "slug": "navigating-financial-collapse-in-a-modern-economy",
+      "day": 1,
+      "tot": 57,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/10/maintaining-psychological-stability-during-periods-of-economic-volatility",
+      "slug": "maintaining-psychological-stability-during-periods-of-economic-volatility",
+      "day": 1,
+      "tot": 30,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,82 +263,34 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 12,
-      "source": "www.google.com"
-    },
-    {
-      "hits": 6,
-      "source": "https://www.beauxbijouxfantaisie.com//blog//wp-login.php"
-    },
-    {
-      "hits": 5,
-      "source": "https://www.facebook.com/"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/"
-    },
-    {
-      "hits": 1,
+      "hits": 30,
       "source": "https://www.google.com/"
     },
     {
-      "hits": 1,
-      "source": "http://m.facebook.com"
+      "hits": 7,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 1,
+      "hits": 2,
       "source": "https://www.bing.com/"
     },
     {
       "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/owa/auth/errorFE.aspx?httpCode=500"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/owa/auth/logon.aspx"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/version"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/api/v1/pods"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/dana-na/nc/nc_gina_ver.txt"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/dana-cached/hc/HostCheckerInstaller.osx"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/dana-na/auth/url_default/welcome.cgi"
+      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 263
-    },
-    {
-      "country": "JP, Japan",
-      "visitors": 55
+      "visitors": 114
     },
     {
       "country": "CN, China",
-      "visitors": 35
+      "visitors": 36
     },
     {
-      "country": "DE, Germany",
-      "visitors": 23
+      "country": "JP, Japan",
+      "visitors": 25
     },
     {
       "country": "GB, United Kingdom",
@@ -346,23 +298,27 @@
     },
     {
       "country": "CA, Canada",
-      "visitors": 17
-    },
-    {
-      "country": "BR, Brazil",
-      "visitors": 14
-    },
-    {
-      "country": "BE, Belgium",
       "visitors": 13
     },
     {
-      "country": "SG, Singapore",
-      "visitors": 10
+      "country": "DE, Germany",
+      "visitors": 5
     },
     {
-      "country": "TR, Turkey",
-      "visitors": 9
+      "country": "IN, India",
+      "visitors": 4
+    },
+    {
+      "country": "FR, France",
+      "visitors": 4
+    },
+    {
+      "country": "ZA, South Africa",
+      "visitors": 3
+    },
+    {
+      "country": "SG, Singapore",
+      "visitors": 3
     }
   ]
 }
