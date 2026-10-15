@@ -1,0 +1,28 @@
+# Essential Bots & Search Indexers
+# This file contains IPs or User-Agent substrings that should NOT be blocked.
+
+# Googlebot
+66.249.
+# Bingbot
+157.55.
+207.46.
+# DuckDuckBot
+50.16.241.117
+# LinkupBot
+LinkupBot
+# Applebot
+17.
+66.24.50.4
+127.0.0.1
+144.76.32.236
+216.73.216.35
+154.54.249.195
+216.244.66.241
+54.87.206.175
+76.38.129.110
+34.32.232.69
+34.147.39.208
+72.146.4.48
+35.223.201.61
+34.86.90.137
+20.214.109.68
