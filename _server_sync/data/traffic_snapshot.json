@@ -1,20 +1,25 @@
 {
-  "generated_at": "2026-10-15 05:18:03",
+  "generated_at": "2026-10-15 10:32:50",
   "summary": {
-    "today_human_visits": 286,
-    "total_tracked_articles": 1614,
+    "today_human_visits": 582,
+    "total_tracked_articles": 1616,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "54.183.149.156",
-      "hits": 377,
+      "ip": "144.76.67.25",
+      "hits": 895,
       "status": "NEW"
     },
     {
-      "ip": "144.76.67.25",
-      "hits": 375,
+      "ip": "54.183.149.156",
+      "hits": 552,
+      "status": "NEW"
+    },
+    {
+      "ip": "13.57.148.235",
+      "hits": 342,
       "status": "NEW"
     },
     {
@@ -23,38 +28,33 @@
       "status": "NEW"
     },
     {
+      "ip": "::1",
+      "hits": 241,
+      "status": "NEW"
+    },
+    {
       "ip": "13.70.110.189",
       "hits": 140,
       "status": "NEW"
     },
     {
-      "ip": "13.57.148.235",
-      "hits": 124,
+      "ip": "91.92.242.37",
+      "hits": 126,
+      "status": "NEW"
+    },
+    {
+      "ip": "76.38.129.110",
+      "hits": 123,
+      "status": "SAFE BOT"
+    },
+    {
+      "ip": "35.198.113.100",
+      "hits": 118,
       "status": "NEW"
     },
     {
       "ip": "167.172.85.22",
       "hits": 85,
-      "status": "NEW"
-    },
-    {
-      "ip": "35.198.113.100",
-      "hits": 54,
-      "status": "NEW"
-    },
-    {
-      "ip": "165.99.207.153",
-      "hits": 49,
-      "status": "NEW"
-    },
-    {
-      "ip": "::1",
-      "hits": 44,
-      "status": "NEW"
-    },
-    {
-      "ip": "174.138.47.167",
-      "hits": 28,
       "status": "NEW"
     }
   ],
@@ -62,16 +62,24 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 29,
-      "tot": 7880,
+      "day": 64,
+      "tot": 7915,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
+      "slug": "how-halloween-became-an-american-spectacle",
+      "day": 30,
+      "tot": 30,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
       "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 14,
-      "tot": 325,
+      "day": 18,
+      "tot": 329,
       "likes": 0,
       "dislikes": 0
     },
@@ -86,8 +94,8 @@
     {
       "uri": "/blog/2026/10/the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
       "slug": "the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "day": 3,
-      "tot": 108,
+      "day": 6,
+      "tot": 111,
       "likes": 0,
       "dislikes": 0
     },
@@ -112,6 +120,62 @@
       "slug": "MDI_Engineering_Framework_Plain-Language_Guide_v2.html",
       "day": 2,
       "tot": 28,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/06/trump-era-homelessness-policies",
+      "slug": "trump-era-homelessness-policies",
+      "day": 2,
+      "tot": 52,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/systemic_dignity_infrastructure",
+      "slug": "systemic_dignity_infrastructure",
+      "day": 2,
+      "tot": 2,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
+      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
+      "day": 2,
+      "tot": 162,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/anti-humanism-and-transhumanism",
+      "slug": "anti-humanism-and-transhumanism",
+      "day": 2,
+      "tot": 31,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/06/embracing-solitude-camping-alone",
+      "slug": "embracing-solitude-camping-alone",
+      "day": 2,
+      "tot": 18,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/the-song-of-angry-men",
+      "slug": "the-song-of-angry-men",
+      "day": 2,
+      "tot": 20,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/07/defining-digital-privacy-in-the-age-of-ai",
+      "slug": "defining-digital-privacy-in-the-age-of-ai",
+      "day": 2,
+      "tot": 30,
       "likes": 0,
       "dislikes": 0
     },
@@ -194,81 +258,21 @@
       "tot": 167,
       "likes": 0,
       "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/07/extraordinary-psychic-abilities",
-      "slug": "extraordinary-psychic-abilities",
-      "day": 1,
-      "tot": 28,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/the-limits-of-logic-why-superintelligence-is-a-mathematical-impossibility",
-      "slug": "the-limits-of-logic-why-superintelligence-is-a-mathematical-impossibility",
-      "day": 1,
-      "tot": 100,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/sacred-spirit-yeha-noha",
-      "slug": "sacred-spirit-yeha-noha",
-      "day": 1,
-      "tot": 186,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/post/detailed-guide-to-mount-all-partitions-on-android",
-      "slug": "detailed-guide-to-mount-all-partitions-on-android",
-      "day": 1,
-      "tot": 55,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/05/everyday-life-in-modern-cuba",
-      "slug": "everyday-life-in-modern-cuba",
-      "day": 1,
-      "tot": 76,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/topics/audio/dibella/",
-      "slug": "dibella",
-      "day": 1,
-      "tot": 22,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/post/navigating-financial-collapse-in-a-modern-economy",
-      "slug": "navigating-financial-collapse-in-a-modern-economy",
-      "day": 1,
-      "tot": 57,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/10/maintaining-psychological-stability-during-periods-of-economic-volatility",
-      "slug": "maintaining-psychological-stability-during-periods-of-economic-volatility",
-      "day": 1,
-      "tot": 30,
-      "likes": 0,
-      "dislikes": 0
     }
   ],
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 30,
+      "hits": 66,
       "source": "https://www.google.com/"
     },
     {
-      "hits": 7,
+      "hits": 14,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
+    },
+    {
+      "hits": 4,
+      "source": "https://www.facebook.com/"
     },
     {
       "hits": 2,
@@ -282,43 +286,43 @@
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 114
-    },
-    {
-      "country": "CN, China",
-      "visitors": 36
+      "visitors": 251
     },
     {
       "country": "JP, Japan",
-      "visitors": 25
+      "visitors": 57
+    },
+    {
+      "country": "CN, China",
+      "visitors": 43
     },
     {
       "country": "GB, United Kingdom",
-      "visitors": 21
+      "visitors": 37
+    },
+    {
+      "country": "BE, Belgium",
+      "visitors": 18
     },
     {
       "country": "CA, Canada",
-      "visitors": 13
+      "visitors": 17
     },
     {
       "country": "DE, Germany",
-      "visitors": 5
+      "visitors": 11
     },
     {
-      "country": "IN, India",
-      "visitors": 4
-    },
-    {
-      "country": "FR, France",
-      "visitors": 4
-    },
-    {
-      "country": "ZA, South Africa",
-      "visitors": 3
+      "country": "RU, Russian Federation",
+      "visitors": 9
     },
     {
       "country": "SG, Singapore",
-      "visitors": 3
+      "visitors": 8
+    },
+    {
+      "country": "BR, Brazil",
+      "visitors": 7
     }
   ]
 }
