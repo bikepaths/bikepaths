@@ -16,9 +16,6 @@ His primary work provides a permanent exit from chronic street homelessness. The
 
 Beyond urban design, Charles writes about global risks, artificial intelligence, and the ancient philosophy of stoicism. He is also a dedicated long-distance bicycle adventurer.
 
-**[Review the Complete Methodology on SSRN][2]**
-
 **[Reach Out Directly][1]**
 
   [1]: https://bikepaths.org/blog/contact/#form
-  [2]: https://bikepaths.org/about

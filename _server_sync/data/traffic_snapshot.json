@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-15 23:50:06",
+  "generated_at": "2026-10-17 16:12:17",
   "summary": {
-    "today_human_visits": 1038,
-    "total_tracked_articles": 1622,
+    "today_human_visits": 757,
+    "total_tracked_articles": 1615,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "144.76.67.25",
-      "hits": 895,
+      "ip": "35.198.113.100",
+      "hits": 373,
+      "status": "NEW"
+    },
+    {
+      "ip": "45.138.12.68",
+      "hits": 197,
       "status": "NEW"
     },
     {
       "ip": "::1",
-      "hits": 747,
+      "hits": 170,
       "status": "NEW"
     },
     {
-      "ip": "54.183.149.156",
-      "hits": 703,
+      "ip": "74.225.146.100",
+      "hits": 114,
       "status": "NEW"
     },
     {
-      "ip": "13.57.148.235",
-      "hits": 492,
+      "ip": "2001:19f0:ac01:1ad7:5400:6ff:fe72:b8f2",
+      "hits": 66,
       "status": "NEW"
     },
     {
-      "ip": "35.198.113.100",
-      "hits": 442,
+      "ip": "216.73.216.180",
+      "hits": 63,
       "status": "NEW"
     },
     {
-      "ip": "76.38.129.110",
-      "hits": 316,
-      "status": "SAFE BOT"
-    },
-    {
-      "ip": "34.163.31.89",
-      "hits": 261,
+      "ip": "114.67.251.104",
+      "hits": 58,
       "status": "NEW"
     },
     {
-      "ip": "164.152.27.235",
-      "hits": 192,
+      "ip": "50.231.50.222",
+      "hits": 53,
       "status": "NEW"
     },
     {
-      "ip": "163.192.193.193",
-      "hits": 144,
+      "ip": "114.119.158.45",
+      "hits": 51,
       "status": "NEW"
     },
     {
-      "ip": "13.70.110.189",
-      "hits": 140,
+      "ip": "114.119.147.248",
+      "hits": 50,
       "status": "NEW"
     }
   ],
@@ -62,200 +62,200 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 140,
-      "tot": 7991,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
-      "slug": "how-halloween-became-an-american-spectacle",
-      "day": 36,
-      "tot": 36,
+      "day": 88,
+      "tot": 7939,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
       "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 31,
-      "tot": 342,
+      "day": 27,
+      "tot": 338,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
+      "slug": "how-halloween-became-an-american-spectacle",
+      "day": 6,
+      "tot": 6,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
       "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 25,
-      "tot": 39,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "slug": "the-architecture-of-abundance-why-tokyo-housing-remains-affordable",
-      "day": 14,
-      "tot": 119,
+      "day": 4,
+      "tot": 18,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/contact/",
       "slug": "contact",
-      "day": 6,
-      "tot": 274,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
-      "slug": "itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
-      "day": 5,
-      "tot": 90,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
-      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
-      "day": 5,
-      "tot": 165,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
-      "slug": "why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
       "day": 4,
-      "tot": 42,
+      "tot": 272,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/07/when-doing-nothing-is-the-smartest-move",
-      "slug": "when-doing-nothing-is-the-smartest-move",
-      "day": 4,
-      "tot": 26,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
-      "slug": "detailed-guide-to-mount-all-partitions-on-android",
+      "uri": "/blog/2023/06/nomadic-cyclists-philosophy",
+      "slug": "nomadic-cyclists-philosophy",
       "day": 3,
-      "tot": 169,
+      "tot": 20,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
+      "uri": "/blog/author/chas",
+      "slug": "chas",
       "day": 3,
-      "tot": 331,
+      "tot": 741,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/07/inside-heavens-gate-the-rise-and-tragic-fall-of-a-ufo-cult",
-      "slug": "inside-heavens-gate-the-rise-and-tragic-fall-of-a-ufo-cult",
+      "uri": "/blog/2026/01/the-sovereign-cryptography-paradigm-state-power-and-the-financial-future",
+      "slug": "the-sovereign-cryptography-paradigm-state-power-and-the-financial-future",
       "day": 3,
-      "tot": 136,
+      "tot": 39,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/07/the-minds-of-modern-titans",
-      "slug": "the-minds-of-modern-titans",
+      "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
+      "slug": "living-fully-means-returning-to-physical-reality",
       "day": 3,
+      "tot": 39,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/09/structural-friction-when-a-new-law-breaks-an-old-promise",
+      "slug": "structural-friction-when-a-new-law-breaks-an-old-promise",
+      "day": 2,
       "tot": 29,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/07/anti-humanism-and-transhumanism",
-      "slug": "anti-humanism-and-transhumanism",
-      "day": 3,
-      "tot": 32,
+      "uri": "/blog/2026/09/data-centers-the-physical-footprint-of-machine-intelligence",
+      "slug": "data-centers-the-physical-footprint-of-machine-intelligence",
+      "day": 2,
+      "tot": 100,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/schizophrenia-and-schizoaffective-disorder",
-      "slug": "schizophrenia-and-schizoaffective-disorder",
-      "day": 3,
-      "tot": 30,
+      "uri": "/blog/2026/07/bicycle-touring-after-retirement-the-physical-and-emotional-realities-of-the-open-road",
+      "slug": "bicycle-touring-after-retirement-the-physical-and-emotional-realities-of-the-open-road",
+      "day": 2,
+      "tot": 85,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 3,
-      "tot": 579,
-      "likes": 2,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/vote/",
-      "slug": "vote",
-      "day": 3,
-      "tot": 32,
+      "uri": "/blog/2026/09/acceptance-vs-repair-why-structural-pragmatism-is-the-better-philosophy",
+      "slug": "acceptance-vs-repair-why-structural-pragmatism-is-the-better-philosophy",
+      "day": 2,
+      "tot": 79,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/epigenetics-the-biological-persistence-of-trauma",
-      "slug": "epigenetics-the-biological-persistence-of-trauma",
-      "day": 3,
-      "tot": 48,
+      "uri": "/blog/2026/04/the-great-unraveling-why-the-globalist-illusion-is-collapsing",
+      "slug": "the-great-unraveling-why-the-globalist-illusion-is-collapsing",
+      "day": 2,
+      "tot": 38,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/08/living-without-a-phone-in-a-hyper-connected-world",
-      "slug": "living-without-a-phone-in-a-hyper-connected-world",
-      "day": 3,
+      "uri": "/blog/2026/07/urban-survival-why-the-usual-answers-fail",
+      "slug": "urban-survival-why-the-usual-answers-fail",
+      "day": 2,
+      "tot": 91,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/10/when-robots-take-our-jobs-the-coming-test-of-human-worth",
+      "slug": "when-robots-take-our-jobs-the-coming-test-of-human-worth",
+      "day": 2,
+      "tot": 34,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/history/irvthomas.com/RipeSeasons/season30.htm",
+      "slug": "season30.htm",
+      "day": 2,
+      "tot": 45,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/06/bikecamp-discoveries-transformative-outdoor-education",
+      "slug": "bikecamp-discoveries-transformative-outdoor-education",
+      "day": 2,
+      "tot": 92,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/05/preserving-personal-agency-for-vulnerable-families",
+      "slug": "preserving-personal-agency-for-vulnerable-families",
+      "day": 2,
       "tot": 31,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/index.html",
-      "slug": "index.html",
+      "uri": "/blog/2026/09/from-extraction-to-dividend-how-could-a-machine-intelligence-commons-work",
+      "slug": "from-extraction-to-dividend-how-could-a-machine-intelligence-commons-work",
       "day": 2,
-      "tot": 41,
+      "tot": 43,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/02/who-decides-the-future-the-path-forward-in-the-age-of-thinking-machines",
-      "slug": "who-decides-the-future-the-path-forward-in-the-age-of-thinking-machines",
+      "uri": "/blog/2026/09/the-balance-of-power-why-planetary-coordination-requires-subsidiarity",
+      "slug": "the-balance-of-power-why-planetary-coordination-requires-subsidiarity",
       "day": 2,
-      "tot": 42,
+      "tot": 53,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/sacred-spirit-yeha-noha",
-      "slug": "sacred-spirit-yeha-noha",
+      "uri": "/blog/2026/06/kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
+      "slug": "kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
       "day": 2,
-      "tot": 187,
+      "tot": 58,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide_v2.html",
-      "slug": "MDI_Engineering_Framework_Plain-Language_Guide_v2.html",
+      "uri": "/blog/2024/09/mockery-in-social-discourse-lgbtq-plus-activism-and-religion",
+      "slug": "mockery-in-social-discourse-lgbtq-plus-activism-and-religion",
       "day": 2,
-      "tot": 28,
+      "tot": 44,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/06/trump-era-homelessness-policies",
-      "slug": "trump-era-homelessness-policies",
+      "uri": "/blog/2023/06/chapter-3-planning-your-route-factors-to-consider",
+      "slug": "chapter-3-planning-your-route-factors-to-consider",
       "day": 2,
-      "tot": 52,
+      "tot": 23,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/some-tips-on-how-to-stay-warm-and-dry-when-sleeping-outdoors",
+      "slug": "some-tips-on-how-to-stay-warm-and-dry-when-sleeping-outdoors",
+      "day": 2,
+      "tot": 33,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,74 +263,78 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 71,
+      "hits": 94,
       "source": "https://www.google.com/"
     },
     {
-      "hits": 33,
+      "hits": 23,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 4,
-      "source": "https://www.bing.com/"
-    },
-    {
-      "hits": 4,
-      "source": "https://www.facebook.com/"
+      "hits": 3,
+      "source": "https://t.co/"
     },
     {
       "hits": 2,
+      "source": "https://www.google.com.hk/"
+    },
+    {
+      "hits": 1,
       "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
     },
     {
       "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]"
+      "source": "http://www.baidu.org/"
     },
     {
       "hits": 1,
-      "source": "https://github.com/Systemic-Dignity-Infrastructure/sdi-specification/blob/main/AUTHOR.md"
+      "source": "https://app.ashna.ai/"
+    },
+    {
+      "hits": 1,
+      "source": "https://www.bing.com/"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 420
+      "visitors": 355
     },
     {
       "country": "JP, Japan",
-      "visitors": 127
-    },
-    {
-      "country": "CN, China",
-      "visitors": 85
+      "visitors": 78
     },
     {
       "country": "GB, United Kingdom",
-      "visitors": 67
+      "visitors": 52
+    },
+    {
+      "country": "CN, China",
+      "visitors": 34
     },
     {
       "country": "CA, Canada",
-      "visitors": 32
-    },
-    {
-      "country": "DE, Germany",
-      "visitors": 23
-    },
-    {
-      "country": "FR, France",
       "visitors": 19
     },
     {
-      "country": "SG, Singapore",
-      "visitors": 18
+      "country": "NL, Netherlands",
+      "visitors": 16
     },
     {
-      "country": "BE, Belgium",
-      "visitors": 18
+      "country": "DE, Germany",
+      "visitors": 13
     },
     {
       "country": "BR, Brazil",
-      "visitors": 14
+      "visitors": 13
+    },
+    {
+      "country": "FR, France",
+      "visitors": 12
+    },
+    {
+      "country": "IN, India",
+      "visitors": 11
     }
   ]
 }
