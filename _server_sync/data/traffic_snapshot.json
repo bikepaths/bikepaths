@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-10-17 16:12:17",
+  "generated_at": "2026-10-17 23:50:06",
   "summary": {
-    "today_human_visits": 757,
-    "total_tracked_articles": 1615,
+    "today_human_visits": 1195,
+    "total_tracked_articles": 1616,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
       "ip": "35.198.113.100",
-      "hits": 373,
+      "hits": 588,
+      "status": "NEW"
+    },
+    {
+      "ip": "::1",
+      "hits": 272,
       "status": "NEW"
     },
     {
@@ -18,8 +23,23 @@
       "status": "NEW"
     },
     {
-      "ip": "::1",
-      "hits": 170,
+      "ip": "136.67.224.33",
+      "hits": 196,
+      "status": "FAKE BOT"
+    },
+    {
+      "ip": "2604:a880:400:d1:0:4:deaf:c001",
+      "hits": 156,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.154.225.52",
+      "hits": 153,
+      "status": "NEW"
+    },
+    {
+      "ip": "91.92.242.37",
+      "hits": 126,
       "status": "NEW"
     },
     {
@@ -29,73 +49,69 @@
     },
     {
       "ip": "2001:19f0:ac01:1ad7:5400:6ff:fe72:b8f2",
-      "hits": 66,
+      "hits": 96,
       "status": "NEW"
     },
     {
-      "ip": "216.73.216.180",
-      "hits": 63,
-      "status": "NEW"
-    },
-    {
-      "ip": "114.67.251.104",
-      "hits": 58,
-      "status": "NEW"
-    },
-    {
-      "ip": "50.231.50.222",
-      "hits": 53,
-      "status": "NEW"
-    },
-    {
-      "ip": "114.119.158.45",
-      "hits": 51,
-      "status": "NEW"
-    },
-    {
-      "ip": "114.119.147.248",
-      "hits": 50,
-      "status": "NEW"
+      "ip": "76.38.129.110",
+      "hits": 81,
+      "status": "SAFE BOT"
     }
   ],
   "top_articles": [
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 88,
-      "tot": 7939,
+      "day": 151,
+      "tot": 8002,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
       "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 27,
-      "tot": 338,
+      "day": 32,
+      "tot": 343,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
       "slug": "how-halloween-became-an-american-spectacle",
-      "day": 6,
-      "tot": 6,
+      "day": 9,
+      "tot": 9,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
       "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 4,
-      "tot": 18,
+      "day": 7,
+      "tot": 21,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/contact/",
       "slug": "contact",
+      "day": 5,
+      "tot": 273,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/06/chamath-palihapitiyas-investment-strategy-emphasizing-ai-infrastructure",
+      "slug": "chamath-palihapitiyas-investment-strategy-emphasizing-ai-infrastructure",
       "day": 4,
-      "tot": 272,
+      "tot": 30,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/urban-survival-why-the-usual-answers-fail",
+      "slug": "urban-survival-why-the-usual-answers-fail",
+      "day": 3,
+      "tot": 92,
       "likes": 0,
       "dislikes": 0
     },
@@ -116,6 +132,14 @@
       "dislikes": 0
     },
     {
+      "uri": "/blog/2024/09/mockery-in-social-discourse-lgbtq-plus-activism-and-religion",
+      "slug": "mockery-in-social-discourse-lgbtq-plus-activism-and-religion",
+      "day": 3,
+      "tot": 45,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
       "uri": "/blog/2026/01/the-sovereign-cryptography-paradigm-state-power-and-the-financial-future",
       "slug": "the-sovereign-cryptography-paradigm-state-power-and-the-financial-future",
       "day": 3,
@@ -124,10 +148,26 @@
       "dislikes": 0
     },
     {
+      "uri": "/blog/2024/10/zen-and-the-art-of-bicycle-maintenance-mindfulness-in-every-pedal-stroke",
+      "slug": "zen-and-the-art-of-bicycle-maintenance-mindfulness-in-every-pedal-stroke",
+      "day": 3,
+      "tot": 44,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
       "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
       "slug": "living-fully-means-returning-to-physical-reality",
       "day": 3,
       "tot": 39,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/08/train-hopping-in-history",
+      "slug": "train-hopping-in-history",
+      "day": 3,
+      "tot": 1175,
       "likes": 0,
       "dislikes": 0
     },
@@ -156,6 +196,14 @@
       "dislikes": 0
     },
     {
+      "uri": "/blog/2023/05/a-world-without-the-internet",
+      "slug": "a-world-without-the-internet",
+      "day": 2,
+      "tot": 36,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
       "uri": "/blog/2026/09/acceptance-vs-repair-why-structural-pragmatism-is-the-better-philosophy",
       "slug": "acceptance-vs-repair-why-structural-pragmatism-is-the-better-philosophy",
       "day": 2,
@@ -168,14 +216,6 @@
       "slug": "the-great-unraveling-why-the-globalist-illusion-is-collapsing",
       "day": 2,
       "tot": 38,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/urban-survival-why-the-usual-answers-fail",
-      "slug": "urban-survival-why-the-usual-answers-fail",
-      "day": 2,
-      "tot": 91,
       "likes": 0,
       "dislikes": 0
     },
@@ -204,58 +244,18 @@
       "dislikes": 0
     },
     {
+      "uri": "/blog/2024/08/navigating-financial-collapse-in-a-modern-economy",
+      "slug": "navigating-financial-collapse-in-a-modern-economy",
+      "day": 2,
+      "tot": 80,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
       "uri": "/blog/2025/05/preserving-personal-agency-for-vulnerable-families",
       "slug": "preserving-personal-agency-for-vulnerable-families",
       "day": 2,
       "tot": 31,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/from-extraction-to-dividend-how-could-a-machine-intelligence-commons-work",
-      "slug": "from-extraction-to-dividend-how-could-a-machine-intelligence-commons-work",
-      "day": 2,
-      "tot": 43,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/the-balance-of-power-why-planetary-coordination-requires-subsidiarity",
-      "slug": "the-balance-of-power-why-planetary-coordination-requires-subsidiarity",
-      "day": 2,
-      "tot": 53,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/06/kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
-      "slug": "kefir-on-the-road-a-complete-nutrition-guide-for-the-self-supported-solo-cyclist",
-      "day": 2,
-      "tot": 58,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/09/mockery-in-social-discourse-lgbtq-plus-activism-and-religion",
-      "slug": "mockery-in-social-discourse-lgbtq-plus-activism-and-religion",
-      "day": 2,
-      "tot": 44,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/06/chapter-3-planning-your-route-factors-to-consider",
-      "slug": "chapter-3-planning-your-route-factors-to-consider",
-      "day": 2,
-      "tot": 23,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/some-tips-on-how-to-stay-warm-and-dry-when-sleeping-outdoors",
-      "slug": "some-tips-on-how-to-stay-warm-and-dry-when-sleeping-outdoors",
-      "day": 2,
-      "tot": 33,
       "likes": 0,
       "dislikes": 0
     }
@@ -267,7 +267,7 @@
       "source": "https://www.google.com/"
     },
     {
-      "hits": 23,
+      "hits": 37,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
@@ -276,11 +276,11 @@
     },
     {
       "hits": 2,
-      "source": "https://www.google.com.hk/"
+      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
     },
     {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
+      "hits": 2,
+      "source": "https://www.google.com.hk/"
     },
     {
       "hits": 1,
@@ -293,48 +293,76 @@
     {
       "hits": 1,
       "source": "https://www.bing.com/"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/vpn/js/rdx/core/lang/rdx_en.json.gz"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/vpn/js/rdx/core/lang/rdx_en.json.gz"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/wsman"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/wsman"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/auth.html"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/auth.html"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/auth1.html"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 355
+      "visitors": 489
     },
     {
       "country": "JP, Japan",
-      "visitors": 78
-    },
-    {
-      "country": "GB, United Kingdom",
-      "visitors": 52
+      "visitors": 104
     },
     {
       "country": "CN, China",
-      "visitors": 34
+      "visitors": 79
     },
     {
-      "country": "CA, Canada",
-      "visitors": 19
-    },
-    {
-      "country": "NL, Netherlands",
-      "visitors": 16
-    },
-    {
-      "country": "DE, Germany",
-      "visitors": 13
+      "country": "GB, United Kingdom",
+      "visitors": 77
     },
     {
       "country": "BR, Brazil",
-      "visitors": 13
+      "visitors": 41
+    },
+    {
+      "country": "NL, Netherlands",
+      "visitors": 27
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 22
+    },
+    {
+      "country": "DE, Germany",
+      "visitors": 20
     },
     {
       "country": "FR, France",
-      "visitors": 12
+      "visitors": 18
     },
     {
-      "country": "IN, India",
-      "visitors": 11
+      "country": "KW, Kuwait",
+      "visitors": 16
     }
   ]
 }
