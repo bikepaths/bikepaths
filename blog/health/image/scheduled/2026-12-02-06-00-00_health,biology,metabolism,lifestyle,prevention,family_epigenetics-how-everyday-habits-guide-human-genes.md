@@ -1,4 +1,4 @@
-<!--t The Family Cookbook: How Everyday Habits Guide Human Genes t-->
+<!--t Epigenetics: How Everyday Habits Guide Human Genes t-->
 <!--d Why inherited DNA is not a fixed life sentence, and how everyday choices decide which genetic recipes the body cooks. d-->
 <!--tag health,biology,metabolism,lifestyle,prevention,family tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/family_food_choices_gene_expression.webp image-->
@@ -46,4 +46,3 @@ These findings remove the despair of genetic fatalism. A family history of eleva
 Everyday physical choices act as biological pencils, writing protective margin notes. Eating whole vegetables, fresh fruits, and unprocessed grains supplies the chemical tags that silence inflammatory genes. Walking thirty minutes each morning prompts muscles to burn stored sugars, adjusting metabolic switches toward balance. Sleeping eight hours in a dark room allows tissues to clear out metabolic waste, keeping the protective tags firmly attached to cellular spools.
 
 A person cannot choose the ancestors who wrote the family cookbook, and no one is forced to prepare every dish on the family menu. By choosing fresh ingredients, regular physical movement, and calm routines, a person clamps the bad recipes shut and bookmarks the recipes for lifelong vitality.
-
