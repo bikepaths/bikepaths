@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20 23:50:06",
+  "generated_at": "2026-10-21 23:50:08",
   "summary": {
-    "today_human_visits": 1074,
+    "today_human_visits": 1105,
     "total_tracked_articles": 1621,
     "inquiries_today": 0,
     "top_country": "US, United States"
@@ -9,52 +9,52 @@
   "security_offenders": [
     {
       "ip": "::1",
-      "hits": 801,
+      "hits": 2307,
       "status": "NEW"
     },
     {
       "ip": "35.198.113.100",
-      "hits": 756,
+      "hits": 739,
       "status": "NEW"
     },
     {
-      "ip": "34.97.112.198",
-      "hits": 305,
-      "status": "NEW"
-    },
-    {
-      "ip": "170.9.229.59",
-      "hits": 293,
-      "status": "NEW"
-    },
-    {
-      "ip": "131.186.5.113",
-      "hits": 233,
-      "status": "NEW"
-    },
-    {
-      "ip": "34.178.215.179",
-      "hits": 197,
-      "status": "NEW"
-    },
-    {
-      "ip": "74.7.241.47",
-      "hits": 171,
+      "ip": "34.83.115.18",
+      "hits": 384,
       "status": "FAKE BOT"
     },
     {
-      "ip": "195.178.110.137",
-      "hits": 142,
+      "ip": "34.95.213.121",
+      "hits": 363,
       "status": "NEW"
     },
     {
-      "ip": "34.52.133.111",
-      "hits": 105,
+      "ip": "34.154.198.63",
+      "hits": 303,
       "status": "NEW"
     },
     {
-      "ip": "207.175.220.59",
-      "hits": 104,
+      "ip": "54.183.149.156",
+      "hits": 225,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.95.204.231",
+      "hits": 179,
+      "status": "NEW"
+    },
+    {
+      "ip": "34.91.135.133",
+      "hits": 152,
+      "status": "NEW"
+    },
+    {
+      "ip": "54.250.13.128",
+      "hits": 151,
+      "status": "NEW"
+    },
+    {
+      "ip": "91.92.242.37",
+      "hits": 126,
       "status": "NEW"
     }
   ],
@@ -62,64 +62,48 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 136,
-      "tot": 7987,
+      "day": 127,
+      "tot": 7978,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 14,
-      "tot": 28,
+      "uri": "/blog/2026/10/the-only-judge-left-the-nuremberg-promise-and-the-politics-of-immunity",
+      "slug": "the-only-judge-left-the-nuremberg-promise-and-the-politics-of-immunity",
+      "day": 44,
+      "tot": 44,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
       "slug": "how-halloween-became-an-american-spectacle",
-      "day": 13,
-      "tot": 13,
+      "day": 10,
+      "tot": 10,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
-      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 12,
-      "tot": 323,
+      "uri": "/blog/author/chas",
+      "slug": "chas",
+      "day": 8,
+      "tot": 746,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
-      "slug": "cicada-3301-unsolved-digital-enigma",
-      "day": 9,
-      "tot": 54,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-broken-covenant-how-the-peace-platform-reached-an-iranian-classroom",
-      "slug": "the-broken-covenant-how-the-peace-platform-reached-an-iranian-classroom",
-      "day": 6,
-      "tot": 6,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
-      "slug": "itinerant-rebels-the-greatest-spiritual-movements-began-on-the-road",
+      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
       "day": 5,
-      "tot": 90,
+      "tot": 19,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
-      "slug": "detailed-guide-to-mount-all-partitions-on-android",
-      "day": 4,
-      "tot": 170,
+      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
+      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
+      "day": 5,
+      "tot": 333,
       "likes": 0,
       "dislikes": 0
     },
@@ -132,34 +116,42 @@
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/12/the-humanoid-proxy-safety-replacement-and-the-fourth-turning",
-      "slug": "the-humanoid-proxy-safety-replacement-and-the-fourth-turning",
-      "day": 3,
-      "tot": 41,
+      "uri": "/blog/2023/05/cambocare-aging-safety-nets-and-expat-welfare-in-cambodia",
+      "slug": "cambocare-aging-safety-nets-and-expat-welfare-in-cambodia",
+      "day": 4,
+      "tot": 4,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "day": 3,
-      "tot": 331,
+      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
+      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "day": 4,
+      "tot": 315,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/contact/",
-      "slug": "contact",
+      "uri": "/blog/2026/02/the-foundations-of-moral-physics",
+      "slug": "the-foundations-of-moral-physics",
       "day": 3,
-      "tot": 271,
+      "tot": 32,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/author/chas",
-      "slug": "chas",
+      "uri": "/blog/2024/12/digital-minimalism-focused-learning-and-purposeful-online-networking",
+      "slug": "digital-minimalism-focused-learning-and-purposeful-online-networking",
       "day": 3,
-      "tot": 741,
+      "tot": 31,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/07/why-nyc-mayor-mamdanis-retail-plan-fails-mathematical-efficiency",
+      "slug": "why-nyc-mayor-mamdanis-retail-plan-fails-mathematical-efficiency",
+      "day": 3,
+      "tot": 86,
       "likes": 0,
       "dislikes": 0
     },
@@ -172,90 +164,98 @@
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
-      "slug": "living-fully-means-returning-to-physical-reality",
+      "uri": "/blog/2023/05/the-rise-of-the-modern-bicycle",
+      "slug": "the-rise-of-the-modern-bicycle",
       "day": 3,
-      "tot": 39,
+      "tot": 60,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/02/the-pathology-of-complexity",
-      "slug": "the-pathology-of-complexity",
-      "day": 2,
-      "tot": 48,
+      "uri": "/blog/2024/06/stages-of-economic-collapse-a-predictable-denial-process",
+      "slug": "stages-of-economic-collapse-a-predictable-denial-process",
+      "day": 3,
+      "tot": 37,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/07/the-mystery-of-crop-circles-unraveling-wiltshires-enigmatic-patterns",
-      "slug": "the-mystery-of-crop-circles-unraveling-wiltshires-enigmatic-patterns",
-      "day": 2,
-      "tot": 106,
+      "uri": "/blog/2026/09/epigenetics-the-biological-ledger-of-poverty",
+      "slug": "epigenetics-the-biological-ledger-of-poverty",
+      "day": 3,
+      "tot": 64,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/verification.html",
-      "slug": "verification.html",
-      "day": 2,
-      "tot": 20,
+      "uri": "/blog/2023/05/tips-for-living-outdoors",
+      "slug": "tips-for-living-outdoors",
+      "day": 3,
+      "tot": 29,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/06/bikecamp-discoveries-transformative-outdoor-education",
-      "slug": "bikecamp-discoveries-transformative-outdoor-education",
-      "day": 2,
-      "tot": 92,
+      "uri": "/blog/content/images/newspapers",
+      "slug": "newspapers",
+      "day": 3,
+      "tot": 4,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/topics/systemic_dignity_infrastructure/Github_Mirror/04_working_papers/wp2_surplus_capacity/ssrn-6211658_Revised.pdf",
-      "slug": "ssrn-6211658_Revised.pdf",
+      "uri": "/blog/2024/08/bulls-bears-bobcats-and-alligators",
+      "slug": "bulls-bears-bobcats-and-alligators",
       "day": 2,
-      "tot": 2,
+      "tot": 52,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/topics/systemic_dignity_infrastructure/Github_Mirror/04_working_papers/wp4_human_layer/ssrn-6881539_Revised.pdf",
-      "slug": "ssrn-6881539_Revised.pdf",
+      "uri": "/blog/2023/05/psychological-and-physiological-effects-of-noise-pollution",
+      "slug": "psychological-and-physiological-effects-of-noise-pollution",
       "day": 2,
-      "tot": 2,
+      "tot": 30,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/topics/systemic_dignity_infrastructure/",
-      "slug": "systemic_dignity_infrastructure",
+      "uri": "/blog/archive/2024-08",
+      "slug": "2024-08",
       "day": 2,
-      "tot": 33,
+      "tot": 19,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/topics/systemic_dignity_infrastructure/Github_Mirror/04_working_papers/wp1_stewardship_model/ssrn-5968756_Revised.pdf",
-      "slug": "ssrn-5968756_Revised.pdf",
+      "uri": "/blog/2026/02/from-pet-rock-and-back-again-how-gold-lost-and-reclaimed-its-monetary-crown",
+      "slug": "from-pet-rock-and-back-again-how-gold-lost-and-reclaimed-its-monetary-crown",
       "day": 2,
-      "tot": 2,
+      "tot": 38,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/how-learning-a-new-language-rewires-the-aging-mind",
-      "slug": "how-learning-a-new-language-rewires-the-aging-mind",
+      "uri": "/blog/2024/07/checks-and-balances-in-the-us-government-impact-on-progressive-and-conservative-movements",
+      "slug": "checks-and-balances-in-the-us-government-impact-on-progressive-and-conservative-movements",
       "day": 2,
-      "tot": 54,
+      "tot": 38,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/topics/systemic_dignity_infrastructure/Github_Mirror/04_working_papers/wp5_economic_dignity/ssrn-7177118_Revised.pdf",
-      "slug": "ssrn-7177118_Revised.pdf",
+      "uri": "/blog/2026/09/from-extraction-to-dividend-how-could-a-machine-intelligence-commons-work",
+      "slug": "from-extraction-to-dividend-how-could-a-machine-intelligence-commons-work",
       "day": 2,
-      "tot": 2,
+      "tot": 43,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/12/google-antigravity-shift",
+      "slug": "google-antigravity-shift",
+      "day": 2,
+      "tot": 53,
       "likes": 0,
       "dislikes": 0
     }
@@ -267,70 +267,78 @@
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 17,
+      "hits": 16,
       "source": "https://www.google.com/"
     },
     {
-      "hits": 15,
+      "hits": 5,
       "source": "https://t.co/"
     },
     {
-      "hits": 6,
-      "source": "https://www.bing.com/"
+      "hits": 4,
+      "source": "https://www.facebook.com/"
+    },
+    {
+      "hits": 4,
+      "source": "https://www.google.com"
     },
     {
       "hits": 3,
-      "source": "https://www.recycles.org/"
-    },
-    {
-      "hits": 2,
-      "source": "https://duckduckgo.com/"
+      "source": "https://www.bing.com/"
     },
     {
       "hits": 1,
-      "source": "https://jillatkinsonicshgblog.storage.googleapis.com/"
+      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]"
+    },
+    {
+      "hits": 1,
+      "source": "https://d3.ru/"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 417
+      "visitors": 453
     },
     {
       "country": "JP, Japan",
-      "visitors": 130
+      "visitors": 134
     },
     {
       "country": "CN, China",
-      "visitors": 124
+      "visitors": 125
     },
     {
       "country": "GB, United Kingdom",
-      "visitors": 48
-    },
-    {
-      "country": "BR, Brazil",
-      "visitors": 28
+      "visitors": 38
     },
     {
       "country": "DE, Germany",
       "visitors": 27
     },
     {
-      "country": "CA, Canada",
+      "country": "BR, Brazil",
       "visitors": 26
     },
     {
+      "country": "BE, Belgium",
+      "visitors": 25
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 23
+    },
+    {
       "country": "SG, Singapore",
-      "visitors": 16
+      "visitors": 20
     },
     {
-      "country": "NL, Netherlands",
-      "visitors": 14
-    },
-    {
-      "country": "ZA, South Africa",
-      "visitors": 11
+      "country": "RU, Russian Federation",
+      "visitors": 12
     }
   ]
 }
