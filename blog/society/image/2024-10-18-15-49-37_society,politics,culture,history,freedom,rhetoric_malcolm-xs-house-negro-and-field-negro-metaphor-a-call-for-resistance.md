@@ -7,6 +7,10 @@ In late 1963, Malcolm X spoke to civic leaders in Detroit. He shared an old stor
 
 The speech was never intended as a dry history lesson. Malcolm X used this contrast to judge civil rights leaders of his day. He challenged figures who sought approval inside white halls. He warned that accepting small tokens of prestige cost Black citizens real economic freedom. Real freedom demanded the proud stance of the field, choosing self-reliance over cautious compromise.
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gH9xfX5hiPg?cc_lang_pref=en&cc_load_policy=1&rel=0" title="Malcolm X - House and Field Negro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 **The Electric Dissent of Jimi Hendrix**
 
 Six years later, on a muddy morning in Bethel, New York, Jimi Hendrix walked onto the final stage at Woodstock. Before a tired crowd, he plugged his white guitar into tall amplifiers. He played the opening notes of the national anthem. The familiar song broke into howling feedback and screeching dives. The sounds copied falling bombs and sirens, turning the pain of the Vietnam War into pure noise.
@@ -19,11 +23,19 @@ The Woodstock performance functioned as a devastating public critique of state v
 
 Yet the performance did not end in total despair. Out of the howling chaos and screeching feedback, Hendrix gently guided his instrument back to the central melody of the anthem. This deliberate return showed that grief and fierce criticism can exist alongside a longing for national renewal. The performance demonstrated that true loyalty to an ideal often requires shattering the comfortable myths that shelter injustice.
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CcWlKtBzgs?cc_lang_pref=en&cc_load_policy=1&rel=0" title="Jimi Hendrix - Star-Spangled Banner at Woodstock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 **The Modern Dilemma of Integration**
 
 The tension mapped by Malcolm X and Hendrix remains alive in contemporary political life. When marginalized individuals achieve high corporate rank, legislative office, or media prominence, they face an old choice. Some assimilate quietly, celebrating personal promotion while leaving systemic inequalities undisturbed. They enjoy the comforts of the modern boardroom, speaking in cautious corporate memos that avoid giving offense.
 
 Others follow the path of creative resistance. Like the field worker of old, they recognize that personal comfort is hollow so long as neighbors suffer under police brutality, wage stagnation, and environmental neglect. They channel their skills into grassroots mutual aid, independent community education, and civic challenges to entrenched power. For them, liberation is an unyielding struggle for collective survival.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1OsbVQVKNo?cc_lang_pref=en&cc_load_policy=1&rel=0" title="Historical Perspectives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 **Dignity Beyond the Master's Ledger**
 
