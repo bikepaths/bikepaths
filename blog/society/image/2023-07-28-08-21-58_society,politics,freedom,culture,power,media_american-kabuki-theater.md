@@ -1,7 +1,7 @@
 <!--t American Kabuki Theater: Political Spectacle, Partisan Choreography, and Real Power t-->
 <!--d Modern political spectacles function as rehearsed civic drama, channeling public emotion into partisan conflict while permanent financial and institutional interests direct underlying policy. d-->
 <!--tag society,politics,freedom,culture,power,media tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-103.jpg image-->
 
 Party politics in modern capitals often looks like a rehearsed play put on for a large crowd. In traditional Japanese theater, players wear bold masks and make stylized moves to show set roles. Inside legislative halls and on cable news shows, party leaders use similar tricks to prove their party loyalty. Televised floor speeches display heated anger to convince voters that their chosen leaders fight for their daily needs. Yet this loud public contest often serves as a distraction meant to hold public attention. Beneath the loud talk, legislative bills frequently reward wealthy donors and entrenched trade groups.
 

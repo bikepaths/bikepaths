@@ -1,7 +1,7 @@
 <!--t Gold Arbitrage in Non-Dollar Trade: Physical Settlement, Currency Blocs, and Sovereign Pricing t-->
 <!--d Bilateral trade settlements outside the dollar system create regional price spreads, driving physical gold arbitrage across sovereign vaults and informal border markets. d-->
 <!--tag money,economics,currency,gold,geopolitics,trade tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-337.jpg image-->
 
 The growing move toward trade pacts outside the dollar network is reshaping the rules of world trade finance. When nations trade crude oil, grains, and factory tools in regional monies, trade gaps demand settling in hard assets. Neither trade partner wants to hold deep piles of foreign paper money that lose value to fast inflation. Gold bars serve as the ultimate neutral asset to bridge currency rifts and balance foreign trade books. As non-dollar trade grows between Asian and Eurasian capitals, gold bullion leaves quiet central vaults to enter daily trade paths. This structural shift creates fertile soil for regional price gaps and sovereign gold trading.
 
