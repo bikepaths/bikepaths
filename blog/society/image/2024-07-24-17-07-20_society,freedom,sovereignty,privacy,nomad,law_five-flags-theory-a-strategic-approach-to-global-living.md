@@ -1,7 +1,7 @@
 <!--t Five Flags Theory: Sovereign Diversification, Legal Jurisdiction, and Personal Autonomy t-->
 <!--d Distributing citizenship, residency, business incorporation, and assets across multiple nations creates legal resilience against territorial overreach. d-->
 <!--tag society,freedom,sovereignty,privacy,nomad,law tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/p_doug_casey.jpg image-->
 
 Modern citizens often find their private wealth, travel rights, and personal freedom tied to one home government. When a lone state holds an individual's passport, trade papers, and bank vaults, official overreach brings grave danger. Sudden shifts in tax laws, money freezes, or political storms can wipe out a lifetime of careful labor. To counter this territorial trap, market writer Harry Schultz set forth the Five Flags theory. The core concept calls for spreading life across several free lands to avoid leaning on one capital. By treating sovereign nations as rival service sellers, prudent travelers build legal safety against state overreach.
 
