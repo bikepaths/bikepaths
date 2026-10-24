@@ -25,9 +25,6 @@ The deep work of Irv Thomas shows in his clear proof that human life can be meas
 
 In a world crowded with bright screens, financial worry, and commercial noise, the road philosophy of Irv Thomas speaks with fresh force. His life poses a quiet challenge to anyone feeling trapped by social pressures, asking what matters most in mortal years. True wealth lives in unhurried days, loyal friendships, and the liberty to practice creative craft without bowing to corporate bosses. While few people choose to thumb rides along interstate highways today, anyone can adopt the brave curiosity that made Thomas a memorable nomad. Stepping off the beaten path requires courage, but the rewards include lasting wonder and genuine self-respect. The open highway remains an enduring invitation to trust our fellow travelers and claim our own authentic path through life.
 
-Archival resources and interview documentation preserve the historical context of this conversation.
-
 - Biographical overview and writings covering [Irv Thomas](https://bikepaths.org/blog/topics/history/irvthomas.com/index.htm)
-- Original interview conducted by [Andrew M. Crusoe](https://amzn.to/47qIzzN)
 
 ---
