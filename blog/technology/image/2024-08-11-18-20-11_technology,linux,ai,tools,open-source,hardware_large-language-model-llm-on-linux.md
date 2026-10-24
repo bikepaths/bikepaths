@@ -1,8 +1,7 @@
 <!--t Running Machine Cognition Locally: Practical Large Language Models on Linux t-->
 <!--d Deploying open source language models on Linux workstations delivers sovereign computational privacy, eliminates cloud API dependencies, and maximizes local hardware throughput. d-->
 <!--tag technology,linux,ai,tools,open-source,hardware tag-->
-<!--image https://bikepaths.org/blog/content/images/2001-08.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/linux-haertung.jpg image-->
 
 The ability to run smart text tools on home machines gives developers deep control over their daily work. Setting up language models on private gear frees builders from costly cloud fees and corporate rules. Local machine runs guarantee full privacy for private source code, secret research notes, and personal archives. Modern Linux setups offer the best ground for this work through clean core tools and clear hardware access. Free software drivers let researchers send tasks across multi-core chips and fast graphics cards. Taking charge of local artificial intelligence begins with picking the right base tools and sound computer parts.
 

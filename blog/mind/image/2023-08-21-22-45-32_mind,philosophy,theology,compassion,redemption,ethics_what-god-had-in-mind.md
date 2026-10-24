@@ -1,8 +1,7 @@
 <!--t The Threshold of Grace: Father Greg Boyle and the Radical Theology of Kinship t-->
 <!--d Meeting hardened street gang members with unconditional dignity dismantles the toxic shame of criminality, demonstrating that genuine social transformation begins with compassion rather than punishment. d-->
 <!--tag mind,philosophy,theology,compassion,redemption,ethics tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-314.jpg image-->
 
 Speaking with an outcast who has spent years on the harsh edges of city life reveals the divide between moral rules and mercy. When such a person hears the claim that they stand as a chosen child of God, they rarely respond with pious cheer. Decades of living through street fights, gang codes, and prison yards build up thick armor of doubt and angry pride. Men who have caused pain often view spiritual talk with suspicion, expecting cheap pity or pious blame. Yet this bold claim of human dignity refuses to tie human worth to past innocence or sudden reform. It strikes at the heart of human identity by declaring that divine care runs deeper than moral failure.
 

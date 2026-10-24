@@ -1,8 +1,7 @@
 <!--t The Architecture of Division: Commercial Media and the Fracture of the American Republic t-->
 <!--d Modern political polarization functions as an engineered commercial product, where partisan broadcasting models and algorithmic sorting dismantle civic deliberation to maximize viewer engagement. d-->
 <!--tag society,politics,polarization,media,democracy,governance tag-->
-<!--image https://bikepaths.org/blog/content/images/hero-image.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
 
 The daily language of American politics has drifted far away from its early roots and legal meanings. Old labels like conservative and liberal no longer describe clear ideas about state power or human freedom. Commercial television networks and campaign groups use these words as club badges to stir up anger. Party leaders discover that framing national debates around team feuds brings steady voter turnout and reliable cash gifts. This calculated game flattens thoughtful civic talk into cheer squads for rival political sports teams. The modern political arena operates less like an open town meeting and more like a permanent sales show.
 
