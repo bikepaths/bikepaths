@@ -1,8 +1,7 @@
 <!--t The Architecture of Prediction: Probability, Context, and Synthetic Prose t-->
 <!--d Large language models generate persuasive human prose through high-dimensional statistical prediction and contextual token mapping across vast neural arrays. d-->
 <!--tag technology,ai,cognition,language,tools,computation tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-369.jpg image-->
 
 The quick rise of modern language tools has stirred broad public curiosity about how machines write text. To casual eyes, an online chatbot seems to think, weigh choices, and form ideas like a living person. Yet beneath the polished surface of synthetic talk lies a pure math process of pattern matching. Neural networks do not experience personal feelings, hold private beliefs, or care about their words. These computer engines build sentences by weighing raw odds across vast stores of digital writing. Studying the underlying code reveals how basic math tricks produce the convincing look of human thought.
 

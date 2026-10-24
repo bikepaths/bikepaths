@@ -1,8 +1,7 @@
 <!--t The Ecclesial Threshold: From Primitive Fellowship to Institutional Christendom t-->
 <!--d Tracing the historical transformation of the Christian church from its sacramental founding at the Last Supper into a complex global institution wrestling with spiritual mission and worldly power. d-->
 <!--tag history,theology,christianity,culture,tradition,philosophy tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/Last-Supper.jpg image-->
 
 The early rise of the Christian church began as a small circle gathered around a common supper table. According to New Testament books, the core rites took form during the last Passover meal shared by Jesus and his band. Breaking bread and pouring wine, he told his followers to repeat the quiet meal as a living bond of deep love. Shortly after, the gospel story tells of a meeting where Simon Peter received the symbolic name of the rock. Upon this steady rock of human leadership, the young flock began to build a lasting spiritual home. These early roots set both sacred memory and group order as the twin pillars of early Christian life.
 
