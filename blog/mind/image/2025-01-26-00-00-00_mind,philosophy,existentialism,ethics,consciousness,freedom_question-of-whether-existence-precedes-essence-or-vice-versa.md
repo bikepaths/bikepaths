@@ -1,8 +1,7 @@
 <!--t Existence and Essence: Classical Purpose and Existential Freedom t-->
 <!--d The timeless philosophical debate between predetermined essence and existential freedom shapes how human beings understand moral duty and true selfhood. d-->
 <!--tag mind,philosophy,existentialism,ethics,consciousness,freedom tag-->
-<!--image https://bikepaths.org/blog/content/images/2001-05.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-393.jpg image-->
 
 Few debates have divided thinkers as deeply as the puzzle of human purpose and selfhood. For over two thousand years, ancient scholars taught that every living creature possesses an innate blueprint. In early Greek thought, an acorn carries the inner form of an oak tree long before its roots strike soil. Applied to mortal life, this view suggests that people enter the world with an inborn moral calling. A person discovers meaning by aligning daily choices with an enduring truth woven into creation. Under this classical perspective, moral duties and virtues exist prior to any private whim or passing mood.
 

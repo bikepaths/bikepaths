@@ -1,8 +1,7 @@
 <!--t The Architecture of the Flesh: Biological Resilience Across the Human Lifespan t-->
 <!--d Understanding the biological progression of the human body from youthful vitality to gradual senescence encourages healthy habits and patient acceptance of mortality. d-->
 <!--tag health,biology,metabolism,disciplines,ethics,mind tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-348.jpg image-->
 
 The living journey of the human body represents one of the most astonishing stories in the living world. In the early decades of life, body systems operate with abundant vigor and quick healing power. Tissues mend quickly after injury, digestive pathways process nutrients with ease, and skeletal bones absorb strain without complaint. Youthful strength gives young people a feeling of boundless stamina, inspiring bold dreams and bold travel across the globe. Vital organs function in quiet unison, sustaining high energy levels that prompt youth to take daily health for granted. This initial season of life feels open, unburdened by chronic fatigue or the slow wear of years.
 
