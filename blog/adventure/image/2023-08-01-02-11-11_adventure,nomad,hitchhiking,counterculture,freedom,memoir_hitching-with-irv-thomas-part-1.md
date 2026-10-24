@@ -27,7 +27,7 @@ In a world crowded with bright screens, financial worry, and commercial noise, t
 
 Archival resources and interview documentation preserve the historical context of this conversation.
 
-- Biographical overview and writings covering [Irv Thomas](https://bikepaths.org/topics/irvthomas.com/)
+- Biographical overview and writings covering [Irv Thomas](https://bikepaths.org/blog/topics/history/irvthomas.com/index.htm)
 - Original interview conducted by [Andrew M. Crusoe](https://amzn.to/47qIzzN)
 
 ---
