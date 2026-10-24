@@ -1,7 +1,7 @@
 <!--t Bottlenecks on the Waterfront: Port Automation and Supply Chain Resilience t-->
 <!--d Maritime freight disruptions and port union negotiations reveal deep vulnerabilities in coastal supply chains as cargo docks confront digital automation. d-->
 <!--tag systems,economics,logistics,infrastructure,automation,strategy tag-->
-<!--image https://bikepaths.org/blog/content/images/visuals-313.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-383.jpg image-->
 
 Modern nations depend on coastal shipping docks to sustain the flow of daily commerce. When work stops along major sea harbors, the ripple effects move fast across home markets. Container ships drop anchor miles offshore, leaving fruit, meat, and dry goods locked inside steel hulls. Factories run low on needed parts within days. Regional rail lines wait for freight that never arrives at inland depots. The modern shipping web operates on tight delivery schedules that leave little room for error. When sea docks freeze, the fragility of world trade becomes obvious to ordinary grocery shoppers.
 

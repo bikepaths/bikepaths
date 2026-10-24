@@ -1,7 +1,7 @@
 <!--t Ancient Wisdom and the Perils of Hubris: Cultivating Restraint in a Rapidly Moving World t-->
 <!--d Classical philosophical traditions and ancient texts provide vital frameworks for humility and ethical moderation as modern nations confront rapid technological acceleration. d-->
 <!--tag mind,philosophy,ethics,tradition,culture,values tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-378.jpg image-->
 
 Ancient peoples warned their youth against the bitter fruit of reckless pride and excessive self-reliance. Greek writers returned continually to the danger of hubris. They described tragic figures whose arrogance led them to defy natural limits and invite ruin. In the dramas of Sophocles and Aeschylus, powerful rulers fell into grief because they believed their private desires surpassed ancient laws. These cautionary plays served as civic lessons for the public square. They reminded common folk that unchecked ambition blinds the mind, twisting good judgment and sparking bitter civic strife.
 
