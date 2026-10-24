@@ -1,8 +1,7 @@
 <!--t Anti-Humanism and Transhumanism: Ideological Extremes and Human Dignity t-->
 <!--d Modern society faces competing ideological movements that either reduce humanity to an ecological burden or seek to replace biological life through technology. d-->
 <!--tag society,technology,philosophy,ethics,culture,autonomy tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-375.jpg image-->
 
 Two clashing cultural movements compete to shape the future of human society in modern times. On one side stands an anti-human creed that views human beings as a burden upon the Earth. On the opposite side stands transhumanism, which seeks to conquer bodily limits by merging human flesh with computer systems. Both outlooks share deep discontent with natural human limits, yet each offers a very different cure. While one movement urges cultural retreat, the other promises godlike mastery through high-tech tools. These opposing visions guide modern politics, digital policy, and public debate across the Western world.
 

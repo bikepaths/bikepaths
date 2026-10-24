@@ -1,7 +1,7 @@
 <!--t Free Speech and Generational Rupture: Protecting Dissent During Times of Crisis t-->
 <!--d Historical cycles and public breakdowns place immense pressure on open debate as political factions clash over speech boundaries during social crises. d-->
 <!--tag society,freedom-of-speech,politics,history,culture,polarization tag-->
-<!--image https://bikepaths.org/blog/content/images/wild_strawberries.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/cycling-034.jpg image-->
 
 Human history moves in regular waves where public trust rises and falls over long decades. In their studies of American life, William Strauss and Neil Howe charted an eighty-year wave. This long cycle divides history into four distinct turnings. The fourth era brings a time of deep national trial. Public bodies weaken during this stage, while old economic habits break down and civic ties face sharp strain. The general mood turns away from personal comfort toward group survival. Neighbors confront harsh fears about their shared future, while financial loss and civic decay create friction throughout daily community life.
 

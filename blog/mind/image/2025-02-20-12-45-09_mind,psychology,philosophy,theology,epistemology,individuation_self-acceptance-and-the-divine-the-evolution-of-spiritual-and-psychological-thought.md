@@ -1,8 +1,7 @@
 <!--t Self-Acceptance and the Divine: Spiritual Traditions and Modern Psychology t-->
 <!--d Theological foundations and mental models offer complementary paths toward self-knowledge, inner peace, and personal reconciliation. d-->
 <!--tag mind,psychology,philosophy,theology,epistemology,individuation tag-->
-<!--image https://bikepaths.org/blog/content/images/scenes-533.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/set-a-106.jpg image-->
 
 Human self-acceptance has stood at the center of moral reflection and sacred practice across diverse civilizations. Ancient thinkers understood that reconciling human weakness with moral duty requires a foundation beyond shallow ego. In classical thought, this inner peace unfolded through an awareness of the unseen order that guides mortal life. When scholars contemplated mortal frailty, they found that inner peace grows from divine grace rather than raw pride. A person learns to face human limits without falling into bitter despair. True self-worth takes root when a person looks beyond private ambition toward a higher truth.
 
