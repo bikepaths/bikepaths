@@ -1,7 +1,7 @@
 <!--t The Biology of Defense: Protective Instincts, Threat Perception, and Emotional Restraint t-->
 <!--d The instinct to shield family, offspring, and territory represents a fundamental biological drive that can easily tip into destructive conflict without emotional self-regulation and rational restraint. d-->
 <!--tag mind,psychology,family,instinct,conflict,emotions tag-->
-<!--image https://bikepaths.org/blog/content/images/visuals-388.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-109.jpg image-->
 
 Deep within human nature lies a strong natural drive to guard the people and places we love most. This defense reflex kicks in when parents spot a threat to their children, their homes, or their towns. Mothers and fathers alike feel sudden surges of alarm and angry heat when their young face physical harm. This natural drive extends across nature, as wild bears and birds defend their young with fierce grit. Across natural history, the willingness to risk personal safety for family survival has kept many species alive. Understanding the early roots of this reflex helps explain why sudden threats stir up such deep feelings.
 
