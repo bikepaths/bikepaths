@@ -1,4 +1,4 @@
-<!--t Fifty Drivers of Human Action: Structural Incentives and Behavioral Motivations t-->
+<!--t Drivers of Human Action: Structural Incentives and Behavioral Motivations t-->
 <!--d A behavioral taxonomy of human action analyzing survival instincts economic incentives social belonging and transcendent moral values. d-->
 <!--tag society,psychology,philosophy,social-dynamics,ethics,decision-making tag-->
 <!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
