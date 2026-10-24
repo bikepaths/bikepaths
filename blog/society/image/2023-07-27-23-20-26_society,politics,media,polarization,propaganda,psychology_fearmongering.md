@@ -1,8 +1,7 @@
 <!--t The Architecture of Alarm: Mass Media and the Manufacture of Public Fear t-->
 <!--d Throughout modern history, political factions and commercial broadcasters have weaponized social panic to consolidate power and manipulate civic behavior. d-->
 <!--tag society,politics,media,polarization,propaganda,psychology tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-358.jpg image-->
 
 Public fear has long served as a potent tool of social control throughout human history. Party leaders and news networks often discover that frightened crowds yield obedience far faster than confident people. By exaggerating external hazards or inventing home rivals, powerful groups sway public mood for party gain. Fear narrows human vision, crowding out careful thought in favor of desperate demands for swift safety. When collective dread takes hold of a nation, civic norms erode and basic rights face sudden cuts. Understanding the mental roots of crafted panic is vital for keeping a society open and free.
 
