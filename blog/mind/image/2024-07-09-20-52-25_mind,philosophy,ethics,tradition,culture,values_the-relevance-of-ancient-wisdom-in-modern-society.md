@@ -3,8 +3,6 @@
 <!--tag mind,philosophy,ethics,tradition,culture,values tag-->
 <!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
 
-**The Enduring Warning Against Hubris**
-
 Ancient peoples warned their youth against the bitter fruit of reckless pride and excessive self-reliance. Greek writers returned continually to the danger of hubris. They described tragic figures whose arrogance led them to defy natural limits and invite ruin. In the dramas of Sophocles and Aeschylus, powerful rulers fell into grief because they believed their private desires surpassed ancient laws. These cautionary plays served as civic lessons for the public square. They reminded common folk that unchecked ambition blinds the mind, twisting good judgment and sparking bitter civic strife.
 
 This suspicion of arrogance appears across diverse moral traditions across world history. Biblical proverbs warned that pride goes before a fall. Teachers in the Tao Te Ching taught that yielding overcomes hard resistance in daily life. Across early Mesopotamia, ancient India, and old China, wise elders observed that rulers who recognized their mortal limits governed with lasting peace. In contrast, boastful kings brought ruin upon their lands. The common thread linking these teachings is the plain truth that human insight has natural limits. Real wisdom demands quiet modesty before the power of the natural world.

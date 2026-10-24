@@ -3,8 +3,6 @@
 <!--tag society,freedom-of-speech,politics,history,culture,polarization tag-->
 <!--image https://bikepaths.org/blog/content/images/wild_strawberries.jpg image-->
 
-**The Crucible of Historical Turnings**
-
 Human history moves in regular waves where public trust rises and falls over long decades. In their studies of American life, William Strauss and Neil Howe charted an eighty-year wave. This long cycle divides history into four distinct turnings. The fourth era brings a time of deep national trial. Public bodies weaken during this stage, while old economic habits break down and civic ties face sharp strain. The general mood turns away from personal comfort toward group survival. Neighbors confront harsh fears about their shared future, while financial loss and civic decay create friction throughout daily community life.
 
 When outside perils grow near, public patience for dissent wears thin across partisan battlegrounds. Many people demand political unity, believing that internal debate weakens the group during times of trouble. Dissenting voices, once accepted as normal parts of life, begin to be treated as threats to collective safety. This anxious atmosphere creates strong pressure to silence unwelcome speech. Traditional civil rights run headlong into collective demands for quick consensus. When rival factions view survival as the main test, tolerance for opposing views quickly vanishes from town halls and school boards.
