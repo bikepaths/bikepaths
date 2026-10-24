@@ -1,8 +1,7 @@
 <!--t The Fractured Republic: Institutional Erosion Across the American Landscape t-->
 <!--d Since the dawn of the twenty-first century, systemic decay across governance, media, and civic institutions has transformed the American cultural and political landscape. d-->
 <!--tag systems,politics,governance,history,society,culture tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-338.jpg image-->
 
 The opening years of the modern era have brought deep shifts across American life. Following the painful shocks of September 2001, cherished civic norms began a slow process of decay across the land. Public trust in core pillars of civic life has steadily declined across every major social group. People observe growing party strife within courts, state halls, news networks, and classroom halls. Basic civic rules once taken for granted now face regular challenge from competing factions. This widespread decay of public trust has changed the daily landscape of American civic action.
 
