@@ -1,7 +1,7 @@
 <!--t What Is the Globalist Agenda: Sovereignty, Supranational Power, and Democratic Agency t-->
 <!--d An operational examination of globalism analyzing supranational coordination economic integration democratic deficits and local self-determination. d-->
 <!--tag society,sovereignty,governance,geopolitics,democracy,institutions tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/close-enc-1.jpg image-->
 
 Debates over the globalist path reflect deep divisions over country rule, civic voice, and world law. Over recent decades, cross-border trade, treaties between states, and world bodies reshaped how nations run their home affairs. Supporters describe this trend as a needed step toward shared peace and joint problem-solving across borders. Opponents argue that world pacts weaken self-rule at home, erode local heritage, and push citizens far from true lawmaking power.
 
