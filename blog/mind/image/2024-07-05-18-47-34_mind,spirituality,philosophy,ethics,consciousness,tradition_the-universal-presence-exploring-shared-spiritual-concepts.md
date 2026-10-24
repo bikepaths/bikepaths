@@ -1,8 +1,7 @@
 <!--t The Silent Witness: Shared Contemplative Realities Across Human Faiths t-->
 <!--d Across diverse philosophical and contemplative traditions, human cultures share a common vision of an all-encompassing reality anchored in compassion and ethical harmony. d-->
 <!--tag mind,spirituality,philosophy,ethics,consciousness,tradition tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-354.jpg image-->
 
 Across past ages and diverse lands, human thinkers have sought to understand the ultimate nature of life. While outward dogmas, sacred tongues, and formal rites vary widely, their quiet centers often share common truths. Philosophers and spiritual seekers describe a formless and boundless ground of being that fills all living things. This cosmic reality does not act like a harsh ruler handing down favors or striking earthly sinners with wrath. Early wisdom teachers viewed it as an enduring presence that supports the unfolding story of human life. Like the open sky that holds drifting clouds without grasping them, this ultimate reality holds all things without clinging.
 
