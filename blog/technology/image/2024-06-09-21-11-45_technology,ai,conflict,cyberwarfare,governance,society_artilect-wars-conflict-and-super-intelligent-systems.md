@@ -1,8 +1,7 @@
 <!--t The Artilect Threshold: Autonomous Warfare and the Struggle for Civilizational Control t-->
 <!--d As artificial intelligence approaches superintelligent capability, ideological divisions between Cosmists and Terrans threaten to trigger unprecedented global conflict and systemic crisis. d-->
 <!--tag technology,ai,conflict,cyberwarfare,governance,society tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/visuals-385.jpg image-->
 
 The fast rise of smart machine systems brings human culture to a historic turning point. Breakthroughs in synthetic thinking point toward systems capable of beating human minds across sound science and war planning. Early tools map global trade routes, guide power grids, and help science teams with new drugs. As these synthetic minds grow more capable, major firms and world powers spend fortunes to gain tech dominance. This growing race transforms commercial tech labs into key hubs of state defense and world rivalry. The question of whether machines can beat human judgment moves from fiction into harsh strategic reality.
 

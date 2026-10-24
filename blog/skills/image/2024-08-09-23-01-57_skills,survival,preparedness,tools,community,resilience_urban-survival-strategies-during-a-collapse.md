@@ -1,8 +1,7 @@
 <!--t The Resilient Grid: Practical Tactics for Severe Urban Disruption t-->
 <!--d Navigating severe metropolitan utility failures and social disruptions demands practical self-reliance, emergency water skills, situational awareness, and local neighborhood solidarity. d-->
 <!--tag skills,survival,preparedness,tools,community,resilience tag-->
-<!--image https://bikepaths.org/blog/content/images/road-2.jpg image-->
-
+<!--image https://bikepaths.org/blog/content/images/cycling-053.png image-->
 
 Modern cities are wonders of machine systems and intense human energy. Millions of people depend wholly upon delicate supply lines, power grids, and city water pipes. When a severe breakdown strikes, whether from harsh winter storms, economic freeze, or grid failure, city systems fail swiftly. Grocery shelves empty within two full days, power water pumps halt, and city trucks vanish from the streets. In such testing moments, a comfortable town block can quickly become a confusing landscape of acute shortages. Surviving a severe city collapse demands useful skills, inner calm, and thorough early planning.
 
