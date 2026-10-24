@@ -1,7 +1,7 @@
 <!--t Rithy Thul: Open Source Hardware, Digital Sovereignty, and Cambodia Startup Frontier t-->
 <!--d The pioneering initiatives of Rithy Thul in launching SmallWorld Venture and KOOMPI Linux demonstrate how sovereign technology and open source hardware empower developing digital economies. d-->
 <!--tag technology,cambodia,entrepreneurship,linux,startups,open-source tag-->
-<!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
+<!--image https://bikepaths.org/blog/content/images/visuals-335.jpg image-->
 
 In the heart of Phnom Penh, a quiet tech shift has taken root across the young nation of Cambodia. For decades, post-war growth in Southeast Asia leaned on foreign aid grants and imported consumer goods. Local tech pioneer Rithy Thul chose a different road by betting on home-grown ideas and open source code tools. Born and raised in Cambodia, Thul taught himself software code and trade craft through dogged daily trial and error. His career reflects a deep vow to digital freedom, green living, and neighborhood strength across the Mekong basin. Examining his varied trade ventures shows how local builders can reshape developing towns from the ground up.
 
