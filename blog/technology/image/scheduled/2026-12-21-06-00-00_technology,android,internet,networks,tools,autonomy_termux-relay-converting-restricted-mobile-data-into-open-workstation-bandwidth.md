@@ -55,15 +55,13 @@ This is where a modern conversational language model provides practical utility,
 
 The operator becomes the physical bridge between the software assistant and the two screens. Instead of asking the assistant for an open-ended guide and attempting to parse dense paragraphs, the operator feeds the assistant a structured prompt. This prompt restrains the model, forcing it to act as a disciplined dispatcher that issues one command at a time, checks the result, and adjusts for local differences.
 
-```text
-You are acting as my step-by-step network setup guide. You have no access to my files, local terminal, or phone. I will manually run your commands and paste the terminal outputs back to you.
-
-Your operating rules:
-1. Deliver only ONE command block per response.
-2. Label every command block with its target device: [PHONE] for Termux, or [LAPTOP] for the workstation shell.
-3. Wait for me to paste the terminal output or confirm success before providing the next step.
-4. Begin by identifying the phone's local hotspot gateway IP address and guiding the initial package installation in Termux.
-```
+> "You are acting as my step-by-step network setup guide. You have no access to my files, local terminal, or phone. I will manually run your commands and paste the terminal outputs back to you.
+>
+> Your operating rules:
+> 1. Deliver only ONE command block per response.
+> 2. Label every command block with its target device: [PHONE] for Termux, or [LAPTOP] for the workstation shell.
+> 3. Wait for me to paste the terminal output or confirm success before providing the next step.
+> 4. Begin by identifying the phone's local hotspot gateway IP address and guiding the initial package installation in Termux."
 
 This method works because it converts static documentation into an ongoing feedback loop. When the assistant requests the output of an address lookup command, the operator copies text from Termux and drops it into the chat window. The assistant reads the network addresses assigned by the carrier, identifies whether the phone uses the standard 192.168.43.1 gateway or an alternative local subnet, and writes following proxy commands using those confirmed numbers.
 
