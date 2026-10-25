@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-23 23:50:04",
+  "generated_at": "2026-10-24 23:50:05",
   "summary": {
-    "today_human_visits": 1424,
-    "total_tracked_articles": 1620,
+    "today_human_visits": 1443,
+    "total_tracked_articles": 1621,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
       "ip": "::1",
-      "hits": 4420,
+      "hits": 3410,
       "status": "NEW"
-    },
-    {
-      "ip": "76.38.129.110",
-      "hits": 1042,
-      "status": "SAFE BOT"
     },
     {
       "ip": "35.198.113.100",
-      "hits": 1031,
+      "hits": 722,
       "status": "NEW"
     },
     {
-      "ip": "54.183.149.156",
-      "hits": 674,
-      "status": "NEW"
-    },
-    {
-      "ip": "13.57.148.235",
-      "hits": 625,
+      "ip": "85.155.14.16",
+      "hits": 555,
       "status": "NEW"
     },
     {
       "ip": "34.141.208.247",
-      "hits": 566,
+      "hits": 320,
+      "status": "NEW"
+    },
+    {
+      "ip": "54.183.149.156",
+      "hits": 280,
+      "status": "NEW"
+    },
+    {
+      "ip": "76.38.129.110",
+      "hits": 205,
+      "status": "SAFE BOT"
+    },
+    {
+      "ip": "13.57.148.235",
+      "hits": 198,
       "status": "NEW"
     },
     {
       "ip": "35.187.206.128",
-      "hits": 246,
+      "hits": 188,
       "status": "NEW"
     },
     {
-      "ip": "157.230.133.168",
-      "hits": 233,
+      "ip": "34.155.64.2",
+      "hits": 151,
       "status": "NEW"
     },
     {
-      "ip": "2604:a880:2:d1:0:1:7d68:5001",
-      "hits": 156,
-      "status": "NEW"
-    },
-    {
-      "ip": "45.138.12.89",
-      "hits": 155,
+      "ip": "216.73.216.32",
+      "hits": 140,
       "status": "NEW"
     }
   ],
@@ -62,102 +62,78 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 120,
-      "tot": 7971,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
-      "slug": "the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
-      "day": 36,
-      "tot": 36,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
-      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 14,
-      "tot": 325,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/author/chas",
-      "slug": "chas",
-      "day": 9,
-      "tot": 747,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/09/navigating-urban-streets-identifying-and-protecting-yourself-from-various-threats",
-      "slug": "navigating-urban-streets-identifying-and-protecting-yourself-from-various-threats",
-      "day": 6,
-      "tot": 12,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
-      "slug": "how-halloween-became-an-american-spectacle",
-      "day": 5,
-      "tot": 5,
+      "day": 187,
+      "tot": 8038,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
       "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "day": 5,
-      "tot": 333,
+      "day": 10,
+      "tot": 338,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 5,
-      "tot": 581,
-      "likes": 2,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/04/clean-pots-prevent-soot",
-      "slug": "clean-pots-prevent-soot",
-      "day": 4,
-      "tot": 86,
+      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
+      "slug": "cicada-3301-unsolved-digital-enigma",
+      "day": 8,
+      "tot": 53,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/06/bikecamp-discoveries-transformative-outdoor-education",
-      "slug": "bikecamp-discoveries-transformative-outdoor-education",
-      "day": 4,
-      "tot": 94,
+      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
+      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "day": 8,
+      "tot": 319,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/ai-apocalypse-a-brief-history-of-bad-tech-predictions",
-      "slug": "ai-apocalypse-a-brief-history-of-bad-tech-predictions",
-      "day": 4,
-      "tot": 62,
+      "uri": "/blog/author/chas",
+      "slug": "chas",
+      "day": 7,
+      "tot": 745,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
       "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 4,
-      "tot": 18,
+      "day": 5,
+      "tot": 19,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/stay-warm-and-dry-when-sleeping-outdoors",
-      "slug": "stay-warm-and-dry-when-sleeping-outdoors",
+      "uri": "/blog/2025/12/collum-2025-review",
+      "slug": "collum-2025-review",
+      "day": 4,
+      "tot": 74,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
+      "slug": "the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
+      "day": 4,
+      "tot": 4,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/benjamin-franklins-republic",
+      "slug": "benjamin-franklins-republic",
+      "day": 4,
+      "tot": 64,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/how-political-violence-taxes-the-working-class",
+      "slug": "how-political-violence-taxes-the-working-class",
       "day": 4,
       "tot": 36,
       "likes": 0,
@@ -172,50 +148,74 @@
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
-      "slug": "cicada-3301-unsolved-digital-enigma",
-      "day": 4,
-      "tot": 49,
+      "uri": "/blog/2026/02/from-pet-rock-and-back-again-how-gold-lost-and-reclaimed-its-monetary-crown",
+      "slug": "from-pet-rock-and-back-again-how-gold-lost-and-reclaimed-its-monetary-crown",
+      "day": 3,
+      "tot": 39,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/08/the-authenticity-of-religious-stories",
-      "slug": "the-authenticity-of-religious-stories",
+      "uri": "/blog/contact/",
+      "slug": "contact",
       "day": 3,
-      "tot": 26,
+      "tot": 271,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/10/a-pragmatic-solution-to-urban-homelessness-how-comfort-stations-and-rural-work-camps-can-transform-lives",
-      "slug": "a-pragmatic-solution-to-urban-homelessness-how-comfort-stations-and-rural-work-camps-can-transform-lives",
+      "uri": "/blog/2023/05/sacred-spirit-yeha-noha",
+      "slug": "sacred-spirit-yeha-noha",
       "day": 3,
-      "tot": 37,
+      "tot": 188,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/10/jay-bhattacharya-intellectual-freedom-and-public-health",
-      "slug": "jay-bhattacharya-intellectual-freedom-and-public-health",
+      "uri": "/blog/2023/05/frederic-bastiat-and-classical-liberalism",
+      "slug": "frederic-bastiat-and-classical-liberalism",
       "day": 3,
-      "tot": 22,
+      "tot": 47,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/the-only-judge-left-the-nuremberg-promise-and-the-politics-of-immunity",
-      "slug": "the-only-judge-left-the-nuremberg-promise-and-the-politics-of-immunity",
+      "uri": "/blog/archive/2023",
+      "slug": "2023",
       "day": 3,
-      "tot": 3,
+      "tot": 83,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/on-tattoos-and-body-piercings",
-      "slug": "on-tattoos-and-body-piercings",
+      "uri": "/blog/2025/03/retrofitting-a-recumbent-bicycle-with-an-electric-hub-motor-and-front-wheel-generator",
+      "slug": "retrofitting-a-recumbent-bicycle-with-an-electric-hub-motor-and-front-wheel-generator",
       "day": 3,
-      "tot": 29,
+      "tot": 91,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/02/the-dunning-kruger-effect-and-the-mechanics-of-metacognitive-failure",
+      "slug": "the-dunning-kruger-effect-and-the-mechanics-of-metacognitive-failure",
+      "day": 3,
+      "tot": 48,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
+      "slug": "why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
+      "day": 3,
+      "tot": 41,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/individual-autonomy-self-sufficiency-and-minimalism",
+      "slug": "individual-autonomy-self-sufficiency-and-minimalism",
+      "day": 3,
+      "tot": 33,
       "likes": 0,
       "dislikes": 0
     },
@@ -228,34 +228,34 @@
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/07/50-reason-why-people-behave-as-they-do",
-      "slug": "50-reason-why-people-behave-as-they-do",
-      "day": 2,
-      "tot": 26,
+      "uri": "/blog/2026/10/living-fully-means-returning-to-physical-reality",
+      "slug": "living-fully-means-returning-to-physical-reality",
+      "day": 3,
+      "tot": 39,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/epigenetics-the-biological-ledger-of-poverty",
-      "slug": "epigenetics-the-biological-ledger-of-poverty",
-      "day": 2,
-      "tot": 63,
+      "uri": "/blog/2026/10/the-only-judge-left-the-nuremberg-promise-and-the-politics-of-immunity",
+      "slug": "the-only-judge-left-the-nuremberg-promise-and-the-politics-of-immunity",
+      "day": 3,
+      "tot": 3,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/01/enigmatic-patterns-mystery-of-crop-circles",
-      "slug": "enigmatic-patterns-mystery-of-crop-circles",
-      "day": 2,
-      "tot": 16,
+      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
+      "slug": "how-halloween-became-an-american-spectacle",
+      "day": 3,
+      "tot": 3,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/07/independent-media-challenges-narratives",
-      "slug": "independent-media-challenges-narratives",
-      "day": 2,
-      "tot": 27,
+      "uri": "/blog/2026/10/the-broken-covenant-how-the-peace-platform-reached-an-iranian-classroom",
+      "slug": "the-broken-covenant-how-the-peace-platform-reached-an-iranian-classroom",
+      "day": 3,
+      "tot": 3,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,106 +263,78 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 31,
+      "hits": 23,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 26,
+      "hits": 16,
       "source": "https://www.google.com/"
     },
     {
-      "hits": 7,
-      "source": "https://t.co/"
-    },
-    {
-      "hits": 3,
-      "source": "https://www.facebook.com/"
+      "hits": 5,
+      "source": "https://www.google.com"
     },
     {
       "hits": 2,
-      "source": "https://duckduckgo.com/"
+      "source": "https://www.bing.com/"
     },
     {
       "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/wsman"
+      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
     },
     {
       "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/wsman"
+      "source": "https://each.co.in/redirect.php?ref_host=movingoutstudio.com"
     },
     {
       "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/auth.html"
+      "source": "http://[2604:a880:4:1d0::d3:5000]"
     },
     {
       "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/auth.html"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/auth1.html"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/auth1.html"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/sslvpnLogin.html"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/sslvpnLogin.html"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/api/sonicos/auth"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/api/sonicos/auth"
+      "source": "https://google.com"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 413
+      "visitors": 432
     },
     {
       "country": "BE, Belgium",
-      "visitors": 287
+      "visitors": 262
     },
     {
       "country": "JP, Japan",
-      "visitors": 146
+      "visitors": 141
     },
     {
       "country": "CN, China",
-      "visitors": 96
-    },
-    {
-      "country": "GB, United Kingdom",
-      "visitors": 51
-    },
-    {
-      "country": "BR, Brazil",
-      "visitors": 41
-    },
-    {
-      "country": "CA, Canada",
-      "visitors": 34
+      "visitors": 123
     },
     {
       "country": "DE, Germany",
-      "visitors": 29
+      "visitors": 43
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 39
+    },
+    {
+      "country": "GB, United Kingdom",
+      "visitors": 34
     },
     {
       "country": "SG, Singapore",
-      "visitors": 18
+      "visitors": 31
     },
     {
-      "country": "RU, Russian Federation",
-      "visitors": 17
+      "country": "BR, Brazil",
+      "visitors": 25
+    },
+    {
+      "country": "NL, Netherlands",
+      "visitors": 18
     }
   ]
 }
