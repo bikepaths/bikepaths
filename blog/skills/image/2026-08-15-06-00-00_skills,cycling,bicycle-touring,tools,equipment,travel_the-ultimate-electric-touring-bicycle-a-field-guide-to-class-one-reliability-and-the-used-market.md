@@ -58,7 +58,7 @@ Belt drives require zero oil lubrication, making them completely immune to grind
 
 Internal hubs demand careful planning on expedition routes. If an internal hub suffers a rare mechanical failure in a remote county, local mechanics cannot service the internal gears, and you must carry a pre-measured replacement belt in your pannier.
 
-**Top Five Class 1 Contenders in the US Market**
+**Premier Class 1 Contenders in the US Market**
 
 Selecting the ideal touring bicycle requires matching frame geometry and motor systems to your intended route surface and service preferences.
 
@@ -127,6 +127,20 @@ The Tern Orox is an overland expedition hauler designed for severe wilderness cr
 
 The Orox accommodates wide four-inch fat bike tires for sand and snow, or fast-rolling two-point-six-inch touring tires for highway pavement. Its long wheelbase and seventy-three-pound curb weight require deliberate planning when loading the bike onto trains or vehicle racks.
 
+**Contender 6: Bulls ICONIC EVO TR 1 750**
+
+The Bulls ICONIC EVO TR 1 750 combines German full-suspension comfort with high-capacity Bosch Smart System endurance. Its four-bar linkage rear air shock and one hundred twenty millimeters of front suspension fork travel insulate the rider from continuous gravel washboard on rough rail-trails.
+
+- Class: Strict Class 1 with twenty miles per hour pedal assist and zero throttle
+- Motor: Bosch Performance Line CX Smart System delivering eighty-five newton-meters
+- Battery: Bosch PowerTube seven hundred fifty watt-hour integrated internal battery
+- Drivetrain: Shimano Deore ten-speed derailleur with eleven-to-forty-six-tooth cassette
+- Suspension: Full air suspension with one hundred twenty millimeters front and rear travel
+- Gross Vehicle Weight: Three hundred thirty pounds with integrated luggage rack and light package
+- Market Pricing: Regional dealer closeout thirty-two hundred ninety-nine dollars; original retail sixty-two hundred ninety-nine dollars
+
+The handlebar-actuated dropper seatpost allows lowering the saddle four inches instantly at red lights and road crossings. This feature completely neutralizes standover fit hazards when straddling a heavily loaded diamond frame. By utilizing a high-efficiency derailleur chain system rather than an internal fluid hub, the Bulls avoids internal drivetrain drag penalties during low-power cruising.
+
 **Class 1 Budget Mid-Drive Alternatives**
 
 Riders seeking dependable mid-drive touring capability on a tighter budget have two reliable Class 1 options in the pre-owned and new markets.
@@ -169,6 +183,7 @@ A thirty-inch cycling inseam universally requires a Medium frame measuring forty
 | :--- | :--- | :--- |
 | Riese and Müller Charger4 GT | 49 cm or 53 cm Frame | Do not select 56 cm or 60 cm sizes, standover exceeds 32 inches |
 | Gazelle Ultimate C380 | 53 cm Medium or 49 cm Small | Low-step frame variant provides optimal clearance when dismounting a loaded rear rack |
+| Bulls ICONIC EVO TR 1 750 | 41 cm Small or 44 cm Medium | Handlebar dropper post drops saddle four inches at stops, neutralizing standover risk |
 | Specialized Turbo Tero X | Medium Size Only | Large frame top tube exceeds thirty-one inches of standover height |
 | Trek Allant Plus 7 | Medium Size Only | Forty-five-centimeter seat tube provides safe standover clearance |
 | Tern Orox Overland | Medium Size Only | Sloping top tube fits riders from five feet one inch to six feet one inch |
@@ -184,3 +199,7 @@ Certified platforms like Upway offer the highest buyer protection. Their technic
 Local classified channels like Facebook Marketplace offer lower prices but require careful manual screening. Search within a hundred-mile radius using precise terms like Gazelle C380, Riese Muller Charger, or Turbo Vado. Always confirm the original charger is included, test the motor under full climbing load, and verify that the bicycle is a legal Class 1 model with zero throttle hardware.
 
 By focusing on proven mid-drive motor engineering, durable belt or heavy-duty chain drivetrains, and verified Medium frame geometry, you can secure an expedition-grade touring machine at half the cost of showroom retail.
+
+**Expedition Outfitting and Security Architecture**
+
+Selecting the right machine is only the initial phase of long-distance tour preparation. An expedition electric bicycle carrying expensive electronics, luggage, and high-capacity lithium batteries introduces acute theft risks and mechanical logistics in remote corridors. For an operational blueprint covering five-tier physical lock metallurgy, stealth GPS tracking, butterfly bar cockpit conversions, rural Walmart tire procurement, and agreed-value insurance, proceed to our companion field guide: [Outfitting the Class 1 Tourer: Cockpit Ergonomics, Trail Logistics, and Multi-Tier Theft Defense](https://bikepaths.org/blog/2026/08/outfitting-the-class-one-tourer-cockpit-ergonomics-trail-logistics-and-multi-tier-theft-defense).
