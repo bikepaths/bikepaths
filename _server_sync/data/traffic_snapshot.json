@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-26 23:50:05",
+  "generated_at": "2026-10-28 17:50:48",
   "summary": {
-    "today_human_visits": 1689,
-    "total_tracked_articles": 1631,
+    "today_human_visits": 1139,
+    "total_tracked_articles": 1641,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "::1",
-      "hits": 2137,
-      "status": "NEW"
-    },
-    {
       "ip": "35.198.113.100",
-      "hits": 916,
+      "hits": 721,
       "status": "NEW"
     },
     {
-      "ip": "34.95.223.50",
-      "hits": 390,
+      "ip": "76.38.129.110",
+      "hits": 276,
+      "status": "SAFE BOT"
+    },
+    {
+      "ip": "::1",
+      "hits": 255,
       "status": "NEW"
     },
     {
-      "ip": "34.52.141.174",
-      "hits": 190,
+      "ip": "23.251.146.115",
+      "hits": 238,
       "status": "NEW"
     },
     {
-      "ip": "34.11.112.53",
-      "hits": 166,
+      "ip": "34.122.173.216",
+      "hits": 200,
       "status": "NEW"
     },
     {
-      "ip": "34.159.232.41",
-      "hits": 153,
+      "ip": "13.57.148.235",
+      "hits": 198,
       "status": "NEW"
     },
     {
-      "ip": "114.119.153.53",
-      "hits": 101,
+      "ip": "176.170.100.145",
+      "hits": 105,
       "status": "NEW"
     },
     {
-      "ip": "114.119.152.70",
-      "hits": 94,
+      "ip": "176.65.144.71",
+      "hits": 99,
+      "status": "FAKE BOT"
+    },
+    {
+      "ip": "90.113.211.149",
+      "hits": 99,
       "status": "NEW"
     },
     {
-      "ip": "216.73.216.32",
-      "hits": 87,
-      "status": "NEW"
-    },
-    {
-      "ip": "20.151.218.88",
-      "hits": 87,
+      "ip": "54.183.149.156",
+      "hits": 90,
       "status": "NEW"
     }
   ],
@@ -62,48 +62,40 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 165,
-      "tot": 8016,
+      "day": 120,
+      "tot": 8099,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/the-oldest-keel-how-bronze-age-sailors-built-mediterranean-trade",
-      "slug": "the-oldest-keel-how-bronze-age-sailors-built-mediterranean-trade",
-      "day": 39,
-      "tot": 39,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "day": 33,
-      "tot": 361,
+      "uri": "/blog/2026/10/the-frictionless-friend-how-modern-cities-put-human-presence-on-the-clock",
+      "slug": "the-frictionless-friend-how-modern-cities-put-human-presence-on-the-clock",
+      "day": 28,
+      "tot": 28,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
       "slug": "how-halloween-became-an-american-spectacle",
-      "day": 17,
-      "tot": 17,
+      "day": 13,
+      "tot": 73,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
       "slug": "cicada-3301-unsolved-digital-enigma",
-      "day": 15,
-      "tot": 60,
+      "day": 6,
+      "tot": 56,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/author/chas",
-      "slug": "chas",
-      "day": 9,
-      "tot": 747,
+      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
+      "slug": "detailed-guide-to-mount-all-partitions-on-android",
+      "day": 6,
+      "tot": 174,
       "likes": 0,
       "dislikes": 0
     },
@@ -111,151 +103,159 @@
       "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
       "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
       "day": 5,
-      "tot": 581,
+      "tot": 588,
       "likes": 3,
       "dislikes": 0
     },
     {
-      "uri": "/blog/contact/",
-      "slug": "contact",
-      "day": 5,
-      "tot": 273,
+      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
+      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "day": 4,
+      "tot": 324,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/02/from-pet-rock-and-back-again-how-gold-lost-and-reclaimed-its-monetary-crown",
+      "slug": "from-pet-rock-and-back-again-how-gold-lost-and-reclaimed-its-monetary-crown",
+      "day": 3,
+      "tot": 39,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2024/07/inside-heavens-gate-the-rise-and-tragic-fall-of-a-ufo-cult",
       "slug": "inside-heavens-gate-the-rise-and-tragic-fall-of-a-ufo-cult",
-      "day": 4,
-      "tot": 137,
+      "day": 3,
+      "tot": 141,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/topics/systemic_dignity_infrastructure/Github_Mirror/04_working_papers/wp4_human_layer/ssrn-6881539_Revised.pdf",
-      "slug": "ssrn-6881539_Revised.pdf",
-      "day": 4,
-      "tot": 4,
+      "uri": "/blog/author/chas",
+      "slug": "chas",
+      "day": 3,
+      "tot": 743,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/08/large-language-model-llm-on-linux",
-      "slug": "large-language-model-llm-on-linux",
+      "uri": "/blog/2023/06/early-intervention-and-support-in-schools",
+      "slug": "early-intervention-and-support-in-schools",
+      "day": 3,
+      "tot": 20,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/08/your-lawn-mower-is-next",
+      "slug": "your-lawn-mower-is-next",
+      "day": 3,
+      "tot": 22,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/sociopolitical-and-ideological-agendas-in-schools",
+      "slug": "sociopolitical-and-ideological-agendas-in-schools",
       "day": 3,
       "tot": 29,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/tips",
-      "slug": "tips",
+      "uri": "/blog/contact/",
+      "slug": "contact",
       "day": 3,
-      "tot": 78,
+      "tot": 280,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
-      "slug": "truth-as-a-state-of-rest-the-philosophical-history-of-the-lie",
+      "uri": "/blog/2025/12/messages-in-the-wheat",
+      "slug": "messages-in-the-wheat",
       "day": 3,
-      "tot": 238,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
-      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 3,
-      "tot": 314,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/09/complete-guide-to-business-planning-tools",
-      "slug": "complete-guide-to-business-planning-tools",
-      "day": 3,
-      "tot": 96,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/bob-marleys-redemption-song",
-      "slug": "bob-marleys-redemption-song",
-      "day": 3,
-      "tot": 103,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/how-political-violence-taxes-the-working-class",
-      "slug": "how-political-violence-taxes-the-working-class",
-      "day": 3,
-      "tot": 35,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/twenty-liters-across-tokyo-the-ultra-low-cost-bivouac-blueprint",
-      "slug": "twenty-liters-across-tokyo-the-ultra-low-cost-bivouac-blueprint",
-      "day": 3,
-      "tot": 128,
+      "tot": 750,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2023/06/bikecamp-discoveries-transformative-outdoor-education",
       "slug": "bikecamp-discoveries-transformative-outdoor-education",
-      "day": 3,
-      "tot": 93,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/how-learning-a-new-language-rewires-the-aging-mind",
-      "slug": "how-learning-a-new-language-rewires-the-aging-mind",
-      "day": 3,
-      "tot": 55,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 3,
-      "tot": 17,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/07/understanding-market-moods-risk-on-vs-risk-off",
-      "slug": "understanding-market-moods-risk-on-vs-risk-off",
-      "day": 3,
-      "tot": 25,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/07/vince-everett-ellison-a-voice-of-insight-and-change",
-      "slug": "vince-everett-ellison-a-voice-of-insight-and-change",
-      "day": 3,
-      "tot": 42,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/an-old-man-and-his-bicycle",
-      "slug": "an-old-man-and-his-bicycle",
-      "day": 3,
-      "tot": 23,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/06/essential-gear-for-bikepacking",
-      "slug": "essential-gear-for-bikepacking",
       "day": 2,
-      "tot": 21,
+      "tot": 92,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/06/flat-earth-cult",
+      "slug": "flat-earth-cult",
+      "day": 2,
+      "tot": 31,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/02/the-dunning-kruger-effect-and-the-mechanics-of-metacognitive-failure",
+      "slug": "the-dunning-kruger-effect-and-the-mechanics-of-metacognitive-failure",
+      "day": 2,
+      "tot": 47,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/age-of-reason-love-grace-and-the-loss-of-innocence",
+      "slug": "age-of-reason-love-grace-and-the-loss-of-innocence",
+      "day": 2,
+      "tot": 29,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/09/cloward-piven-strategy-crisis-in-the-welfare-system",
+      "slug": "cloward-piven-strategy-crisis-in-the-welfare-system",
+      "day": 2,
+      "tot": 94,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
+      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
+      "day": 2,
+      "tot": 165,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/quotations-by-american-founders",
+      "slug": "quotations-by-american-founders",
+      "day": 2,
+      "tot": 24,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/principles-common-to-many-belief-systems",
+      "slug": "principles-common-to-many-belief-systems",
+      "day": 2,
+      "tot": 32,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/09/the-generational-healing-revolution-how-todays-children-will-unite-tomorrows-america",
+      "slug": "the-generational-healing-revolution-how-todays-children-will-unite-tomorrows-america",
+      "day": 2,
+      "tot": 29,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
+      "slug": "why-the-market-cannot-mass-produce-shelter-the-engineering-case-for-sdi",
+      "day": 2,
+      "tot": 41,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,48 +263,52 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 24,
+      "hits": 37,
+      "source": "www.google.com"
+    },
+    {
+      "hits": 19,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 15,
+      "hits": 9,
       "source": "https://www.google.com/"
     },
     {
-      "hits": 11,
+      "hits": 9,
       "source": "https://www.aocr.org/"
     },
     {
-      "hits": 7,
-      "source": "http://m.facebook.com"
-    },
-    {
-      "hits": 2,
+      "hits": 6,
       "source": "https://t.co/"
     },
     {
       "hits": 2,
-      "source": "https://duckduckgo.com/"
+      "source": "https://[2604:a880:4:1d0::d3:5000]/sitemap.xml"
     },
     {
       "hits": 1,
-      "source": "https://www.linkedin.com/"
+      "source": "https://addurl.in/redirect.php?ref_host=azino777official.win"
     },
     {
       "hits": 1,
-      "source": "https://five.co.in/redirect.php?ref_host=tooeleautomobilemall.com"
+      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
     },
     {
       "hits": 1,
-      "source": "https://five.co.in/redirect.php?ref_host=pfitk.sbs"
+      "source": "https://linksdirectory.net/link-profile/stampafacile.com/1e7835eb439bac5528cd66bc63550d05"
     },
     {
       "hits": 1,
-      "source": "https://scholar.google.com.sg/scholar?cites=156041913059347648&hl=cs&oi=bibs"
+      "source": "http://[2604:a880:4:1d0::d3:5000]/favicon.ico"
     },
     {
       "hits": 1,
-      "source": "https://bing.com/"
+      "source": "http://[2604:a880:4:1d0::d3:5000]/robots.txt"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/sitemap.xml"
     },
     {
       "hits": 1,
@@ -312,49 +316,53 @@
     },
     {
       "hits": 1,
-      "source": "https://copilot.microsoft.com/"
+      "source": "https://linksdirectory.net/link-profile/wvus.net/70aa72ee2ba7fbcfa4a9577d0e255d8d"
+    },
+    {
+      "hits": 1,
+      "source": "https://noai.duckduckgo.com/"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 397
+      "visitors": 260
     },
     {
       "country": "BE, Belgium",
-      "visitors": 283
-    },
-    {
-      "country": "JP, Japan",
-      "visitors": 157
+      "visitors": 219
     },
     {
       "country": "CN, China",
-      "visitors": 146
+      "visitors": 137
+    },
+    {
+      "country": "JP, Japan",
+      "visitors": 137
     },
     {
       "country": "GB, United Kingdom",
-      "visitors": 108
+      "visitors": 50
     },
     {
       "country": "BR, Brazil",
-      "visitors": 67
-    },
-    {
-      "country": "CA, Canada",
-      "visitors": 39
-    },
-    {
-      "country": "DE, Germany",
-      "visitors": 35
-    },
-    {
-      "country": "VN, Vietnam",
-      "visitors": 32
+      "visitors": 30
     },
     {
       "country": "SG, Singapore",
-      "visitors": 31
+      "visitors": 25
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 21
+    },
+    {
+      "country": "DE, Germany",
+      "visitors": 21
+    },
+    {
+      "country": "FR, France",
+      "visitors": 15
     }
   ]
 }
