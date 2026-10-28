@@ -1,4 +1,4 @@
-<!--t The Desktop in Your Backpack: Turning an Android Tablet into a Mobile Workstation t-->
+<!--t Turning an Android Tablet into a Mobile Workstation t-->
 <!--d Exploring how Samsung DeX, octa-core processors, AMOLED screens, and stylus inputs allow modern tablets to replace bulky desktop computers for mobile work. d-->
 <!--tag technology,android,tools,efficiency,future-tech,innovation tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/android-tablet-workstation.webp image-->
