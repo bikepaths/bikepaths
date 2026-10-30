@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
   title: "Bikepaths",
-  description: "A hybrid digital garden.",
+  description: "An exploration of human performance, evolutionary psychology, and the structural engineering required to solve complex societal problems.",
 };
 
 export default function RootLayout({

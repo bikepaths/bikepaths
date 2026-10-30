@@ -22,8 +22,8 @@ export default async function Home({
     <div>
       <section className="hero">
         <h1>bikepaths.org</h1>
-        <p><strong>Knowledge * Spirit * Culture * Growth</strong></p>
-        <p style={{ fontSize: '0.9rem', marginTop: '1rem', opacity: 0.5 }}>Synced from 165.232.151.110</p>
+        <p><strong>Pre-publishing Review Site</strong></p>
+        <p style={{ fontSize: '0.9rem', marginTop: '1rem', opacity: 0.5 }}>Synced from <a href="https://bikepaths.org/blog/">165.232.151.110</a></p>
       </section>
 
       <div className="grid">
