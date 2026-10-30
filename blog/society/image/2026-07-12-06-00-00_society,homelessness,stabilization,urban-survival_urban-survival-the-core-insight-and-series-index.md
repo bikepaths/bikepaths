@@ -74,4 +74,4 @@ The location of the building matters as much as the individual rooms. Sites are 
 
 The built environment must house immediate care. Medical, psychiatric, and addiction treatment must operate inside the building to eliminate barriers to access (Osborn et al., 2021). These integrated services allow residents with complex neurology to stabilize. Case management, skills training, and medical support operate as the functional backbone of the physical structure (Mascaro et al., 2017).
 
-[Plain language Summary Guide](https://bikepaths.org/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide_v2.html)
+[Plain language Summary Guide](https://bikepaths.org/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide_v2.html)

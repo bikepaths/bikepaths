@@ -3,7 +3,7 @@
 <!--tag adventure,nomad,travel,budget-travel,lifestyle,exploration tag-->
 <!--image https://bikepaths.org/blog/content/images/sunset-strip.jpg image-->
 
-Long-distance hitching represents one of the purest forms of nomadic travel, stripping transit down to patience, human generosity, and roadside instinct. In the second installment of discussions, lifelong wanderer <a href="https://bikepaths.org/blog/topics/history/irvthomas.com/index.htm">Irv Thomas</a> reflects upon six decades spent traveling across North America and Europe. His journeys demonstrate that traveling the open road requires practical craft, sharp awareness, and an enduring trust in ordinary citizens.
+Long-distance hitching represents one of the purest forms of nomadic travel, stripping transit down to patience, human generosity, and roadside instinct. In the second installment of discussions, lifelong wanderer <a href="https://bikepaths.org/topics/history/irvthomas.com/index.htm">Irv Thomas</a> reflects upon six decades spent traveling across North America and Europe. His journeys demonstrate that traveling the open road requires practical craft, sharp awareness, and an enduring trust in ordinary citizens.
 
 Rather than approaching travel as a paid consumer trip, Thomas treated the roadside as a deep school for personal growth. His reflections, chronicled in his book Derelict Days, reveal how stepping away from social habit builds self-reliance and emotional grit. Examining his practical methods offers valuable lessons for modern wanderers seeking authentic human ties outside mainstream tour packages.
 

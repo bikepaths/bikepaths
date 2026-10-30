@@ -1,10 +1,12 @@
 {
   "metadata": {
-    "threshold_views": 1464,
+    "threshold_views": 1474,
     "total_qualifying": 180,
     "generated_at": "2026-10-27T16:42:30.128156Z",
-    "last_syndicated_at": "2026-10-27T05:31:00Z",
-    "interval_hours": 48
+    "last_syndicated_at": "2026-10-29T18:00:41.674475+00:00",
+    "interval_hours": 48,
+    "total_published_articles": 722,
+    "target_pool_size": 181
   },
   "catalog": [
     {
@@ -23,11 +25,11 @@
       "canonical_url": "https://bikepaths.org/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
       "relative_path": "history/image/2024-08-17-17-21-06_history,philosophy,spirituality,culture,nature,ethics_koyaanisqatsi-hopi-prophecy-and-sacred-teachings.md",
       "views": 3870,
-      "syndicated": false,
-      "syndicated_at": null,
-      "wayback_url": "https://web.archive.org/web/20261027153417/https://bikepaths.org/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "indexnow_status": null,
-      "mastodon_url": null,
+      "syndicated": true,
+      "syndicated_at": "2026-10-29T18:00:41.674475+00:00",
+      "wayback_url": null,
+      "indexnow_status": "Submitted (HTTP 200)",
+      "mastodon_url": "https://mastodon.social/@bikepaths/117525501799667626",
       "last_error": null
     },
     {

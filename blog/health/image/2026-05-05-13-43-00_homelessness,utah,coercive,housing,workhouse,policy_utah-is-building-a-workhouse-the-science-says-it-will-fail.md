@@ -74,6 +74,6 @@ Most books on American homelessness ask the reader to feel more. They document t
 
 *AN ENGINEERING FAILURE: Why Every Billion Dollars America Spends on Homelessness Makes It Worse*, by Charles J. DiBella, presents the full structural analysis for a general reading public: why the system currently funded mathematically guarantees its own failure, why the infrastructure to resolve the crisis already exists and is currently vacant and depreciating, and what the voting public can do to redirect the money already flowing toward the machine that works. The book releases on Amazon soon. Follow this site for the release date.
 
-[MDI_Engineering_Framework.htm](https://bikepaths.org/blog/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide.htm)
+[MDI_Engineering_Framework.htm](https://bikepaths.org/topics/audio/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide.htm)
 
 Keywords: Health, Public Investment, pipeline engineering, population taxonomy, ontological security, Dunbar Pod, CARE Court, Assertive Community Treatment, Housing First, Los Angeles Metropolitan Stabilization, Measure Alpha, homelessness stabilization, adaptive reuse, Material Dignity Infrastructure

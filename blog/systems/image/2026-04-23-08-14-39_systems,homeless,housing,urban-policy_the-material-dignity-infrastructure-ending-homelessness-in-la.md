@@ -89,4 +89,4 @@ Houston and Finland differ from Los Angeles in important respects, including gre
 
 The prototype asks for a single tower and a single test, with results to be independently verified and expansion to follow only if the falsifiability thresholds are met.
 
-The full working paper is available for download at [Working Paper: Material Dignity Infrastructure (2026)](https://bikepaths.org/blog/topics/audio/podcasts/Working_Paper_Material_Dignity_Infrastructure_(2026).pdf). The podcast series and full research archive are available at [bikepaths.org/podcast](https://bikepaths.org/podcast/).
+The full working paper is available for download at [Working Paper: Material Dignity Infrastructure (2026)](https://bikepaths.org/topics/audio/podcasts/Working_Paper_Material_Dignity_Infrastructure_(2026).pdf). The podcast series and full research archive are available at [bikepaths.org/podcast](https://bikepaths.org/podcast/).

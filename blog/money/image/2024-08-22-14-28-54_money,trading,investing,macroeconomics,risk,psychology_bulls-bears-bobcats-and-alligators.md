@@ -45,4 +45,4 @@ In modern electronic markets, platforms provide instantaneous access to depth-of
 
 Understanding the interaction between bulls, bears, alligators, and bobcats allows market participants to recognize market context and navigate cyclical shifts with deliberate discipline.
 
-Read more on [financial market predators](https://bikepaths.org/blog/topics/history/markets/index.htm).
+Read more on [financial market predators](https://bikepaths.org/topics/history/markets/index.htm).
