@@ -1,7 +1,7 @@
 <!--t The Parental Wealth Divide in Housing: Starting from Scratch in an Inherited World t-->
 <!--d An honest look at the silent divide between wage earners and asset-backed buyers, and how to build a life when you start with no family cushion. d-->
 <!--tag money,housing,economics,families,macroeconomics,debt tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/cyclist_sprawl_houses_suburbia.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/conventional_home_exterior.webp image-->
 <!--mos MoS_Mass_Synthesis.md mos-->
 
 Sit down at a coffee shop with a friend from work and you might think you are standing on the same ground. You both clock into the same office, collect similar paychecks, and split the lunch bill down the middle. Yet underneath that surface similarity, your daily lives can be separated by a wide gulf. One person looks at open houses on Saturday mornings, talking easily about deeds and lawn space. The other person lies awake on Sunday night, doing mental math about car insurance, dental work, and whether the landlord will raise the monthly rent by eight percent when the lease renews.
