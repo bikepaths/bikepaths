@@ -92,6 +92,10 @@
                         <h2 class="heading">Subscribe</h2>
                         <div class="content">
                             <form action="/blog/signup.php" method="post">
+                                <div style="display:none !important; position:absolute; left:-9999px;" aria-hidden="true">
+                                    <label for="website">Leave blank</label>
+                                    <input type="text" name="website" id="website" tabindex="-1" autocomplete="off">
+                                </div>
                                 <div class="form-group">
                                     <input type="email" name="email" class="form-control" placeholder="Enter your email">
                                 </div>
