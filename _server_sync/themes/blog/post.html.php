@@ -83,6 +83,47 @@
     <p><em>Views expressed are the author's own and intended for informational and educational purposes only. Readers are encouraged to conduct their own research before acting on any information presented. Contact the author for errors, inaccuracies or omissions.</em></p>
 </div>
 
+<div class="post-retention-block" style="margin: 25px 0 20px 0; padding: 20px; background: #fdfdfd; border: 1px solid #e2e8f0; border-radius: 6px;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 1px solid #edf2f7; padding-bottom: 15px; margin-bottom: 15px;">
+        <div>
+            <strong style="font-size: 1.05em; color: #2d3748;">Was this essay valuable?</strong>
+            <span id="end-vote-message-<?php echo $p->slug;?>" style="margin-left: 10px; font-size: 0.9em; font-style: italic;"></span>
+        </div>
+        <div>
+            <button type="button" onclick="vote('<?php echo $p->slug;?>', 'like')" class="btn btn-default btn-sm" style="color: #2e7d32; border-color: #c8e6c9; margin-right: 6px;">
+                <i class="fa fa-thumbs-up"></i> Helpful
+            </button>
+            <button type="button" onclick="vote('<?php echo $p->slug;?>', 'dislike')" class="btn btn-default btn-sm" style="color: #c62828; border-color: #ffcdd2;">
+                <i class="fa fa-thumbs-down"></i> Needs Work
+            </button>
+        </div>
+    </div>
+    <div>
+        <h4 style="margin-top: 0; margin-bottom: 6px; font-weight: 600; color: #1a202c;">Cycles of Change: The Saturday Dispatch</h4>
+        <p style="font-size: 0.92em; color: #4a5568; line-height: 1.5; margin-bottom: 12px;">
+            A curated weekly digest summarizing the week's three essays on physical infrastructure, autonomous tradecraft, and systemic dignity.
+        </p>
+        <form action="/blog/signup.php" method="post" style="max-width: 520px; margin-bottom: 10px;">
+            <div style="display:none !important; position:absolute; left:-9999px;" aria-hidden="true">
+                <label for="website">Leave blank</label>
+                <input type="text" name="website" id="website" tabindex="-1" autocomplete="off">
+            </div>
+            <div class="input-group">
+                <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
+                <span class="input-group-btn">
+                    <button class="btn btn-primary" type="submit">Get Weekly Digest</button>
+                </span>
+            </div>
+        </form>
+        <div style="font-size: 0.82em; color: #718096; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+            <span>Delivered Saturdays at 9:00 AM EST. Zero spam. One-click unsubscribe.</span>
+            <span style="margin-top: 4px;">
+                Prefer open protocols? <a href="https://t.me/bikepaths" target="_blank" rel="noopener"><i class="fa fa-telegram"></i> Telegram</a> &bull; <a href="/blog/feed/rss"><i class="fa fa-rss"></i> RSS Feed</a>
+            </span>
+        </div>
+    </div>
+</div>
+
 
 
 
@@ -152,9 +193,12 @@
 <script>
 function vote(slug, type) {
     var msgBox = document.getElementById('vote-message-' + slug);
+    var endMsgBox = document.getElementById('end-vote-message-' + slug);
     var cookieName = 'voted_' + slug;
     if (document.cookie.split(';').some((item) => item.trim().startsWith(cookieName + '='))) {
-        msgBox.innerText = 'You have already voted on this post.';
+        var msg = 'You have already voted on this post.';
+        if (msgBox) { msgBox.innerText = msg; msgBox.style.color = '#555'; }
+        if (endMsgBox) { endMsgBox.innerText = msg; endMsgBox.style.color = '#555'; }
         return;
     }
     fetch('<?php echo site_url();?>vote/' + slug + '/' + type, {
@@ -166,17 +210,20 @@ function vote(slug, type) {
     .then(response => response.json())
     .then(data => {
         if (data.status === 'success') {
-            msgBox.innerText = 'Thank you for your feedback!';
-            msgBox.style.color = '#4CAF50';
+            var msg = 'Thank you for your feedback!';
+            if (msgBox) { msgBox.innerText = msg; msgBox.style.color = '#4CAF50'; }
+            if (endMsgBox) { endMsgBox.innerText = msg; endMsgBox.style.color = '#4CAF50'; }
         } else {
-            msgBox.innerText = data.message;
-            msgBox.style.color = '#F44336';
+            var msg = data.message || 'Error';
+            if (msgBox) { msgBox.innerText = msg; msgBox.style.color = '#F44336'; }
+            if (endMsgBox) { endMsgBox.innerText = msg; endMsgBox.style.color = '#F44336'; }
         }
     })
     .catch(error => {
         console.error('Error:', error);
-        msgBox.innerText = 'An error occurred. Please try again.';
-        msgBox.style.color = '#F44336';
+        var msg = 'An error occurred. Please try again.';
+        if (msgBox) { msgBox.innerText = msg; msgBox.style.color = '#F44336'; }
+        if (endMsgBox) { endMsgBox.innerText = msg; endMsgBox.style.color = '#F44336'; }
     });
 }
 </script>

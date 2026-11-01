@@ -89,18 +89,29 @@
 
                 <aside class="aside section">
                     <div class="section-inner">
-                        <h2 class="heading">Subscribe</h2>
+                        <h2 class="heading">The Saturday Dispatch</h2>
                         <div class="content">
+                            <p style="font-size: 0.9em; color: #555; margin-bottom: 12px; line-height: 1.4;">
+                                Weekly Saturday morning briefing summarizing all 3 new essays on physical systems, self-reliance, and systemic dignity.
+                            </p>
                             <form action="/blog/signup.php" method="post">
                                 <div style="display:none !important; position:absolute; left:-9999px;" aria-hidden="true">
                                     <label for="website">Leave blank</label>
                                     <input type="text" name="website" id="website" tabindex="-1" autocomplete="off">
                                 </div>
-                                <div class="form-group">
-                                    <input type="email" name="email" class="form-control" placeholder="Enter your email">
+                                <div class="form-group" style="margin-bottom: 8px;">
+                                    <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
                                 </div>
-                                <button type="submit" class="btn btn-primary btn-block">Subscribe</button>
+                                <button type="submit" class="btn btn-primary btn-block">Get Weekly Digest</button>
                             </form>
+                            <p style="font-size: 0.8em; color: #777; margin-top: 8px; margin-bottom: 12px;">
+                                Delivered Saturdays at 9:00 AM EST. Zero spam. One-click unsubscribe.
+                            </p>
+                            <div style="font-size: 0.85em; border-top: 1px solid #eee; padding-top: 8px; color: #666;">
+                                <span>Alternative channels:</span><br>
+                                <a href="https://t.me/bikepaths" target="_blank" rel="noopener"><i class="fa fa-telegram"></i> Telegram Network</a> &bull;
+                                <a href="/blog/feed/rss"><i class="fa fa-rss"></i> RSS Feed</a>
+                            </div>
                         </div><!--//content-->
                     </div><!--//section-inner-->
                 </aside><!--//section-->
