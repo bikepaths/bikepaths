@@ -103,13 +103,19 @@
         <p style="font-size: 0.92em; color: #4a5568; line-height: 1.5; margin-bottom: 12px;">
             A curated weekly digest summarizing the week's three essays on physical infrastructure, autonomous tradecraft, and systemic dignity.
         </p>
-        <form action="/blog/signup.php" method="post" style="max-width: 520px; margin-bottom: 10px;">
+        <form action="/blog/signup.php" method="post" id="post_sub_form" style="max-width: 520px; margin-bottom: 10px;">
             <div style="display:none !important; position:absolute; left:-9999px;" aria-hidden="true">
-                <label for="website">Leave blank</label>
-                <input type="text" name="website" id="website" tabindex="-1" autocomplete="off">
+                <label for="post_website">Leave blank</label>
+                <input type="text" name="website" id="post_website" value="" tabindex="-1" autocomplete="off">
             </div>
+            <input type="hidden" name="render_time" value="">
+            <input type="hidden" name="form_token" value="">
+            <input type="hidden" name="interaction_signal" value="bot">
             <div class="input-group">
-                <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
+                <input type="email" name="email" class="form-control" placeholder="Enter your email" required
+                       onfocus="armSignup(this.form);"
+                       onkeydown="armSignup(this.form);"
+                       ontouchstart="armSignup(this.form);">
                 <span class="input-group-btn">
                     <button class="btn btn-primary" type="submit">Get Weekly Digest</button>
                 </span>

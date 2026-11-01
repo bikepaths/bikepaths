@@ -1,11 +1,55 @@
 <?php
 require_once __DIR__ . '/status_card.php';
 
-if (!empty($_POST["website"])) {
-    header("Location: /blog");
-    exit;
+// Strict Anti-Bot Pipeline
+$secretFile = '/home/user0/files/personal/email/newsletter_secret.key';
+$server_secret = file_exists($secretFile) ? trim(file_get_contents($secretFile)) : 'c7e9f4a18b20d365_bikepaths_sec';
+
+function reject_bot($reason) {
+    // Record rejection in tracking log
+    $dropLog = '/home/user0/files/signup_drops.log';
+    $clientIp = $_SERVER['REMOTE_ADDR'] ?? 'unknown';
+    $agent = $_SERVER['HTTP_USER_AGENT'] ?? 'unknown';
+    $logLine = sprintf("[%s] BOT-DROP: IP=%s Reason=%s Agent=%s\n", date('Y-m-d H:i:s'), $clientIp, $reason, $agent);
+    @file_put_contents($dropLog, $logLine, FILE_APPEND | LOCK_EX);
+
+    // Return 403 Forbidden to trigger immediate Fail2ban firewall ban
+    http_response_code(403);
+    die("Access Denied: Automated submission rejected.");
 }
 
+// 1. Mandatory Envelope Verification
+if (!isset($_POST["website"]) || empty($_POST["render_time"]) || empty($_POST["form_token"]) || empty($_POST["interaction_signal"])) {
+    reject_bot("Missing or unpopulated envelope parameters");
+}
+
+// 2. Honeypot Check (Must exist and be strictly empty)
+if ($_POST["website"] !== "") {
+    reject_bot("Honeypot field populated");
+}
+
+// 3. Cryptographic Signature Verification
+$render_time = (int)$_POST["render_time"];
+$expected_token = hash_hmac('sha256', (string)$render_time, $server_secret);
+if (!hash_equals($expected_token, (string)$_POST["form_token"])) {
+    reject_bot("Forged or tampered token");
+}
+
+// 4. 15-Second Minimum Time Gate
+$elapsed = time() - $render_time;
+if ($elapsed < 15) {
+    reject_bot("Speed floor violation: " . $elapsed . "s (minimum 15s required)");
+}
+if ($elapsed > 7200) {
+    reject_bot("Token expired: " . $elapsed . "s");
+}
+
+// 5. Passive Human Interaction Check
+if ($_POST["interaction_signal"] !== "human_verified") {
+    reject_bot("Passive interaction signal missing or disarmed");
+}
+
+// --- Legitimate Human Processing ---
 if (isset($_POST["email"])) {
     $email = strtolower(trim($_POST["email"]));
     if (filter_var($email, FILTER_VALIDATE_EMAIL)) {

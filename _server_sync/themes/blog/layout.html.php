@@ -94,13 +94,19 @@
                             <p style="font-size: 0.9em; color: #555; margin-bottom: 12px; line-height: 1.4;">
                                 Weekly Saturday morning briefing summarizing all 3 new essays on physical systems, self-reliance, and systemic dignity.
                             </p>
-                            <form action="/blog/signup.php" method="post">
+                            <form action="/blog/signup.php" method="post" id="side_sub_form">
                                 <div style="display:none !important; position:absolute; left:-9999px;" aria-hidden="true">
-                                    <label for="website">Leave blank</label>
-                                    <input type="text" name="website" id="website" tabindex="-1" autocomplete="off">
+                                    <label for="side_website">Leave blank</label>
+                                    <input type="text" name="website" id="side_website" value="" tabindex="-1" autocomplete="off">
                                 </div>
+                                <input type="hidden" name="render_time" value="">
+                                <input type="hidden" name="form_token" value="">
+                                <input type="hidden" name="interaction_signal" value="bot">
                                 <div class="form-group" style="margin-bottom: 8px;">
-                                    <input type="email" name="email" class="form-control" placeholder="Enter your email" required>
+                                    <input type="email" name="email" class="form-control" placeholder="Enter your email" required
+                                           onfocus="armSignup(this.form);"
+                                           onkeydown="armSignup(this.form);"
+                                           ontouchstart="armSignup(this.form);">
                                 </div>
                                 <button type="submit" class="btn btn-primary btn-block">Get Weekly Digest</button>
                             </form>
@@ -224,5 +230,19 @@
     <script type="text/javascript" src="<?php echo theme_path();?>js/jquery-latest.min.js"></script>
     <script type="text/javascript" src="<?php echo theme_path();?>js/bootstrap.min.js"></script>
 <?php if (analytics()): ?><?php echo analytics() ?><?php endif; ?>    
+<script>
+function armSignup(f) {
+    if (f.dataset.armed) return;
+    f.dataset.armed = "true";
+    fetch('/blog/token.php')
+        .then(r => r.json())
+        .then(d => {
+            f.querySelector('[name=render_time]').value = d.timestamp;
+            f.querySelector('[name=form_token]').value = d.token;
+            f.querySelector('[name=interaction_signal]').value = 'human_verified';
+        })
+        .catch(e => console.error(e));
+}
+</script>
 </body>
 </html> 
