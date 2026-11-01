@@ -115,11 +115,8 @@
                 </span>
             </div>
         </form>
-        <div style="font-size: 0.82em; color: #718096; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+        <div style="font-size: 0.82em; color: #718096;">
             <span>Delivered Saturdays at 9:00 AM EST. Zero spam. One-click unsubscribe.</span>
-            <span style="margin-top: 4px;">
-                Prefer open protocols? <a href="https://t.me/bikepaths" target="_blank" rel="noopener"><i class="fa fa-telegram"></i> Telegram</a> &bull; <a href="/blog/feed/rss"><i class="fa fa-rss"></i> RSS Feed</a>
-            </span>
         </div>
     </div>
 </div>

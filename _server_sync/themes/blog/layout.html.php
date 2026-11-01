@@ -104,14 +104,9 @@
                                 </div>
                                 <button type="submit" class="btn btn-primary btn-block">Get Weekly Digest</button>
                             </form>
-                            <p style="font-size: 0.8em; color: #777; margin-top: 8px; margin-bottom: 12px;">
+                            <p style="font-size: 0.8em; color: #777; margin-top: 8px; margin-bottom: 0px;">
                                 Delivered Saturdays at 9:00 AM EST. Zero spam. One-click unsubscribe.
                             </p>
-                            <div style="font-size: 0.85em; border-top: 1px solid #eee; padding-top: 8px; color: #666;">
-                                <span>Alternative channels:</span><br>
-                                <a href="https://t.me/bikepaths" target="_blank" rel="noopener"><i class="fa fa-telegram"></i> Telegram Network</a> &bull;
-                                <a href="/blog/feed/rss"><i class="fa fa-rss"></i> RSS Feed</a>
-                            </div>
                         </div><!--//content-->
                     </div><!--//section-inner-->
                 </aside><!--//section-->
