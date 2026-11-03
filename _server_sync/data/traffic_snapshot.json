@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-31 13:03:31",
+  "generated_at": "2026-11-03 04:28:38",
   "summary": {
-    "today_human_visits": 941,
-    "total_tracked_articles": 1657,
+    "today_human_visits": 605,
+    "total_tracked_articles": 1678,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "195.178.110.22",
-      "hits": 462,
-      "status": "NEW"
+      "ip": "35.198.113.100",
+      "hits": 174,
+      "status": "SAFE BOT"
     },
     {
-      "ip": "35.198.113.100",
-      "hits": 427,
+      "ip": "2604:a880:2:d1:0:1:7ef0:d001",
+      "hits": 156,
       "status": "NEW"
     },
     {
       "ip": "::1",
-      "hits": 298,
+      "hits": 152,
       "status": "NEW"
     },
     {
-      "ip": "34.39.157.33",
-      "hits": 176,
-      "status": "NEW"
-    },
-    {
-      "ip": "65.21.237.125",
-      "hits": 126,
-      "status": "NEW"
-    },
-    {
-      "ip": "216.73.217.52",
-      "hits": 85,
-      "status": "SAFE BOT"
-    },
-    {
-      "ip": "195.178.110.157",
-      "hits": 77,
+      "ip": "35.195.245.38",
+      "hits": 124,
       "status": "NEW"
     },
     {
       "ip": "76.38.129.110",
-      "hits": 73,
+      "hits": 89,
       "status": "SAFE BOT"
     },
     {
-      "ip": "114.119.153.53",
-      "hits": 57,
+      "ip": "138.197.200.125",
+      "hits": 77,
       "status": "NEW"
     },
     {
-      "ip": "199.47.82.19",
-      "hits": 52,
+      "ip": "86.109.75.34",
+      "hits": 65,
+      "status": "NEW"
+    },
+    {
+      "ip": "114.119.147.248",
+      "hits": 60,
+      "status": "NEW"
+    },
+    {
+      "ip": "114.119.158.45",
+      "hits": 44,
+      "status": "NEW"
+    },
+    {
+      "ip": "114.119.157.57",
+      "hits": 43,
       "status": "NEW"
     }
   ],
@@ -62,200 +62,200 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 61,
-      "tot": 8461,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
-      "slug": "how-halloween-became-an-american-spectacle",
-      "day": 18,
-      "tot": 210,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "day": 7,
-      "tot": 346,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
-      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 7,
-      "tot": 346,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 5,
-      "tot": 55,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/ai-apocalypse-a-brief-history-of-bad-tech-predictions",
-      "slug": "ai-apocalypse-a-brief-history-of-bad-tech-predictions",
-      "day": 4,
-      "tot": 76,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/author/chas",
-      "slug": "chas",
-      "day": 4,
-      "tot": 777,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
-      "slug": "cicada-3301-unsolved-digital-enigma",
-      "day": 4,
-      "tot": 75,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/contact/",
-      "slug": "contact",
-      "day": 4,
-      "tot": 293,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/topics/working_papers/DiBella_Notoriety_Arbitrage_(2026).pdf",
-      "slug": "DiBella_Notoriety_Arbitrage_(2026).pdf",
-      "day": 4,
-      "tot": 71,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/04/clean-pots-prevent-soot",
-      "slug": "clean-pots-prevent-soot",
-      "day": 3,
-      "tot": 98,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
-      "slug": "detailed-guide-to-mount-all-partitions-on-android",
-      "day": 3,
-      "tot": 201,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/07/urban-homelessness-infrastructure-systems-failure-infinite-loop",
-      "slug": "urban-homelessness-infrastructure-systems-failure-infinite-loop",
-      "day": 3,
-      "tot": 95,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/10/the-bridgekeeper-how-george-blitch-builds-understanding-through-authentic-conversation",
-      "slug": "the-bridgekeeper-how-george-blitch-builds-understanding-through-authentic-conversation",
-      "day": 3,
-      "tot": 47,
+      "day": 33,
+      "tot": 9109,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
       "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 3,
-      "tot": 609,
+      "day": 6,
+      "tot": 637,
       "likes": 3,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/07/klaus-schwab-and-frederic-bastiat",
-      "slug": "klaus-schwab-and-frederic-bastiat",
-      "day": 2,
-      "tot": 23,
+      "uri": "/blog/author/chas",
+      "slug": "chas",
+      "day": 4,
+      "tot": 818,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/07/the-mystery-of-crop-circles-unraveling-wiltshires-enigmatic-patterns",
-      "slug": "the-mystery-of-crop-circles-unraveling-wiltshires-enigmatic-patterns",
-      "day": 2,
-      "tot": 111,
+      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
+      "day": 3,
+      "tot": 108,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/02/the-sovereign-individual",
-      "slug": "the-sovereign-individual",
-      "day": 2,
-      "tot": 56,
+      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
+      "slug": "how-halloween-became-an-american-spectacle",
+      "day": 3,
+      "tot": 285,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/06/addressing-economic-challenges-in-the-united-states-strategies-and-investment-opportunities-for-2025-2030",
-      "slug": "addressing-economic-challenges-in-the-united-states-strategies-and-investment-opportunities-for-2025-2030",
-      "day": 2,
-      "tot": 35,
+      "uri": "/blog/2026/10/clearing-the-field-why-progress-feels-fragile",
+      "slug": "clearing-the-field-why-progress-feels-fragile",
+      "day": 3,
+      "tot": 34,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/12/the-god-paradox",
-      "slug": "the-god-paradox",
+      "uri": "/blog/2025/04/clean-pots-prevent-soot",
+      "slug": "clean-pots-prevent-soot",
+      "day": 2,
+      "tot": 124,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/01/the-ghost-in-the-system-strategic-architecture-for-california-homelessness-funding-recovery",
+      "slug": "the-ghost-in-the-system-strategic-architecture-for-california-homelessness-funding-recovery",
+      "day": 2,
+      "tot": 30,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/boom-cars-threatening-our-lives",
+      "slug": "boom-cars-threatening-our-lives",
+      "day": 2,
+      "tot": 37,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
+      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
+      "day": 2,
+      "tot": 378,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/common-elements-of-belief-systems",
+      "slug": "common-elements-of-belief-systems",
+      "day": 2,
+      "tot": 41,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/07/market-sentiment-indicators",
+      "slug": "market-sentiment-indicators",
+      "day": 2,
+      "tot": 50,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/why-people-fear-the-power-of-ai",
+      "slug": "why-people-fear-the-power-of-ai",
+      "day": 2,
+      "tot": 114,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/self-determination-overbearing-governments-and-deceptive-media",
+      "slug": "self-determination-overbearing-governments-and-deceptive-media",
       "day": 2,
       "tot": 32,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/direct-daily-personal-guidance-to-youth",
-      "slug": "direct-daily-personal-guidance-to-youth",
+      "uri": "/blog/2023/08/what-god-had-in-mind",
+      "slug": "what-god-had-in-mind",
       "day": 2,
-      "tot": 25,
+      "tot": 27,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/03/the-visibility-trade-that-drives-mass-violence",
-      "slug": "the-visibility-trade-that-drives-mass-violence",
-      "day": 2,
-      "tot": 38,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/governance.html",
-      "slug": "governance.html",
+      "uri": "/blog/2023/07/20-analogies-on-silver-gold-and-fiat-currencies",
+      "slug": "20-analogies-on-silver-gold-and-fiat-currencies",
       "day": 2,
       "tot": 20,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/02/the-pathology-of-complexity",
-      "slug": "the-pathology-of-complexity",
+      "uri": "/blog/archive/2024",
+      "slug": "2024",
       "day": 2,
-      "tot": 53,
+      "tot": 80,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/archive/2023-06",
-      "slug": "2023-06",
+      "uri": "/blog/2026/09/structural-friction-when-a-new-law-breaks-an-old-promise",
+      "slug": "structural-friction-when-a-new-law-breaks-an-old-promise",
       "day": 2,
-      "tot": 29,
+      "tot": 32,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/09/the-biology-of-empty-buildings-reengineering-the-skyscraper-for-human-survival",
+      "slug": "the-biology-of-empty-buildings-reengineering-the-skyscraper-for-human-survival",
+      "day": 2,
+      "tot": 51,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
+      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
+      "day": 2,
+      "tot": 398,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
+      "slug": "cicada-3301-unsolved-digital-enigma",
+      "day": 2,
+      "tot": 105,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/inspiration-for-an-incredible-journey",
+      "slug": "inspiration-for-an-incredible-journey",
+      "day": 2,
+      "tot": 25,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/investors-wanted-traffic-signal-systems",
+      "slug": "investors-wanted-traffic-signal-systems",
+      "day": 2,
+      "tot": 30,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/12/google-antigravity-shift",
+      "slug": "google-antigravity-shift",
+      "day": 2,
+      "tot": 64,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/topics/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide.htm",
+      "slug": "MDI_Engineering_Framework_Plain-Language_Guide.htm",
+      "day": 1,
+      "tot": 6,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,78 +263,106 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 11,
+      "hits": 8,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
-      "hits": 8,
-      "source": "https://www.aocr.org/"
-    },
-    {
-      "hits": 5,
+      "hits": 4,
       "source": "https://www.google.com/"
     },
     {
       "hits": 2,
-      "source": "https://scholar.google.com/"
+      "source": "https://t.co/"
+    },
+    {
+      "hits": 2,
+      "source": "https://ca.search.yahoo.com/"
+    },
+    {
+      "hits": 2,
+      "source": "https://www.google.com"
     },
     {
       "hits": 1,
-      "source": "https://five.co.in/redirect.php?ref_host=truthinmoderation.com"
+      "source": "http://[2604:a880:4:1d0::d3:5000]/wsman"
     },
     {
       "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]:443/blog"
+      "source": "https://[2604:a880:4:1d0::d3:5000]/wsman"
     },
     {
       "hits": 1,
-      "source": "https://five.co.in/redirect.php?ref_host=i70pyhs159.skin"
+      "source": "http://[2604:a880:4:1d0::d3:5000]/auth.html"
     },
     {
       "hits": 1,
-      "source": "https://five.co.in/redirect.php?ref_host=brandtwocreative.com"
+      "source": "https://[2604:a880:4:1d0::d3:5000]/auth.html"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/auth1.html"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/auth1.html"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/sslvpnLogin.html"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/sslvpnLogin.html"
+    },
+    {
+      "hits": 1,
+      "source": "http://[2604:a880:4:1d0::d3:5000]/api/sonicos/auth"
+    },
+    {
+      "hits": 1,
+      "source": "https://[2604:a880:4:1d0::d3:5000]/api/sonicos/auth"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 259
+      "visitors": 214
     },
     {
       "country": "BE, Belgium",
-      "visitors": 160
-    },
-    {
-      "country": "CN, China",
-      "visitors": 95
+      "visitors": 50
     },
     {
       "country": "JP, Japan",
-      "visitors": 78
+      "visitors": 47
     },
     {
-      "country": "GB, United Kingdom",
-      "visitors": 62
-    },
-    {
-      "country": "DE, Germany",
-      "visitors": 22
+      "country": "CN, China",
+      "visitors": 46
     },
     {
       "country": "RU, Russian Federation",
-      "visitors": 21
+      "visitors": 40
     },
     {
-      "country": "SG, Singapore",
-      "visitors": 20
+      "country": "SE, Sweden",
+      "visitors": 34
+    },
+    {
+      "country": "GB, United Kingdom",
+      "visitors": 24
     },
     {
       "country": "BR, Brazil",
-      "visitors": 17
+      "visitors": 14
+    },
+    {
+      "country": "DE, Germany",
+      "visitors": 12
     },
     {
       "country": "CA, Canada",
-      "visitors": 16
+      "visitors": 10
     }
   ]
 }

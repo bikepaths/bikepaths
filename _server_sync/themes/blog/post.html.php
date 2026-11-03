@@ -38,13 +38,6 @@
                         <span itemprop="articleSection"><?php echo $p->category;?></span> <?php echo i18n("by");?>
                         <span itemprop="author"><a href="<?php echo $p->authorUrl;?>"><?php echo $p->authorName;?></a></span>
                     </p>
-                    <div class="voting-module" style="margin: 0px 30px 0px 0px; padding: 10px; background: #f9f9f9; border-radius: 5px; float: right; display: inline-block;">
-                        <span id="vote-message-<?php echo $p->slug;?>" style="margin-right: 15px; color: #555; font-style: italic;"></span>
-                        <strong>Was this article helpful?</strong> &nbsp;
-                        <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'like')" title="Like" style="color: #4CAF50; font-size: 1.2em;"><i class="fa fa-thumbs-up"></i></a> &nbsp;
-                        <a href="javascript:void(0)" onclick="vote('<?php echo $p->slug;?>', 'dislike')" title="Dislike" style="color: #F44336; font-size: 1.2em;"><i class="fa fa-thumbs-down"></i></a>
-                    </div>
-                    <div style="clear: both;"></div>
                 </div>
                 <div class="desc text-left post-<?php echo $p->date;?>" itemprop="articleBody">
                     <?php echo $p->body; ?>
@@ -56,14 +49,17 @@
 
 
 
-<div style="margin-top:0px;position:relative;">
-	<div class="share pull-right social-logo social">
-        <i class="fa fa-share-alt"></i> &nbsp; Share This Post &nbsp; &nbsp;
-		<!-- Facebook -->
-		<a class="social-logo-facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $p->url ?>">
-			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
+<div class="post-meta-footer" style="margin: 20px 0 15px 0; padding-top: 15px; border-top: 1px solid #edf2f7; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px;">
+	<div class="tags" style="font-size: 0.9em; color: #4a5568;">
+		<i class="fa fa-tags"></i> <?php echo $p->tag;?>
+	</div>
+	<div class="share social-logo social" style="text-align: left; font-size: 0.9em; color: #718096; display: flex; align-items: center; gap: 8px;">
+		<span><i class="fa fa-share-alt"></i> Share:</span>
 		<!-- Twitter -->
 		<a class="social-logo-x" target="_blank" rel="nofollow" title="Share on Twitter" href="https://twitter.com/intent/tweet?text=<?php echo $p->title ?>&url=<?php echo $p->url ?>">
+			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
+		<!-- Facebook -->
+		<a class="social-logo-facebook" target="_blank" rel="nofollow" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $p->url ?>">
 			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
 		<!-- Telegram -->
 		<a class="social-logo-telegram" target="_blank" rel="nofollow" title="Share on Telegram" href="https://t.me/share/url?url=<?php echo $p->url ?>&text=<?php echo $p->title ?>">
@@ -75,12 +71,6 @@
 		<a class="social-logo-mail" target="_blank" rel="nofollow" title="Share via Email" href="mailto:?subject=<?php echo $p->title ?>&body=<?php echo $p->url ?>">
 			<span class="screen-reader-text"><?php echo $p->title ?></span></a>
 	</div>
-	<div style="clear:both;"></div>
-	<span class="tags"><i class="fa fa-tags"></i> <?php echo $p->tag;?></span>
-</div>
-
-<div class="article-disclaimer">
-    <p><em>Views expressed are the author's own and intended for informational and educational purposes only. Readers are encouraged to conduct their own research before acting on any information presented. Contact the author for errors, inaccuracies or omissions.</em></p>
 </div>
 
 <div class="post-retention-block" style="margin: 25px 0 20px 0; padding: 20px; background: #fdfdfd; border: 1px solid #e2e8f0; border-radius: 6px;">
@@ -169,6 +159,10 @@
                         <span class="older pull-right"><a href="<?php echo($prev['url']); ?>" rel="prev"><?php echo i18n("Prev");?> <i class="fa fa-long-arrow-right"></i></a></span>
                     <?php endif; ?>
                     <div style="clear:both;"></div><hr>
+                </div>
+
+                <div class="article-disclaimer" style="margin: 25px 0 10px 0; text-align: center; font-size: 0.8em; color: #a0aec0; line-height: 1.5;">
+                    <p style="margin: 0;"><em>Views expressed are the author's own and intended for informational and educational purposes only. Readers are encouraged to conduct their own research before acting on any information presented. Contact the author for errors, inaccuracies or omissions.</em></p>
                 </div>
 
 

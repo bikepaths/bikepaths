@@ -2,6 +2,8 @@
 <!--d Charles DiBella: Systemic architecture researcher, bicycle adventurer, and author of the SDI Specification to end chronic homelessness. d-->
 <!--image https://bikepaths.org/blog/content/images/mandala.png image-->
 
+<img src="/img/chas_phnompenh_aug_2017_2.webp" alt="Charles DiBella" width="200" style="float: right; margin: 0 0 16px 16px; border-radius: 8px; width: 200px; max-width: 45%; height: auto;" />
+
 Charles DiBella builds practical systems to solve complex human problems. He studies how people perform, how our minds evolved, and how large systems operate.
 
 **Core Project: Systemic Dignity Infrastructure (SDI)**
