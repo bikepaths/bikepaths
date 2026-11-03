@@ -1,4 +1,4 @@
-<!--t The Digital Clerk at the Work Desk: Practical AI Rules for Business and Writing t-->
+<!--t Digital Clerk at Work: Practical AI Rules for Business and Writing t-->
 <!--d A practical guide to intellectual property ownership, data privacy boundaries, and common pitfalls when using artificial intelligence tools in daily work. d-->
 <!--tag technology,ai,law,internet,privacy,tools tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/business_owner_work_desk.webp image-->
