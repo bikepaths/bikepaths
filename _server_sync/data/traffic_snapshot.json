@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-03 04:28:38",
+  "generated_at": "2026-11-06 06:39:59",
   "summary": {
-    "today_human_visits": 605,
-    "total_tracked_articles": 1678,
+    "today_human_visits": 900,
+    "total_tracked_articles": 1692,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "35.198.113.100",
-      "hits": 174,
-      "status": "SAFE BOT"
-    },
-    {
-      "ip": "2604:a880:2:d1:0:1:7ef0:d001",
-      "hits": 156,
-      "status": "NEW"
-    },
-    {
       "ip": "::1",
-      "hits": 152,
+      "hits": 348,
       "status": "NEW"
     },
     {
-      "ip": "35.195.245.38",
-      "hits": 124,
-      "status": "NEW"
-    },
-    {
-      "ip": "76.38.129.110",
-      "hits": 89,
+      "ip": "35.198.113.100",
+      "hits": 300,
       "status": "SAFE BOT"
     },
     {
-      "ip": "138.197.200.125",
-      "hits": 77,
+      "ip": "64.227.36.207",
+      "hits": 208,
       "status": "NEW"
     },
     {
-      "ip": "86.109.75.34",
-      "hits": 65,
+      "ip": "34.59.187.33",
+      "hits": 194,
       "status": "NEW"
     },
     {
-      "ip": "114.119.147.248",
-      "hits": 60,
+      "ip": "34.62.235.215",
+      "hits": 168,
       "status": "NEW"
     },
     {
-      "ip": "114.119.158.45",
-      "hits": 44,
+      "ip": "185.246.175.98",
+      "hits": 153,
       "status": "NEW"
     },
     {
-      "ip": "114.119.157.57",
-      "hits": 43,
+      "ip": "34.159.138.203",
+      "hits": 144,
+      "status": "NEW"
+    },
+    {
+      "ip": "206.204.34.60",
+      "hits": 111,
+      "status": "NEW"
+    },
+    {
+      "ip": "213.188.89.249",
+      "hits": 101,
+      "status": "NEW"
+    },
+    {
+      "ip": "93.180.197.168",
+      "hits": 101,
       "status": "NEW"
     }
   ],
@@ -62,128 +62,88 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 33,
-      "tot": 9109,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
-      "day": 6,
-      "tot": 637,
-      "likes": 3,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/author/chas",
-      "slug": "chas",
-      "day": 4,
-      "tot": 818,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "slug": "the-metabolic-reset-why-cellular-hunger-sharpens-human-cognition",
-      "day": 3,
-      "tot": 108,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/how-halloween-became-an-american-spectacle",
-      "slug": "how-halloween-became-an-american-spectacle",
-      "day": 3,
-      "tot": 285,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/clearing-the-field-why-progress-feels-fragile",
-      "slug": "clearing-the-field-why-progress-feels-fragile",
-      "day": 3,
-      "tot": 34,
+      "day": 71,
+      "tot": 9861,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/2025/04/clean-pots-prevent-soot",
       "slug": "clean-pots-prevent-soot",
-      "day": 2,
-      "tot": 124,
+      "day": 37,
+      "tot": 241,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/01/the-ghost-in-the-system-strategic-architecture-for-california-homelessness-funding-recovery",
-      "slug": "the-ghost-in-the-system-strategic-architecture-for-california-homelessness-funding-recovery",
+      "uri": "/blog/2026/11/the-sinking-aquifer-the-physical-limits-beneath-american-cropland",
+      "slug": "the-sinking-aquifer-the-physical-limits-beneath-american-cropland",
+      "day": 30,
+      "tot": 30,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/author/chas",
+      "slug": "chas",
+      "day": 15,
+      "tot": 870,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/11/the-three-day-pantry-why-supermarket-shelves-run-on-moving-wheels",
+      "slug": "the-three-day-pantry-why-supermarket-shelves-run-on-moving-wheels",
+      "day": 4,
+      "tot": 97,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/08/proposal-for-a-stable-and-fair-economic-system",
+      "slug": "proposal-for-a-stable-and-fair-economic-system",
       "day": 2,
       "tot": 30,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/boom-cars-threatening-our-lives",
-      "slug": "boom-cars-threatening-our-lives",
+      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/vision.html",
+      "slug": "vision.html",
       "day": 2,
-      "tot": 37,
+      "tot": 26,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/04/alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
-      "slug": "alcatraz-island-federal-prison-proposal-a-fiscal-analysis",
+      "uri": "/blog/2023/05/bokator-khmer-martial-arts",
+      "slug": "bokator-khmer-martial-arts",
       "day": 2,
-      "tot": 378,
+      "tot": 148,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/common-elements-of-belief-systems",
-      "slug": "common-elements-of-belief-systems",
+      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
+      "slug": "detailed-guide-to-mount-all-partitions-on-android",
       "day": 2,
-      "tot": 41,
+      "tot": 237,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/07/market-sentiment-indicators",
-      "slug": "market-sentiment-indicators",
+      "uri": "/blog/2026/10/the-affordability-crisis-why-the-capitalism-vs-socialism-debate-is-obsolete",
+      "slug": "the-affordability-crisis-why-the-capitalism-vs-socialism-debate-is-obsolete",
       "day": 2,
-      "tot": 50,
+      "tot": 48,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/why-people-fear-the-power-of-ai",
-      "slug": "why-people-fear-the-power-of-ai",
-      "day": 2,
-      "tot": 114,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/self-determination-overbearing-governments-and-deceptive-media",
-      "slug": "self-determination-overbearing-governments-and-deceptive-media",
+      "uri": "/blog/2023/05/influence-and-control-over-policy",
+      "slug": "influence-and-control-over-policy",
       "day": 2,
       "tot": 32,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/08/what-god-had-in-mind",
-      "slug": "what-god-had-in-mind",
-      "day": 2,
-      "tot": 27,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/07/20-analogies-on-silver-gold-and-fiat-currencies",
-      "slug": "20-analogies-on-silver-gold-and-fiat-currencies",
-      "day": 2,
-      "tot": 20,
       "likes": 0,
       "dislikes": 0
     },
@@ -191,23 +151,15 @@
       "uri": "/blog/archive/2024",
       "slug": "2024",
       "day": 2,
-      "tot": 80,
+      "tot": 87,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/09/structural-friction-when-a-new-law-breaks-an-old-promise",
-      "slug": "structural-friction-when-a-new-law-breaks-an-old-promise",
+      "uri": "/blog/2023/07/extraordinary-psychic-abilities",
+      "slug": "extraordinary-psychic-abilities",
       "day": 2,
-      "tot": 32,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/the-biology-of-empty-buildings-reengineering-the-skyscraper-for-human-survival",
-      "slug": "the-biology-of-empty-buildings-reengineering-the-skyscraper-for-human-survival",
-      "day": 2,
-      "tot": 51,
+      "tot": 39,
       "likes": 0,
       "dislikes": 0
     },
@@ -215,47 +167,95 @@
       "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
       "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
       "day": 2,
-      "tot": 398,
+      "tot": 423,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/12/cicada-3301-unsolved-digital-enigma",
-      "slug": "cicada-3301-unsolved-digital-enigma",
+      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/architecture.html",
+      "slug": "architecture.html",
       "day": 2,
-      "tot": 105,
+      "tot": 39,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/inspiration-for-an-incredible-journey",
-      "slug": "inspiration-for-an-incredible-journey",
+      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
+      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
       "day": 2,
-      "tot": 25,
+      "tot": 174,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/07/investors-wanted-traffic-signal-systems",
-      "slug": "investors-wanted-traffic-signal-systems",
+      "uri": "/blog/2024/08/revolutionary-approaches-to-addressing-homelessness-a-comprehensive-guide-for-tackling-the-plight-of-single-homeless-men-in-small-town-america",
+      "slug": "revolutionary-approaches-to-addressing-homelessness-a-comprehensive-guide-for-tackling-the-plight-of-single-homeless-men-in-small-town-america",
       "day": 2,
-      "tot": 30,
+      "tot": 20,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2025/12/google-antigravity-shift",
-      "slug": "google-antigravity-shift",
+      "uri": "/blog/2023/05/sacred-spirit-yeha-noha",
+      "slug": "sacred-spirit-yeha-noha",
       "day": 2,
-      "tot": 64,
+      "tot": 208,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/topics/podcasts/conceptual_framework/MDI_Engineering_Framework_Plain-Language_Guide.htm",
-      "slug": "MDI_Engineering_Framework_Plain-Language_Guide.htm",
+      "uri": "/blog/2025/12/calculated-bravery",
+      "slug": "calculated-bravery",
       "day": 1,
-      "tot": 6,
+      "tot": 35,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/06/the-impact-of-fading-trust-in-us-dollar-on-global-markets",
+      "slug": "the-impact-of-fading-trust-in-us-dollar-on-global-markets",
+      "day": 1,
+      "tot": 40,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/be-accountable-to-no-one",
+      "slug": "be-accountable-to-no-one",
+      "day": 1,
+      "tot": 29,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2025/11/how-to-eat-real-food-and-lose-weight-a-simple-guide",
+      "slug": "how-to-eat-real-food-and-lose-weight-a-simple-guide",
+      "day": 1,
+      "tot": 35,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/09/epigenetics-the-biological-persistence-of-trauma",
+      "slug": "epigenetics-the-biological-persistence-of-trauma",
+      "day": 1,
+      "tot": 52,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/10/the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
+      "slug": "the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
+      "day": 1,
+      "tot": 22,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/11/purposeful-living-avoiding-assumptions",
+      "slug": "purposeful-living-avoiding-assumptions",
+      "day": 1,
+      "tot": 36,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,94 +263,70 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 8,
+      "hits": 33,
+      "source": "https://www.aocr.org/"
+    },
+    {
+      "hits": 13,
+      "source": "https://www.google.com/"
+    },
+    {
+      "hits": 6,
       "source": "http://[2604:a880:4:1d0::d3:5000]/"
     },
     {
       "hits": 4,
-      "source": "https://www.google.com/"
-    },
-    {
-      "hits": 2,
-      "source": "https://t.co/"
-    },
-    {
-      "hits": 2,
-      "source": "https://ca.search.yahoo.com/"
+      "source": "http://m.facebook.com"
     },
     {
       "hits": 2,
       "source": "https://www.google.com"
     },
     {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/wsman"
+      "hits": 2,
+      "source": "https://duckduckgo.com/"
+    },
+    {
+      "hits": 2,
+      "source": "https://www.facebook.com/"
     },
     {
       "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/wsman"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/auth.html"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/auth.html"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/auth1.html"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/auth1.html"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/sslvpnLogin.html"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/sslvpnLogin.html"
-    },
-    {
-      "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/api/sonicos/auth"
-    },
-    {
-      "hits": 1,
-      "source": "https://[2604:a880:4:1d0::d3:5000]/api/sonicos/auth"
+      "source": "http://[2604:a880:4:1d0::d3:5000]"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 214
+      "visitors": 410
     },
     {
       "country": "BE, Belgium",
-      "visitors": 50
+      "visitors": 89
     },
     {
       "country": "JP, Japan",
-      "visitors": 47
+      "visitors": 66
     },
     {
       "country": "CN, China",
-      "visitors": 46
-    },
-    {
-      "country": "RU, Russian Federation",
-      "visitors": 40
-    },
-    {
-      "country": "SE, Sweden",
-      "visitors": 34
+      "visitors": 48
     },
     {
       "country": "GB, United Kingdom",
-      "visitors": 24
+      "visitors": 29
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 20
+    },
+    {
+      "country": "FR, France",
+      "visitors": 20
+    },
+    {
+      "country": "AU, Australia",
+      "visitors": 15
     },
     {
       "country": "BR, Brazil",
@@ -359,10 +335,6 @@
     {
       "country": "DE, Germany",
       "visitors": 12
-    },
-    {
-      "country": "CA, Canada",
-      "visitors": 10
     }
   ]
 }
