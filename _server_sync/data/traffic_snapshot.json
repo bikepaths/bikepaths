@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-06 06:39:59",
+  "generated_at": "2026-11-07 01:50:02",
   "summary": {
-    "today_human_visits": 900,
-    "total_tracked_articles": 1692,
+    "today_human_visits": 294,
+    "total_tracked_articles": 1696,
     "inquiries_today": 0,
     "top_country": "US, United States"
   },
   "security_offenders": [
     {
-      "ip": "::1",
-      "hits": 348,
+      "ip": "195.178.110.132",
+      "hits": 150,
       "status": "NEW"
     },
     {
       "ip": "35.198.113.100",
-      "hits": 300,
+      "hits": 97,
       "status": "SAFE BOT"
     },
     {
-      "ip": "64.227.36.207",
-      "hits": 208,
+      "ip": "159.223.55.110",
+      "hits": 58,
       "status": "NEW"
     },
     {
-      "ip": "34.59.187.33",
-      "hits": 194,
+      "ip": "::1",
+      "hits": 49,
       "status": "NEW"
     },
     {
-      "ip": "34.62.235.215",
-      "hits": 168,
+      "ip": "167.172.214.96",
+      "hits": 29,
       "status": "NEW"
     },
     {
-      "ip": "185.246.175.98",
-      "hits": 153,
+      "ip": "40.27.120.162",
+      "hits": 29,
       "status": "NEW"
     },
     {
-      "ip": "34.159.138.203",
-      "hits": 144,
+      "ip": "52.167.144.18",
+      "hits": 25,
+      "status": "VERIFIED BOT"
+    },
+    {
+      "ip": "183.238.67.54",
+      "hits": 16,
       "status": "NEW"
     },
     {
-      "ip": "206.204.34.60",
-      "hits": 111,
-      "status": "NEW"
+      "ip": "40.77.167.36",
+      "hits": 14,
+      "status": "VERIFIED BOT"
     },
     {
-      "ip": "213.188.89.249",
-      "hits": 101,
-      "status": "NEW"
-    },
-    {
-      "ip": "93.180.197.168",
-      "hits": 101,
+      "ip": "23.234.90.181",
+      "hits": 11,
       "status": "NEW"
     }
   ],
@@ -62,200 +62,200 @@
     {
       "uri": "/blog/",
       "slug": "blog",
-      "day": 71,
-      "tot": 9861,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/04/clean-pots-prevent-soot",
-      "slug": "clean-pots-prevent-soot",
-      "day": 37,
-      "tot": 241,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/11/the-sinking-aquifer-the-physical-limits-beneath-american-cropland",
-      "slug": "the-sinking-aquifer-the-physical-limits-beneath-american-cropland",
-      "day": 30,
-      "tot": 30,
+      "day": 23,
+      "tot": 10071,
       "likes": 0,
       "dislikes": 0
     },
     {
       "uri": "/blog/author/chas",
       "slug": "chas",
-      "day": 15,
-      "tot": 870,
+      "day": 5,
+      "tot": 883,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/11/the-three-day-pantry-why-supermarket-shelves-run-on-moving-wheels",
-      "slug": "the-three-day-pantry-why-supermarket-shelves-run-on-moving-wheels",
+      "uri": "/blog/2025/04/clean-pots-prevent-soot",
+      "slug": "clean-pots-prevent-soot",
       "day": 4,
-      "tot": 97,
+      "tot": 253,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/08/proposal-for-a-stable-and-fair-economic-system",
-      "slug": "proposal-for-a-stable-and-fair-economic-system",
+      "uri": "/blog/2023/09/homelessness-transcends-political-ideologies",
+      "slug": "homelessness-transcends-political-ideologies",
       "day": 2,
-      "tot": 30,
+      "tot": 6,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/vision.html",
-      "slug": "vision.html",
+      "uri": "/blog/2024/08/protective-instincts-and-their-impact",
+      "slug": "protective-instincts-and-their-impact",
       "day": 2,
-      "tot": 26,
+      "tot": 28,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/bokator-khmer-martial-arts",
-      "slug": "bokator-khmer-martial-arts",
-      "day": 2,
-      "tot": 148,
+      "uri": "/blog/2024/10/the-mechanics-of-belief-and-psychological-resilience",
+      "slug": "the-mechanics-of-belief-and-psychological-resilience",
+      "day": 1,
+      "tot": 38,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/05/detailed-guide-to-mount-all-partitions-on-android",
-      "slug": "detailed-guide-to-mount-all-partitions-on-android",
-      "day": 2,
-      "tot": 237,
-      "likes": 0,
+      "uri": "/blog/2024/08/koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
+      "slug": "koyaanisqatsi-hopi-prophecy-and-sacred-teachings",
+      "day": 1,
+      "tot": 672,
+      "likes": 3,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/the-affordability-crisis-why-the-capitalism-vs-socialism-debate-is-obsolete",
-      "slug": "the-affordability-crisis-why-the-capitalism-vs-socialism-debate-is-obsolete",
-      "day": 2,
-      "tot": 48,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/influence-and-control-over-policy",
-      "slug": "influence-and-control-over-policy",
-      "day": 2,
+      "uri": "/blog/2025/07/echoes-on-the-towpath-a-cyclists-journey-through-new-yorks-canal-legacy",
+      "slug": "echoes-on-the-towpath-a-cyclists-journey-through-new-yorks-canal-legacy",
+      "day": 1,
       "tot": 32,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/archive/2024",
-      "slug": "2024",
-      "day": 2,
-      "tot": 87,
+      "uri": "/blog/2023/06/chapter-3-planning-your-route-factors-to-consider",
+      "slug": "chapter-3-planning-your-route-factors-to-consider",
+      "day": 1,
+      "tot": 26,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/07/extraordinary-psychic-abilities",
-      "slug": "extraordinary-psychic-abilities",
-      "day": 2,
-      "tot": 39,
+      "uri": "/blog/topics/working_papers/fracture_resilience_root.pdf",
+      "slug": "fracture_resilience_root.pdf",
+      "day": 1,
+      "tot": 9,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2026/10/rudyard-lynch-independent-historian-and-public-intellectual",
-      "slug": "rudyard-lynch-independent-historian-and-public-intellectual",
-      "day": 2,
-      "tot": 423,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/topics/systemic_dignity_infrastructure/Reversing_Chronic_Unsheltered_Homelessness/architecture.html",
-      "slug": "architecture.html",
-      "day": 2,
-      "tot": 39,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/google-news-and-the-decline-of-the-online-news-reading-experience",
-      "slug": "google-news-and-the-decline-of-the-online-news-reading-experience",
-      "day": 2,
-      "tot": 174,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/08/revolutionary-approaches-to-addressing-homelessness-a-comprehensive-guide-for-tackling-the-plight-of-single-homeless-men-in-small-town-america",
-      "slug": "revolutionary-approaches-to-addressing-homelessness-a-comprehensive-guide-for-tackling-the-plight-of-single-homeless-men-in-small-town-america",
-      "day": 2,
+      "uri": "/topics/working_papers/fracture_resilience_root.pdf",
+      "slug": "fracture_resilience_root.pdf",
+      "day": 1,
       "tot": 20,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2023/05/sacred-spirit-yeha-noha",
-      "slug": "sacred-spirit-yeha-noha",
-      "day": 2,
-      "tot": 208,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/12/calculated-bravery",
-      "slug": "calculated-bravery",
-      "day": 1,
-      "tot": 35,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2024/06/the-impact-of-fading-trust-in-us-dollar-on-global-markets",
-      "slug": "the-impact-of-fading-trust-in-us-dollar-on-global-markets",
-      "day": 1,
-      "tot": 40,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2023/05/be-accountable-to-no-one",
-      "slug": "be-accountable-to-no-one",
-      "day": 1,
-      "tot": 29,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2025/11/how-to-eat-real-food-and-lose-weight-a-simple-guide",
-      "slug": "how-to-eat-real-food-and-lose-weight-a-simple-guide",
-      "day": 1,
-      "tot": 35,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/09/epigenetics-the-biological-persistence-of-trauma",
-      "slug": "epigenetics-the-biological-persistence-of-trauma",
-      "day": 1,
-      "tot": 52,
-      "likes": 0,
-      "dislikes": 0
-    },
-    {
-      "uri": "/blog/2026/10/the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
-      "slug": "the-porch-vs-the-screen-how-neighborhood-design-built-social-isolation",
+      "uri": "/blog/topics/history/irvthomas.com/thesis/thesis2.html",
+      "slug": "thesis2.html",
       "day": 1,
       "tot": 22,
       "likes": 0,
       "dislikes": 0
     },
     {
-      "uri": "/blog/2024/11/purposeful-living-avoiding-assumptions",
-      "slug": "purposeful-living-avoiding-assumptions",
+      "uri": "/podcast/Working_Paper_Material_Dignity_Infrastructure_(2026).pdf",
+      "slug": "Working_Paper_Material_Dignity_Infrastructure_(2026).pdf",
+      "day": 1,
+      "tot": 4,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2024/10/jay-bhattacharya-intellectual-freedom-and-public-health",
+      "slug": "jay-bhattacharya-intellectual-freedom-and-public-health",
+      "day": 1,
+      "tot": 24,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/01/transformation-modern-mobility",
+      "slug": "transformation-modern-mobility",
       "day": 1,
       "tot": 36,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/08/molding-thoughts-and-censoring-opinions",
+      "slug": "molding-thoughts-and-censoring-opinions",
+      "day": 1,
+      "tot": 71,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/02/the-sovereign-individual",
+      "slug": "the-sovereign-individual",
+      "day": 1,
+      "tot": 70,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/bastiat-hazlitt-belloc-and-the-potus",
+      "slug": "bastiat-hazlitt-belloc-and-the-potus",
+      "day": 1,
+      "tot": 36,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/06/what-happens-when-a-society-abandons-religion",
+      "slug": "what-happens-when-a-society-abandons-religion",
+      "day": 1,
+      "tot": 68,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/fearmongering",
+      "slug": "fearmongering",
+      "day": 1,
+      "tot": 27,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/07/the-trifecta-hexahedron",
+      "slug": "the-trifecta-hexahedron",
+      "day": 1,
+      "tot": 32,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/08/processing-and-understanding-natural-language",
+      "slug": "processing-and-understanding-natural-language",
+      "day": 1,
+      "tot": 22,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/06/urban-astrophysics-how-concrete-infrastructure-amplifies-planetary-radiation",
+      "slug": "urban-astrophysics-how-concrete-infrastructure-amplifies-planetary-radiation",
+      "day": 1,
+      "tot": 49,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2023/05/the-digital-panopticon",
+      "slug": "the-digital-panopticon",
+      "day": 1,
+      "tot": 42,
+      "likes": 0,
+      "dislikes": 0
+    },
+    {
+      "uri": "/blog/2026/02/the-recursive-clock",
+      "slug": "the-recursive-clock",
+      "day": 1,
+      "tot": 64,
       "likes": 0,
       "dislikes": 0
     }
@@ -263,78 +263,62 @@
   "inquiries_today": [],
   "external_sources": [
     {
-      "hits": 33,
+      "hits": 7,
       "source": "https://www.aocr.org/"
-    },
-    {
-      "hits": 13,
-      "source": "https://www.google.com/"
-    },
-    {
-      "hits": 6,
-      "source": "http://[2604:a880:4:1d0::d3:5000]/"
-    },
-    {
-      "hits": 4,
-      "source": "http://m.facebook.com"
-    },
-    {
-      "hits": 2,
-      "source": "https://www.google.com"
     },
     {
       "hits": 2,
       "source": "https://duckduckgo.com/"
     },
     {
-      "hits": 2,
-      "source": "https://www.facebook.com/"
+      "hits": 1,
+      "source": "https://www.bing.com/"
     },
     {
       "hits": 1,
-      "source": "http://[2604:a880:4:1d0::d3:5000]"
+      "source": "http://[2604:a880:4:1d0::d3:5000]/"
     }
   ],
   "geolocation": [
     {
       "country": "US, United States",
-      "visitors": 410
-    },
-    {
-      "country": "BE, Belgium",
-      "visitors": 89
+      "visitors": 104
     },
     {
       "country": "JP, Japan",
-      "visitors": 66
+      "visitors": 27
     },
     {
-      "country": "CN, China",
-      "visitors": 48
-    },
-    {
-      "country": "GB, United Kingdom",
-      "visitors": 29
-    },
-    {
-      "country": "CA, Canada",
-      "visitors": 20
-    },
-    {
-      "country": "FR, France",
-      "visitors": 20
-    },
-    {
-      "country": "AU, Australia",
-      "visitors": 15
+      "country": "BE, Belgium",
+      "visitors": 21
     },
     {
       "country": "BR, Brazil",
-      "visitors": 14
+      "visitors": 16
     },
     {
-      "country": "DE, Germany",
-      "visitors": 12
+      "country": "FR, France",
+      "visitors": 13
+    },
+    {
+      "country": "GB, United Kingdom",
+      "visitors": 11
+    },
+    {
+      "country": "CN, China",
+      "visitors": 10
+    },
+    {
+      "country": "CA, Canada",
+      "visitors": 10
+    },
+    {
+      "country": "RU, Russian Federation",
+      "visitors": 6
+    },
+    {
+      "country": "IN, India",
+      "visitors": 5
     }
   ]
 }
