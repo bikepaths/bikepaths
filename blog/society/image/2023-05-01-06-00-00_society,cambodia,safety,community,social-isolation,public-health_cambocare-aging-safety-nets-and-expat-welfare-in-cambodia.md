@@ -1,4 +1,4 @@
-<!--t CamboCare: Aging, Safety Nets, and Expat Welfare in Cambodia t-->
+<!--t Aging, Safety Nets, and Expat Welfare in Cambodia t-->
 <!--d Why expats and retirees in Cambodia need dependable daily verification networks to bridge the gap between solitary freedom and emergency response. d-->
 <!--tag society,cambodia,safety,community,social-isolation,public-health tag-->
 <!--image https://bikepaths.org/blog/content/images/webp/cambodia_eldercare_community_support.webp image-->
@@ -33,7 +33,7 @@ The value of a regular check-in rests on simple consistency. When an older expat
 
 A good safety network clearly separates daily check-ins from hands-on medical care. A morning text message serves as a tripwire, catching accidents before dehydration or shock set in.
 
-Yet when an injury happens or someone leaves the hospital after surgery, a phone call is no longer enough. To solve this problem, home healthcare has expanded through [METTA Compassionate Care](https://mettahomecare.com), directed by Dr. Laim Len in Siem Reap. When a retiree needs wound dressings, physical therapy walks, or daily medication tracking, Dr. Len and his team of English-speaking caregivers step in. For families living oceans away, this provides continuous bedside nursing and daily photo updates, keeping loved ones safe in their own homes.
+Yet when an injury happens or someone leaves the hospital after surgery, a phone call is no longer enough. To solve this problem, home healthcare has expanded through [METTA Compassionate Care](https://mettahomecare.com), directed by Dr. Laim Len in Siem Reap. When a retiree needs wound dressings, physical therapy walks, or daily medication tracking, Dr. Len Laim and his team of English-speaking caregivers step in. For families living oceans away, this provides continuous bedside nursing and daily photo updates, keeping loved ones safe in their own homes.
 
 **Preserving Dignity in Later Years**
 
