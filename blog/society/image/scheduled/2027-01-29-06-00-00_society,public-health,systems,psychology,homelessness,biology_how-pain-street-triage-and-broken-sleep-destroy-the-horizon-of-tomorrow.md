@@ -1,7 +1,7 @@
 <!--t How Pain, Street Triage, and Broken Sleep Destroy the Horizon of Tomorrow t-->
 <!--d An examination of the biological substrate of reason, showing how cold exposure, chemical self-defense, and sleep fragmentation make bureaucratic welfare impossible. d-->
 <!--tag society,public-health,systems,psychology,homelessness,biology tag-->
-<!--image https://bikepaths.org/blog/content/images/rough_street_sleeper.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/rough_street_sleeper.webp image-->
 
 When your car battery sits outside through a sub-zero winter night, its internal chemistry slows down. The cold liquid thickens, the chemical reactions stall, and the available power drops by half. Nobody blames the car for lacking motivation or demands that the dead battery drive itself to a repair shop. We understand that machines require chemical energy to function, and when that energy is gone, the machine stops working.
 
