@@ -34,7 +34,7 @@ export default async function PostPage({ params }: { params: Promise<{ category:
 
     return (
         <article>
-            <Link href={`/`} className="back-link">← Back to bikepaths pre-publishing review site</Link>
+            <Link href={`/`} className="back-link">← Back to bikepaths Pre-Publish Preview Main Index</Link>
 
             <header style={{ borderBottom: 'none', marginBottom: '1rem', paddingBottom: 0, justifyContent: 'flex-start', flexDirection: 'column', alignItems: 'flex-start' }}>
                 <div style={{ color: 'var(--primary)', textTransform: 'uppercase', fontSize: '0.9rem', marginBottom: '0.5rem', fontWeight: 'bold' }}>
@@ -63,6 +63,10 @@ export default async function PostPage({ params }: { params: Promise<{ category:
             )}
 
             <div className="prose" dangerouslySetInnerHTML={{ __html: contentHtml }} />
+
+            <div style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '1px solid var(--card-border)' }}>
+                <Link href={`/`} className="back-link">← Back to bikepaths Pre-Publish Preview Main Index</Link>
+            </div>
         </article>
     );
 }
