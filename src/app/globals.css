@@ -206,6 +206,19 @@ article img {
 .prose p { margin-bottom: 1.5rem; }
 .prose ul { margin-bottom: 1.5rem; padding-left: 1.5rem; }
 
+.prose a {
+  color: var(--primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.prose a:hover {
+  color: var(--secondary);
+  text-decoration-thickness: 2px;
+}
+
 .schedule-badge {
   display: flex;
   align-items: center;
