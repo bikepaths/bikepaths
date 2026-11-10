@@ -206,6 +206,70 @@ article img {
 .prose p { margin-bottom: 1.5rem; }
 .prose ul { margin-bottom: 1.5rem; padding-left: 1.5rem; }
 
+.schedule-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  background: rgba(59, 130, 246, 0.08);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  border-radius: 8px;
+  padding: 0.85rem 1.15rem;
+  margin: 1.25rem 0 0.5rem;
+  font-size: 0.95rem;
+  color: #93c5fd;
+  line-height: 1.4;
+}
+
+.schedule-badge strong {
+  color: #ffffff;
+}
+
+.prose pre {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 1.25rem;
+  overflow-x: auto;
+  margin: 1.75rem 0;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  white-space: pre;
+}
+
+.prose code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-size: 0.9em;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+}
+
+.prose pre code {
+  background: transparent;
+  padding: 0;
+  font-size: inherit;
+  white-space: pre;
+  display: block;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+}
+
+.prose th, .prose td {
+  border: 1px solid var(--card-border);
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+.prose th {
+  background: rgba(255, 255, 255, 0.05);
+  font-weight: 600;
+}
+
 .back-link {
   display: inline-block;
   margin-bottom: 2rem;

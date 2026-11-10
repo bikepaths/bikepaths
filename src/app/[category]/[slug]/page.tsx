@@ -23,9 +23,14 @@ export default async function PostPage({ params }: { params: Promise<{ category:
     }
 
     const processedContent = await remark()
-        .use(html)
+        .use(html, { sanitize: false })
         .process(post.content);
     const contentHtml = processedContent.toString();
+
+    const postDate = post.date ? new Date(post.date + 'T06:00:00') : null;
+    const now = new Date();
+    const diffDays = postDate ? Math.ceil((postDate.getTime() - now.getTime()) / (1000 * 60 * 60 * 24)) : 0;
+    const isScheduled = diffDays > 0;
 
     return (
         <article>
@@ -37,9 +42,20 @@ export default async function PostPage({ params }: { params: Promise<{ category:
                 </div>
                 <h1>{post.title}</h1>
                 {post.description && <p style={{ fontSize: '1.2rem', opacity: 0.8, fontStyle: 'italic' }}>{post.description}</p>}
-                <div style={{ marginTop: '1rem', opacity: 0.6, fontSize: '0.9rem' }}>
-                    {post.date ? format(new Date(post.date), 'MMMM d, yyyy') : ''}
-                </div>
+                
+                {isScheduled && postDate ? (
+                    <div className="schedule-badge">
+                        <span className="badge-icon" style={{ fontSize: '1.25rem' }}>⏳</span>
+                        <div>
+                            <div><strong>Pre-Publish Preview</strong> &bull; Scheduled for release in <strong>{diffDays} {diffDays === 1 ? 'day' : 'days'}</strong></div>
+                            <div style={{ fontSize: '0.85rem', opacity: 0.85, marginTop: '0.2rem' }}>Target Date: {format(postDate, 'EEEE, MMMM d, yyyy')} at 6:00 AM</div>
+                        </div>
+                    </div>
+                ) : (
+                    <div style={{ marginTop: '1rem', opacity: 0.6, fontSize: '0.9rem' }}>
+                        {postDate ? format(postDate, 'MMMM d, yyyy') : ''}
+                    </div>
+                )}
             </header>
 
             {post.image && (
