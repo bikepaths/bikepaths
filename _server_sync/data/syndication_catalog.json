@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "threshold_views": 1516,
+    "threshold_views": 1519,
     "total_qualifying": 180,
     "generated_at": "2026-10-27T16:42:30.128156Z",
-    "last_syndicated_at": "2026-11-09T19:00:24.395066+00:00",
+    "last_syndicated_at": "2026-11-10T19:00:39.707146+00:00",
     "interval_hours": 24,
     "total_published_articles": 727,
     "target_pool_size": 182
@@ -158,11 +158,11 @@
       "canonical_url": "https://bikepaths.org/blog/2024/10/truth-exposed-why-america-is-not-a-democracy",
       "relative_path": "systems/image/2024-10-14-12-04-00_systems,politics,republic,democracy,governance_truth-exposed-why-america-is-not-a-democracy.md",
       "views": 3202,
-      "syndicated": false,
-      "syndicated_at": null,
+      "syndicated": true,
+      "syndicated_at": "2026-11-10T19:00:39.707146+00:00",
       "wayback_url": null,
-      "indexnow_status": null,
-      "mastodon_url": null,
+      "indexnow_status": "Submitted (HTTP 200)",
+      "mastodon_url": "https://mastodon.social/@bikepaths/117593685327917291",
       "last_error": null
     },
     {
