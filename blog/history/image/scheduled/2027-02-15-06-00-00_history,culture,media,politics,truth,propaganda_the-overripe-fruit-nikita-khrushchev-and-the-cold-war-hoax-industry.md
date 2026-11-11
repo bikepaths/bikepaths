@@ -1,7 +1,7 @@
 <!--t The Overripe Fruit: Nikita Khrushchev and the Cold War Hoax Industry t-->
 <!--d How a fabricated United Nations speech attributed to Nikita Khrushchev revealed the domestic fears of American politics rather than Soviet strategy. d-->
 <!--tag history,culture,media,politics,truth,propaganda tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/vintage_typewriter_and_photocopied_pamphlet.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/khrushchev_kennedy.webp image-->
 
 Every election season, an ominous warning from the Cold War reappears on social media feeds and printed fliers. The text claims to record an address from Soviet Premier Nikita Khrushchev at the United Nations on September 29, 1959. In the passage, the Soviet leader warns that Americans are too trusting to see their own decline. He predicts that Moscow will feed citizens small bites of socialism until the country falls like overripe fruit into communist hands.
 
