@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "threshold_views": 1519,
+    "threshold_views": 1525,
     "total_qualifying": 180,
     "generated_at": "2026-10-27T16:42:30.128156Z",
-    "last_syndicated_at": "2026-11-10T19:00:39.707146+00:00",
+    "last_syndicated_at": "2026-11-11T19:00:23.200174+00:00",
     "interval_hours": 24,
-    "total_published_articles": 727,
+    "total_published_articles": 728,
     "target_pool_size": 182
   },
   "catalog": [
@@ -180,11 +180,11 @@
       "canonical_url": "https://bikepaths.org/blog/2023/08/train-hopping-in-history",
       "relative_path": "history/image/2023-08-01-10-33-09_history,transportation,economics,culture,risk_train-hopping-in-history.md",
       "views": 3130,
-      "syndicated": false,
-      "syndicated_at": null,
-      "wayback_url": null,
-      "indexnow_status": null,
-      "mastodon_url": null,
+      "syndicated": true,
+      "syndicated_at": "2026-11-11T19:00:23.200174+00:00",
+      "wayback_url": "https://web.archive.org/web/20261111190006/https://bikepaths.org/blog/2023/08/train-hopping-in-history",
+      "indexnow_status": "Submitted (HTTP 200)",
+      "mastodon_url": "https://mastodon.social/@bikepaths/117599346557328254",
       "last_error": null
     },
     {
