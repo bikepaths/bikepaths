@@ -54,7 +54,7 @@ The modern untethered architecture eliminates public router port forwarding and 
 The ASCII diagram below illustrates the network path:
 
 <pre style="overflow-x: auto;"><code>+-------------------------------------------------------------+
-|             Mobile Device (Android / iOS / iPadOS)          |
+|             Mobile Device (Android Phone / Tablet)          |
 |    Herdr Client App: Inbox Triage, Live Maps & Compose      |
 +-------------------------------------------------------------+
                                |
@@ -94,13 +94,16 @@ To ensure agent sessions persist across system reboots and user logouts, configu
 <pre style="overflow-x: auto;"><code>mkdir -p ~/.config/systemd/user
 cat &lt;&lt; 'EOF' &gt; ~/.config/systemd/user/herdr-core.service
 [Unit]
-Description=Herdr Terminal Runtime Daemon
+Description=Herdr Terminal Runtime Daemon (herdr-core)
 After=network.target
 
 [Service]
-ExecStart=/home/user0/.local/bin/herdr-core daemon
+Type=simple
+ExecStart=/home/user0/.local/bin/herdr-core serve
 Restart=always
-RestartSec=5
+RestartSec=3
+Environment=PATH=/home/user0/.local/bin:/usr/local/bin:/usr/bin:/bin
+WorkingDirectory=/home/user0
 
 [Install]
 WantedBy=default.target
@@ -119,7 +122,7 @@ Prevent unattended Linux hosts from entering sleep states during overnight agent
 <pre style="overflow-x: auto;"><code>sudo systemctl mask sleep.target suspend.target
 </code></pre>
 
-**Section 5: Establishing Tailscale Mesh Transport**
+**Section 5: Establishing Host Tailscale Mesh Transport**
 
 Herdr connects your mobile device to remote hosts over standard SSH or Tailscale. Tailscale provides the simplest, most secure connection because it eliminates firewall adjustments and port forwarding.
 
@@ -139,13 +142,34 @@ Tailscale SSH manages authentication keys automatically through your tailnet ide
 
 **PART III: THE MOBILE SUPERVISION WORKFLOW**
 
-**Section 6: Deploying the Herdr Mobile App**
+**Section 6: Android Phone and Tablet Onboarding**
 
-Install Herdr on your Android phone, iPhone, or iPad from the official application store or direct release package.
+Setting up an Android device for mobile agent orchestration requires preparing the network link, installing the client, and pairing with your workstation.
 
-Launch the app and tap "Add Machine". Enter the Tailscale hostname or private IP address of your remote workstation. Because Tailscale SSH is active, the app authenticates securely and displays your remote machine in the sidebar.
+*Step 1: Android Tailscale Configuration*
 
-*The Agent Inbox*
+Before launching Herdr, join your mobile device to your private network:
+1. Open the Google Play Store or F-Droid on your Android phone or tablet.
+2. Search for and install the official Tailscale application.
+3. Open Tailscale and sign in using the identical identity provider and account used on your remote workstation.
+4. Toggle the main connection switch to active. Grant Android permission to establish the local VPN profile.
+5. In the Tailscale device list, confirm that your workstation appears online with an assigned 100.x address.
+
+*Step 2: Installing Herdr on Android*
+
+Install the client application:
+1. Visit https://herdr.dev/download on your mobile device, or download the package directly from the Google Play Store.
+2. Launch Herdr. On its initial startup screen, you can select "Try the demo" to explore a simulated fleet, or tap "Add Machine" to link your physical workstation.
+3. Herdr automatically inspects your Tailscale environment and suggests your active workstation by hostname. Select your host from the list.
+4. Because Tailscale SSH is enabled on the remote machine, the client establishes an authenticated link immediately without manual cryptographic key distribution.
+
+*Step 3: Smartphone vs Tablet Form Factors*
+
+Herdr adapts dynamically across mobile hardware dimensions:
+* On smartphones, the interface uses a focused single-column layout. The Agent Inbox lists active processes vertically, prioritizing tasks that require human authorization. Tapping any agent opens its terminal full-screen, with floating access to navigation gestures and the Compose Sheet.
+* On tablets and foldable devices (such as a Lenovo Tab P11 or Samsung Galaxy Fold), Herdr presents a dual-pane workstation interface. The complete machine directory and agent list remain permanently visible on the left side of the display. The active terminal session, live multi-pane map, and compose editor render across the wider right canvas. This allows continuous side-by-side oversight without switching views.
+
+*Step 4: The Agent Inbox and Triage*
 
 The primary screen in Herdr Mobile is the Agent Inbox. Rather than presenting a grid of blank terminals, the inbox organizes all active tasks across all your machines by their immediate operational status:
 * Needs You: The agent encountered an ambiguous requirement, requires permission to run a sensitive tool, or encountered a build failure.
@@ -165,7 +189,11 @@ Tap the compose icon on any active terminal to expand a dedicated multi-line edi
 * Attach screenshot images directly from your mobile gallery.
 * Dictate instructions using on-device voice recognition.
 
-When using speech-to-text, Herdr processes voice audio locally on your phone without sending recordings to third-party cloud servers. Once your prompt is complete, tap Send. Herdr delivers the text, code blocks, and context into the agent session as a single unified paste followed by an enter keystroke.
+*Local Offline Voice Dictation*
+
+When you tap the microphone icon in the Compose Sheet for the first time, Herdr downloads a compact on-device speech model. All subsequent voice dictation processes entirely on your mobile processor. No spoken audio streams to external cloud services, preserving strict conversational privacy.
+
+Once your prompt is complete, tap Send. Herdr delivers the text, code blocks, and context into the agent session as a single unified paste followed by an enter keystroke.
 
 *Live Visual Pane Maps*
 
@@ -227,13 +255,14 @@ When a mobile session fails to update or an agent stops responding, use the foll
 
 *Runbook A: Remote Machine Unreachable in Mobile App*
 
-1. Verify Tailscale connectivity on the mobile handset by toggling the Tailscale connection in your phone settings.
-2. Verify host Tailscale status from a terminal:
+1. Verify Tailscale connectivity on the mobile handset by checking the Tailscale connection toggle in your phone status bar.
+2. Confirm the host machine appears active inside your Tailscale mobile device list.
+3. Verify host Tailscale status from a terminal:
 
 <pre style="overflow-x: auto;"><code>sudo tailscale status
 </code></pre>
 
-3. Ensure the *herdr-core* daemon is running:
+4. Ensure the *herdr-core* daemon is running:
 
 <pre style="overflow-x: auto;"><code>systemctl --user status herdr-core.service
 </code></pre>
