@@ -1,7 +1,7 @@
 <!--t Radio Waves Over Cellular Rent: LoRa Hardware, Open Mesh, and Emerging Market Sovereignty t-->
 <!--d How hardware makers across developing nations replace recurring cellular data contracts with long-range radio mesh and frugal engineering. d-->
 <!--tag technology,infrastructure,tools,sovereignty,community,autonomy tag-->
-<!--image https://bikepaths.org/blog/content/images/webp/cambodia_electronics_workbench_window.webp image-->
+<!--image https://bikepaths.org/blog/content/images/webp/modern_hardware_laboratory_workbench.webp image-->
 <!--exempt allow_parentheses exempt-->
 
 Across the workshops of Bengaluru and the sunlit canal markets of Southeast Asia, a quiet hardware movement is taking shape. Young inventors sit at wooden benches covered with circuit boards and spools of copper wire. They work beside open windows as traffic rumbles through the streets below. They build farm monitors and emergency alert switches to solve pressing physical crises in their own neighborhoods. Yet beneath their creative work lies an invisible commercial trap that suffocates local hardware innovation throughout the developing world.
